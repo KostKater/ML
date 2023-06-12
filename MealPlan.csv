@@ -1,4 +1,4 @@
-Nama Makanan,Deskripi,Bahan Makanan,Bahan Dasar,Kalori,Protein,Lemak,Karbohidrat,Kehalalan,Resep,Harga,Alergi
+Nama Makanan,Deskripi,Bahan Makanan,Bahan Dasar,Kalori,Protein,Lemak,Karbohidrat,Kehalalan,Resep,Harga,Alergi,Gambar
 Babi kecap kentang," Sejenis hidangan dengan potongan daging babi yang dimasak dengan kecap manis yang kaya rasa. Disajikan dengan kentang yang lezat, memberikan kombinasi yang sempurna antara gurih dan manis.","200 gr daging babi (cincang halus) 3 buah kentang (potong dadu)
 1 buah wortel (potong dadu)
 1 sdm kecap m anis
@@ -11,7 +11,7 @@ Garam,lada, kaldu jamur,
 Daun bawang","babi, kentang, wortel, kecap manis, kecap asin, saos tiram, gula, bawang putih, bawang merah, Garam, lada, kaldu jamur, Daun bawang",200,19,10,15,0,"Langkah 1
 Siapkan wajan dan minyak jika wajan sudah panas masukkan bawang merah dan putih ya yang sudah di potong aduk hingga harum masukkan daging babi yang sudah di cincang aduk2 masukkan wortel tumis -+ semenit setelah itu masukkan kentang aduk rata kembali
 Langkah 2
-Tambahkan 200ml air dengan kecap asin, kecap manis, saos tiram, lada, garem, gula test rasa jika rasa sudah pas tutup wajan biarkan hingga air menyusut jika sudah mulai menyusut tambahkan potongan daun bawang dan siap di hidangkan","Rp40,000",Kedelai
+Tambahkan 200ml air dengan kecap asin, kecap manis, saos tiram, lada, garem, gula test rasa jika rasa sudah pas tutup wajan biarkan hingga air menyusut jika sudah mulai menyusut tambahkan potongan daun bawang dan siap di hidangkan","Rp40,000",Kedelai,https://drive.google.com/file/d/1ayIhjPYr36i5gCCMYPMZowYUE2XiycoN/view?usp=sharing
 Babi goreng saus inggris,"Makanan ini terdiri dari daging babi yang digoreng dengan sempurna hingga renyah di luar dan tetap juicy di dalam. Disajikan dengan saus Inggris yang memberikan sentuhan gurih dan sedikit asam, menghasilkan cita rasa yang menggugah selera.","300 gr babi paha
 1 buah Bawang bombay
 5 siung Bawang putih
@@ -28,7 +28,7 @@ Lumuri tepung terigu, mix dengan tepung beras dan maizena lalu goreng (2x penggo
 Langkah 3
 Siapkan bumbu sauce, tumis bombay bawang putih, sauce
 Lalu babi goreng.. mix
-","Rp50,000",Kedelai
+","Rp50,000",Kedelai,https://drive.google.com/file/d/1-89ArezxBdg8dUHTim8CByHieCpmFttY/view?usp=sharing
 Babi panggang endes,Daging babi panggang yang juicy dan lezat dengan cita rasa yang menggoda selera.,"2 kg daging samcan
 secukupnya Sea salt
 secukupnya Garam meja
@@ -74,7 +74,7 @@ Jika cabai dan bawang sudah terlihat sedikit layu, angkat dan pindahkan ke cobek
 Langkah 14
 Haluskan cabai dan bawang. Tambahkan garam dan kaldu secukupnya.
 Langkah 15
-Terakhir tambahkan gula jawa halus.","Rp60,000",0
+Terakhir tambahkan gula jawa halus.","Rp60,000",0,https://drive.google.com/file/d/1LTLUlN8NQ0lj3BPt9HZFB7JH_KCDWzox/view?usp=sharing
 Babi Orak Arik,Hidangan orak-arik dengan daging babi dan sayuran segar yang memberikan rasa yang enak dan lezat.,"350 gr babi paha
 Bawang merah cincang
 Bawang putih cincang
@@ -85,7 +85,7 @@ Tiriskan sebagian minyak goreng babi uraikan, masukkan bawang bawangan
 Langkah 3
 Tambahi saus tiram, kecap dark soy sauce, garam, merica, arak masak sedikit (optional), daun bawang
 Langkah 4
-Sajikan dengan nasi hangat, abon babi, telur setengah matang","Rp30,000",0
+Sajikan dengan nasi hangat, abon babi, telur setengah matang","Rp30,000",0,https://drive.google.com/file/d/1IVda0CY2xdHhuALYXiTtLbnPwQf7sJQX/view?usp=sharing
 Babi kecap Tauco,"Daging babi dimasak dengan kecap manis dan tauco, menghasilkan hidangan yang gurih dan menggugah selera.","1/2 kg daging samcan
 3 lbr daun salam
 1 bh bunga lawang
@@ -110,7 +110,7 @@ Tambahkan 1 gelas air, masukan, jahe bubuk, merica dan babi yg sudah di potong p
 Langkah 4
 Masukan semua jenis kecap dan aduk hingga rata, tambahkan air tunggu hingga daging empuk
 Langkah 5
-Koreksi rasa dan hidangkan","Rp40,000","Kedelai,Seafood"
+Koreksi rasa dan hidangkan","Rp40,000","Kedelai,Seafood",https://drive.google.com/file/d/1uYQrKIlpsyI3o_S_gvKq38kXKNmbUbpP/view?usp=sharing
 Cah siomak lapcheong,"Sayuran yang segar dicampur dengan lapcheong babi, menciptakan hidangan cah yang lezat dan mengenyangkan.","1 ikat siomak
 1 sdt bawang putih
 1 buah sosis babi
@@ -124,7 +124,7 @@ Iris tipis lapcheong, tumis dengan bawang putih sampai harum lalu angkat
 Langkah 3
 Masukkan siomak beri garam merica dan gula. Masak sebentar lalu angkat
 Langkah 4
-Beri taburan bawang putih dan lapcheong","Rp35,000",0
+Beri taburan bawang putih dan lapcheong","Rp35,000",0,https://drive.google.com/file/d/1eElqGItj1FCaUd99KNJSa0A3F6mGiUpV/view?usp=sharing
 Pork Belly Cabai Garam,"Daging perut babi yang digoreng hingga renyah dengan cabai dan garam, memberikan cita rasa yang gurih dan pedas.","150 gr pork belly
 75 gr bawang merah utuh
 2 siung bawang putih slice
@@ -139,7 +139,7 @@ Terus aduk sampai pork belly mengecil, angkat
 Langkah 2
 Masukan bawang merah utuh, setelah matang masukan bawang putih. Lalu masukan pork belly, jahe, Cabai.
 Langkah 3
-Masukan lada, kaldu jamur dan saus tiram. Aduk2 sebentar.","Rp50,000",Gandum
+Masukan lada, kaldu jamur dan saus tiram. Aduk2 sebentar.","Rp50,000",Gandum,https://drive.google.com/file/d/1yBYcdh7HkKd6FLPT0NeRB143s5zbivRC/view?usp=sharing
 Ayam B2 Tahu bumbu bali,"Potongan ayam dan tahu yang disajikan dengan bumbu khas Bali, menghasilkan hidangan yang lezat dan autentik.","250 gr ayam fillet
 100 gr daging babi
 2 bh tahu
@@ -173,7 +173,7 @@ Masukkan daging, tunggu sampai daging berubah warna lalu masukkan garam,gula pas
 Langkah 6
 Masukkan tahu, masak hingga air mengental dan agak menyusut.
 Langkah 7
-Matikan kompor, tuang ke dalam wadah..siap disantap dengan nasi hangat.","Rp35,000",Kedelai
+Matikan kompor, tuang ke dalam wadah..siap disantap dengan nasi hangat.","Rp35,000",Kedelai,https://drive.google.com/file/d/1fmHi9soU9FtSOxxnREzh7_JkSjmaHll7/view?usp=sharing
 Tim telur topping babi cincang,"Telur yang dikukus dengan topping daging babi cincang, memberikan hidangan yang lezat dan beragam tekstur.","3 butir telur, kocok lepas dan saring
 200 ml air mineral
 bumbu : garam, merica, royco ayam
@@ -193,7 +193,7 @@ Aduk hingga berubah warna
 Langkah 4
 Masukkan semua bumbu. test rasa
 Langkah 5
-Jika sudah matang, taburkan diatas tim telur beserta minyaknya agar lebih gurih","Rp45,000","Telur,Kedelai"
+Jika sudah matang, taburkan diatas tim telur beserta minyaknya agar lebih gurih","Rp45,000","Telur,Kedelai",https://drive.google.com/file/d/1w8HzeIaLmWGgaskvW3ZCI3-9pSgYdUup/view?usp=sharing
 Babi kecap simple,"Daging babi dimasak dengan kecap manis, menciptakan hidangan sederhana namun lezat dan gurih.","1/4 kg babi
 Bahan yang dihaluskan:
 4 siung bawang putih
@@ -217,7 +217,7 @@ Panaskan minyak goreng lalu tumis bumbu halus,masukan jahe geprek dan daun salam
 Langkah 3
 Masukan garam,gula,merica,kaldu jamur dan saus sambal aduk rata sampai air mendidih lalu masukan kecap manis,jika ingin pedas tambahkan cabe rawit aduk kembali sambil biarkan mendidih dan ditest rasa
 Langkah 4
-Jika air sudah sedikit menyusut,daging sudah matang dan rasa sudah pas,babi kecap siap dihidangkan.selamat mencoba","Rp40,000",Kedelai
+Jika air sudah sedikit menyusut,daging sudah matang dan rasa sudah pas,babi kecap siap dihidangkan.selamat mencoba","Rp40,000",Kedelai,https://drive.google.com/file/d/1aqSftPSJ9ZnfPWSMXJwit9DLL78HDFJs/view?usp=sharing
 Braised Pork Belly,"Daging perut babi yang dimasak dengan bumbu hingga empuk dan lezat, menciptakan hidangan yang kaya rasa.",Daun bawang,"Daun, bawang",400,20,35,5,0,"Langkah 1
 Campurkan pork belly, jahe dan bawang putih aduk rata
 Langkah 2
@@ -227,7 +227,7 @@ Masukan gula batu, aduk rata sampai meleleh, masukan kecap asin, kecap manis, mi
 Langkah 4
 Setelah mendidih, masak dengan api kecil masak selama 1 jam, sesekali aduk.
 Langkah 5
-Setelah meresap. Besarkan api, aduk terus selama 1-2 mnt agar kuah mengental","Rp50,000",0
+Setelah meresap. Besarkan api, aduk terus selama 1-2 mnt agar kuah mengental","Rp50,000",0,https://drive.google.com/file/d/1GQcWCx_CxlOJbzcYzuUrygkCAnIGwhBg/view?usp=sharing
 "Babi Goreng Kunyit Ketumbar
 ","Potongan daging babi yang digoreng dengan kunyit dan ketumbar, memberikan hidangan yang harum dan menggugah selera.","Marinasi :
 500 gr Pork Belly campur Kapsim (potong2 agak kecil)
@@ -247,7 +247,7 @@ Beri perasan jeruk nipis dan garam ke daging yg sudah dipotong2, campur remas2. 
 Langkah 2
 Panaskan wajan, masukkan marinasi daging, aduk2 sebentar sampai daging berubah warna. Lalu beri secukupnya air (kurang lebih sampai daging hampir terendam. Masak sampai mendidih, lalu kecilkan api. Tutup wajan. Masak sampai air susut habis.
 Langkah 3
-Setelah air susut habis dan daging cukup empuk, tuang secukupnya minyak goreng. Tidak usah terlalu banyak karena cara goreng nya bukan di deep fry. Lebih ke arah tumis. Tumis sampai daging kecoklatan. Angkat dan sajikan.","Rp40,000",0
+Setelah air susut habis dan daging cukup empuk, tuang secukupnya minyak goreng. Tidak usah terlalu banyak karena cara goreng nya bukan di deep fry. Lebih ke arah tumis. Tumis sampai daging kecoklatan. Angkat dan sajikan.","Rp40,000",0,https://drive.google.com/file/d/1h2mqwf5NHlEZGoocLjYMJHOQTuQWDLnw/view?usp=sharing
 "Pork Udon ala Vietnam, kuah manis gurih enak banget!.",kuah manis gurih enak banget!: Udon dengan daging babi dalam kuah manis gurih ala Vietnam yang menghadirkan kenikmatan tak terlupakan,"400 gr pork belly
 2 buah wortel, potong2
 2 porsi udon
@@ -277,7 +277,7 @@ Langkah 4
 Rebus udon sampai lunak (3 menit) lalu pindahkan ke mangkok. Beri topping daging babi, selada, telur terakhir siram kuah ke udon
 Langkah 5
 Sajikan dengan sambal soto atau sambal bangkok. Enang bangettt
-","Rp45,000","Telur,Kedelai,Seafood"
+","Rp45,000","Telur,Kedelai,Seafood",https://drive.google.com/file/d/1SD41AUNVrfxkxG-jxPYv2okzMhCc39Ht/view?usp=sharing
 Bihun goreng babi,"Bihun yang digoreng dengan potongan daging babi, menghasilkan hidangan mie yang lezat dan mengenyangkan.","2 lbr bihun jagung (sy pakai merk Bijag)
 3 bh wortel uk sedang
 1/4 bh kubis
@@ -315,7 +315,7 @@ Tambahkan kaldu jamur/garam dan gulpas,test rasa, jika sudah oke rasanya baru ma
 Langkah 9
 Masak hingga air surut dan sampai sayuran tercampur rata dengan bihunnya. Test rasa lagi, kalau ada yg kurang pas bisa ditambah bumbu lainnya.
 Langkah 10
-Jika sudah pas rasanya,matikan kopor, tuang dalam wadah, sajikan selagi hangat.","Rp35,000","Kedelai,Seafood"
+Jika sudah pas rasanya,matikan kopor, tuang dalam wadah, sajikan selagi hangat.","Rp35,000","Kedelai,Seafood",https://drive.google.com/file/d/132BGFY1FntuVOlB4Xp6kgWFSVMvckUJg/view?usp=sharing
 Babi Tauco Rawit,"Daging babi dimasak dengan tauco dan cabai rawit, memberikan hidangan yang pedas dan gurih.","Marinasi :
 300 gr Pork Belly (iris2)
 200 gr Kapsim Babi (iris2)
@@ -347,7 +347,7 @@ Masukkan irisan daging yg telah di marinasi dengan merica. Aduk2 masak sampai be
 Langkah 3
 Masukkan kecap manis, aduk, lalu masukkan tauco. Tumis sampai wangi lalu beri secukupnya air. Beri sisa bumbu2 lalu TEST RASA! Jangan terlalu asin krn air akan disusutkan sedikit. Kalau suka lebih berkuah disesuaikan saja ya bumbu2 dan jumlah air nya. Masak sampai mendidih.
 Langkah 4
-Lalu tutup wajan dan kecilkan api sampai paling kecil. Sesekali di check ya sampai daging empuk, di tengah2 buang daun salam nya agar tidak terlalu kuat bau nya. Kalau air mulai menyusut dan daging belum empuk, tambah lagi air. Ulangi proses sampai keempukan daging yg diinginkan. Setelah daging mulai empuk, masukkan cabe rawit utuh, tutup lg wajan. Setelah kematangan pas, test rasa terakhir. Angkat dan sajikan.","Rp40,000","Kedelai,Seafood,udang"
+Lalu tutup wajan dan kecilkan api sampai paling kecil. Sesekali di check ya sampai daging empuk, di tengah2 buang daun salam nya agar tidak terlalu kuat bau nya. Kalau air mulai menyusut dan daging belum empuk, tambah lagi air. Ulangi proses sampai keempukan daging yg diinginkan. Setelah daging mulai empuk, masukkan cabe rawit utuh, tutup lg wajan. Setelah kematangan pas, test rasa terakhir. Angkat dan sajikan.","Rp40,000","Kedelai,Seafood,udang",https://drive.google.com/file/d/1ZDLPNXiKoYcN1565aE_qX_S8FePVXiOf/view?usp=sharing
 Sup Iga Babi (B2)," Sup dengan potongan iga babi yang lezat dan gurih, memberikan sensasi kenikmatan yang memanjakan lidah.","1/4 kg Iga babi
 Daun bawang + Seledri (iris potong)
 2 batang sereh (memar)
@@ -364,7 +364,7 @@ Daging iga babi di rebus lalu buang air kemudian rebus kembali dengan air hingga
 Langkah 2
 Jika air rebusan sudah mendidih, masukkan bumbu halus, lengkuas + sereh
 Langkah 3
-Rebus sampai mendidih dan koreksi rasa dan masukkan daun bawang seledri. Jika sudah angkat dan hidangkan.","Rp35,000",Kacang
+Rebus sampai mendidih dan koreksi rasa dan masukkan daun bawang seledri. Jika sudah angkat dan hidangkan.","Rp35,000",Kacang,https://drive.google.com/file/d/1l--Y1Lu6YIFr1HI_GN1uvnrRoGFsQFBk/view?usp=sharing
 Sate babi pedas manis,"Potongan daging babi yang ditusuk dan dipanggang dengan bumbu pedas dan manis, menciptakan hidangan sate yang menggugah selera.
 
 
@@ -405,7 +405,7 @@ Campur bumbu dengan daging, aduk rata. Simpan dalam kulkas semalaman.
 Langkah 6
 Rendam tusukan sate kurleb 10-15 menit. Tiris dan mulai susun tusuk, lakukan hingga habis.
 Langkah 7
-Panggang di teflon / grill pan sambil dioles sisa bumbu hingga matang. Sajikan","Rp30,000",Kedelai
+Panggang di teflon / grill pan sambil dioles sisa bumbu hingga matang. Sajikan","Rp30,000",Kedelai,https://drive.google.com/file/d/1tH-E0dgZgN_z3rQe88fINd9jx6CA1GpV/view?usp=sharing
 Sup Babi Kacang Merah,Sup kaya rasa dengan daging babi dan kacang merah yang lembut dan gurih,"180 gram daging babi, iris sesuai selera
 200 gram kacang merah jumbo (yang agak putih)
 1 buah wortel
@@ -426,7 +426,7 @@ Jika sudah mendidih masukkan kacang merah & daging, rebus sampai agak empuk. Bua
 Langkah 3
 Masukkan bawang merah & bawang putih tadi, tambahkan garam, gula, lada, dan kaldu jamur. Masukkan wortel, lalu koreksi rasa.
 Langkah 4
-Tes apakah wortel sudah empuk, lalu masukkan daun jeruk (boleh diremas² atau digunting²), didihkan lagi sekitar 5 menit. Matikan api dan tunggu 5-10 menit, kuah siap dihidangkan. Wanginya aduhai bikin laper 😄","Rp40,000",Kacang
+Tes apakah wortel sudah empuk, lalu masukkan daun jeruk (boleh diremas² atau digunting²), didihkan lagi sekitar 5 menit. Matikan api dan tunggu 5-10 menit, kuah siap dihidangkan. Wanginya aduhai bikin laper 😄","Rp40,000",Kacang,https://drive.google.com/file/d/1Qe8d6nERKcMOni3gZbaf4kwfMol0Zt1h/view?usp=sharing
 Tumis Rebung Samcan,Tumisan segar dengan rebung dan samcan babi yang menggoda selera dengan tekstur renyah.,"Marinasi :
 300 gr Pork Belly (iris tipis2)
 1 tbsp Kecap Ikan
@@ -460,7 +460,7 @@ Masukkan samcan yg telah di marinasi, tumis sampai kecoklatan. Lalu masukkan reb
 Langkah 3
 Beri secukupnya air lalu masukkan sisa bumbu2. Test rasa! Setelah rasa pas, kecilkan api lalu tutup wajan masak sampai samcan empuk dan rebung matang. Angkat dan sajikan.
 Langkah 4
-NOTE : kalau suka lebih kering tidak berkuah, air beserta bumbu2 dan kecap2 dikurangi takarannya ya agar tidak keasinan!!!","Rp35,000","Kedelai,Seafood,udang"
+NOTE : kalau suka lebih kering tidak berkuah, air beserta bumbu2 dan kecap2 dikurangi takarannya ya agar tidak keasinan!!!","Rp35,000","Kedelai,Seafood,udang",https://drive.google.com/file/d/1nsmHt4iccj3-vYCNHt2CrBewxLRFKG6v/view?usp=sharing
 Tumis kentang maling,Tumisan kentang dengan daging babi maling yang renyah dan beraroma sedap.,"1/2 kaleng maling, potong dadu
 2 buah kentang ukuran kecil, potong dadu
 1 buah bawang bombay kecil, cincang
@@ -473,7 +473,7 @@ secukupnya kaldu bubuk, garam, lada
 2 batang daun bawang, iris serong
 3 sdm kecap manis
 secukupnya kaldu bubuk, garam, lada
-100 ml air","Rp30,000",Kedelai
+100 ml air","Rp30,000",Kedelai,https://drive.google.com/file/d/152lDWFYzAGQy73kopJPmqKz7k0qcA5of/view?usp=sharing
 Bakso goreng babi (non-halal), Bakso goreng dengan daging babi yang juicy dan cita rasa yang menggugah selera.,"500 gr daging babi giling
 300 gr tepung tapioka
 5 butir telur ayam (size 6)
@@ -490,7 +490,7 @@ Aduk adonan sampai merata dan bulatkan sesuai selera ukurannya
 Langkah 3
 Goreng dengan minyak panas dengan api sedang sampai kekuningan dan krispi (10-15menit)
 Langkah 4
-Tiriskan dan siap di hidangkan dengan sambal kesukaan","Rp25,000",Telur
+Tiriskan dan siap di hidangkan dengan sambal kesukaan","Rp25,000",Telur,https://drive.google.com/file/d/1EgHkN6RgfMPwYtp0uAHIcbMzc2Jhox2u/view?usp=sharing
 Kuah Santan Pedas Teklik Babi, Kuah santan pedas dengan daging teklik babi yang lezat dan kaya bumbu.,"3 kg teklik babi
 1 lembar daun jeruk
 2 sachet santa kara
@@ -512,7 +512,7 @@ Setelah halus, tumis sebentar bumbu dan masukan selembar daun jeruk. Tumis hingg
 Langkah 5
 Setelah itu, masukan teklik yang sudah di rebus tadi. Aduk hingga bumbu merata, lalu masukan air secukupnya, santan kara, gula, garam dan penyedap rasa sesuai selera
 Langkah 6
-Tunggu hingga mendidih. Lalu siap untuk di hidangkan","Rp40,000",0
+Tunggu hingga mendidih. Lalu siap untuk di hidangkan","Rp40,000",0,https://drive.google.com/file/d/1XGkxXQmMrQbtZqskxh3u8KS_fRu1ZQEf/view?usp=sharing
 Babi Tumis Kelapa Gongseng Sedap,Tumisan babi dengan kelapa yang gurih dan gongseng yang sedap di lidah.,"300 kapsim babi, potong dadu
 Garam
 Kaldu
@@ -537,7 +537,7 @@ Tumis bumbu halus hingga wangi, masukkan daging (tumis sebentar kemudian tambahk
 Langkah 2
 Tambahkan asam cakala, bumbu serbaguna, dan kelapa gongseng. Koreksi rasa
 Langkah 3
-Hidangkan","Rp35,000",0
+Hidangkan","Rp35,000",0,https://drive.google.com/file/d/1n7kZjiT0NyyyW6EZSSZMFgdsZr0Wdpbh/view?usp=sharing
 SOP kacang merah iga babi, Sup kacang merah dengan iga babi yang lezat dan menghangatkan perut.,"2 kg iga babi (di rebus ± 45 mnt atau lebih smpai empuk)
 5 siung bawang putih (di cincang halus lalu di tumis)
 2 bungkus lada bubuk (di sesuaikan dengan kebutuhan)
@@ -554,7 +554,7 @@ Langkah 3
 Setelah itu masukkan lada bubuk dan bumbu racik sop sayur disesuaikan dengan kebutuhan.
 Langkah 4
 Koreksi rasa, jika sdah pas.
-Masukan bawang putih tumis dan daun sop. Sajikan ","Rp50,000","Kacang,Kedelai,Seafood,udang"
+Masukan bawang putih tumis dan daun sop. Sajikan ","Rp50,000","Kacang,Kedelai,Seafood,udang",https://drive.google.com/file/d/1Is3ZkQB0UU4o53Ln4R5SjUc8v6pNGNyX/view?usp=sharing
 Babi Tauco,Olahan babi dengan tauco yang menghasilkan rasa khas yang menggoyang lidah.,"100 gram daging babi (bisa ganti daging sapi atau ayam)
 2 sdm tauco
 1/2 sdm kecap asin
@@ -575,7 +575,7 @@ Masukkan air, masak di api kecil. (Saya gak pakai garam lagi karena sudah asin d
 Langkah 6
 Selanjutnya bisa koreksi rasa. Jika rasa sudah pas bisa matikan kompor.
 Langkah 7
-Sajikan hidangan di atas piring. Selamat mencoba ","Rp40,000",Kedelai
+Sajikan hidangan di atas piring. Selamat mencoba ","Rp40,000",Kedelai,https://drive.google.com/file/d/1kb4v0Tj-j0BJ8TMYuk06L3bvKuCaOmXt/view?usp=sharing
 Babi rica rica,Daging babi dengan bumbu rica rica yang pedas dan nikmat di setiap gigitannya.,"3 kg Daging babi (dipotong dadu)
 2 Lembar Daun jeruk
 1 bungkus kunyit bubuk
@@ -601,8 +601,8 @@ Langkah 3
 Tumis hingga berubah warna, masukan daging babi dan tumis hingga air keluar dari daging babi tersebut, masukan air mineral secukupnya.
 Langkah 4
 Masukan garam, gula dan lada bubuk secukupnya, jika rasa sdah pas, masukan daun kemangi. Siap di sajikan
-","Rp45,000",Seafood
-♡Japanese Pork Curry♡,Kari Jepang dengan daging babi yang lezat dan bumbu kari yang kaya rasa,"1 Kg Daging Babi Sengkel
+","Rp45,000",Seafood,https://drive.google.com/file/d/1CQlcERQdXgjQH7e1MCbKSmR3AdvzT8J9/view?usp=sharing
+Japanese Pork Curry,Kari Jepang dengan daging babi yang lezat dan bumbu kari yang kaya rasa,"1 Kg Daging Babi Sengkel
 2 Butir Bawang Bombay, potong dadu besar
 1 Buah Apel / Nanas, potong dadu besar
 2 Batang Wortel, potong dadu besar
@@ -612,8 +612,8 @@ Bersihkan semua bahan. Siapkan air untuk merebus, di panci medium airnya didihka
 Langkah 2
 Bila daging sudah matang, masukkan kedalam rebusan kentang. Kemudian tambahkan apel/nanas, wortel, dan bumbu kari jepang.
 Langkah 3
-Biarkan dimasak mendidih selama 15 menit, kemudian matikan kompor, tutup setengah. Kari kurang enak kalau langsung dimakan, ini saya makan besokannya dengan 2x di panaskan lalu didiamkan. itadakimasu !","Rp50,000",0
-♡Garlic Pork Creamy Spaghetti♡,Spaghetti creamy dengan daging babi dan bawang putih yang lezat dan memikat.,"1 Kg Daging Pork Belly / Pork Loin (bisa diganti sapi atau ayam)
+Biarkan dimasak mendidih selama 15 menit, kemudian matikan kompor, tutup setengah. Kari kurang enak kalau langsung dimakan, ini saya makan besokannya dengan 2x di panaskan lalu didiamkan. itadakimasu !","Rp50,000",0,https://drive.google.com/file/d/1OnksCRtThYSBACYjfUDjf_jDhjF-F35n/view?usp=sharing
+Garlic Pork Creamy Spaghetti,Spaghetti creamy dengan daging babi dan bawang putih yang lezat dan memikat.,"1 Kg Daging Pork Belly / Pork Loin (bisa diganti sapi atau ayam)
 2 Sdm Mentega + 1 Sdm Minyak/Olive Oil, untuk menggoreng daging
 1 Bungkus Spaghetti (yang untuk 8 Porsi)
 Bahan Saus :
@@ -636,7 +636,7 @@ Sembari menumis, rebus spaghetti kurang lebih 5 menit saja di air mendidih. Beri
 Langkah 5
 Masukkan spaghetti ke saus yang sudah mengental, tambahkan air rebusan pasta. masak sampai pasta sudah al dente.
 Langkah 6
-Daging bisa diganti dengan daging ayam atau sapi, sajikan, untuk pedas bisa pakai chilli flakes. bon apettit !","Rp40,000",Gandum
+Daging bisa diganti dengan daging ayam atau sapi, sajikan, untuk pedas bisa pakai chilli flakes. bon apettit !","Rp40,000",Gandum,https://drive.google.com/file/d/1fc29_zVoPYsvcj4JyyVR2C0z2sBaSLeS/view?usp=sharing
 Babi Kuluyuk (Non Halal),Babi goreng dengan bumbu kunyit dan kecap yang renyah dan menggugah selera,"250 gr daging babi (pot sesuai selera)
 1 butir telur ayam
 3 sdm tepung maizena
@@ -660,7 +660,7 @@ Untuk saus masak aiir, masukan gula, saus tomat, nanas dan wortel. Masak hingga 
 Langkah 5
 Koreksi rasa. Kalau rasa sudah sesuai selera kecilkan api dan masukan air larutan maizena lalu aduk hingga mengental.
 Langkah 6
-Masukan daging yang sudah di goreng lalu aduk sebentar agar daging terselimuti saus. Lalu sajikan","Rp35,000",Telur
+Masukan daging yang sudah di goreng lalu aduk sebentar agar daging terselimuti saus. Lalu sajikan","Rp35,000",Telur,https://drive.google.com/file/d/1SLCwofmk4Vi1ktKX0QQ5-0XA6tzXBEcb/view?usp=sharing
 Telur dadar lapcong,Telur dadar lezat dengan campuran daging babi dan sayuran yang enak dan mengenyangkan.,"1 butir Telur
 Lapcong babi(bisa diganti sosis ayam/sapi)
 secukupnya Garam
@@ -669,7 +669,7 @@ Potong lapcong/sosis lalu goreng berwarna coklat dan matang
 Langkah 2
 Kocok telur yg sdh diberi garam,lada lalu masukkan lapcong/sosis yg telah digoreng
 Langkah 3
-Panaskan minyak lalu masukkan telur lapcong/sosis lalu goreng telur hingga matang angkat lalu sajikan","Rp20,000",Telur
+Panaskan minyak lalu masukkan telur lapcong/sosis lalu goreng telur hingga matang angkat lalu sajikan","Rp20,000",Telur,https://drive.google.com/file/d/19uKJHUuIETFYENHUMUUiAGXqeYPxb8SL/view?usp=sharing
 Tonghun/Suun Kuah Babi,"Kuah babi dengan mi tonghun/suun yang lembut dan gurih, sempurna untuk disantap.","1 bks suun RRT
 300 gr iga babi
 120 gr daging ayam cincang
@@ -695,7 +695,7 @@ Tumis bawang putih dengan minyak babi, beri kecap raja rasa, masukkan daging2an,
 Masukkan bola2 ayam. Masukkan suun. Rebus hingga suun matang.
 Langkah 5
 Sajikan dengan pelengkap Note : biasa sy sisihkan kaldunya 1/2 krn suunya meresap smua airnya. Hehe.. Jd kalau mau makan bisa ambil kuahnya yg terpisah. (Dibumbu garam, kecap raja rasa, kaldu jamur)
-","Rp30,000","Telur,Kedelai"
+","Rp30,000","Telur,Kedelai",https://drive.google.com/file/d/1b7BcG5SmTlGhg8uVeUkR4Ajx3lkltbkG/view?usp=sharing
 Mie toping Babi Cincang,Mie lezat dengan topping daging babi cincang yang gurih dan menggugah selera.,"1 kg daging babi mix lemak giling kasar
 4 cm kayu manis
 1 buah pekak
@@ -721,7 +721,7 @@ Tumis bwg merah & bwg bombay hingga harum & layu, lalu tambahkan bwg putih, peka
 Langkah 2
 Tambahkan bumbu2 (utk kecap hitam terakhir & dikit aja, asal warna sdh cakep) tambahkan air secukupnya. Masak api kecil hingga kuah mengental, bumbu meresap. (tetap berkuah dikit nyemek2)
 Langkah 3
-Penyelesaian : rebus mie hingga matang, beri minyak wijen, kecap asin & merica, aduk rata. Beri toping daging diatasnya, tabur daun bwg.","Rp35,000","Kedelai,Gandum"
+Penyelesaian : rebus mie hingga matang, beri minyak wijen, kecap asin & merica, aduk rata. Beri toping daging diatasnya, tabur daun bwg.","Rp35,000","Kedelai,Gandum",https://drive.google.com/file/d/1Fud0oVqAGvraJJKSJSmxI1iW_cvW389f/view?usp=sharing
 Siobak garing ala rumahan pake air fryer dengan resep wilgoz,Siobak garing yang diolah rumahan dengan air fryer dan resep wilgoz yang lezat.,"1 kg pork belly
 bahan rebusan
 2 liter air
@@ -754,7 +754,7 @@ Simpan di kulkas tanpa penutup apapun selama minimal 24 jam. jika sudah mau dipa
 Langkah 8
 Aku pake air fryer jadi aku pake suhu 160 derajad kurang lebih 30 menit, aku cek kalau uda lihat uda mateng kecokelatan tapi kulit belum cokelat seperti yg aku mau, aku naikkin suhu ke 180, selama 5-10 menit (tergantung besar pork belly juga) kalau uda, kita istirahatkan selama 15-20 menit baru kita potong
 Langkah 9
-Air fryer tips: aku pernah naikin ke 200 tp terlalu panas untuk ukuran air fryer dan bakal gosong buanget krn terlalu dekat dengan fan di atas air fryer. air fryer kan size nya jauh lebih kecil dr oven jadi distribusi panasnya ngga bisa disamain kayak oven. pernah baca juga kalo air fryer itu sebaiknya dikurangi 10-20 derajad dari suhu oven dan timingnya dikurangi juga karena itu tadi size air fryer kan kecil, beda sama oven.","Rp45,000",udang
+Air fryer tips: aku pernah naikin ke 200 tp terlalu panas untuk ukuran air fryer dan bakal gosong buanget krn terlalu dekat dengan fan di atas air fryer. air fryer kan size nya jauh lebih kecil dr oven jadi distribusi panasnya ngga bisa disamain kayak oven. pernah baca juga kalo air fryer itu sebaiknya dikurangi 10-20 derajad dari suhu oven dan timingnya dikurangi juga karena itu tadi size air fryer kan kecil, beda sama oven.","Rp45,000",udang,https://drive.google.com/file/d/1rGw7dN2pF5aKsGIcrfW2Kzy8Ro4mnux-/view?usp=sharing
 Nasi Goreng Lapchiong Pete (non halal),Nasi goreng dengan lapchiong dan pete yang lezat dan menggoda selera ,"2 mangkuk Nasi Putih
 3 buah Lapchiong
 1 keris pete (kalo tidak suka bisa di skip)
@@ -774,7 +774,7 @@ Setelah wangi masukan petai, dan beri kecap asin ikan 1 sdm saja.
 Langkah 4
 Setelah tercampur rata, masukan nasi putih, tambahkan 4 sdm kecap asin biasa, 3 sdm kecap asin ikan, garam dan totole secukupnya, dan aduk sampai semuanya rata.
 Langkah 5
-Koreksi rasa, jika dirasa kurang asin bisa di tambah kecap asin dan kecap ikan, 1:1 ya biar lebih wangi daripada di tambah garam. Selamat mencoba.","Rp30,000","Telur,Kedelai,Seafood"
+Koreksi rasa, jika dirasa kurang asin bisa di tambah kecap asin dan kecap ikan, 1:1 ya biar lebih wangi daripada di tambah garam. Selamat mencoba.","Rp30,000","Telur,Kedelai,Seafood",https://drive.google.com/file/d/1sQuygbYdMTAFuPfznO3Ra4xF4uY1Xerg/view?usp=sharing
 Daging Babi Masak Tomat,Daging babi yang dimasak dengan saus tomat yang segar dan cita rasa yang lezat.,"300 gr Daging babi, iris tipis
 4 buah Tomat, belah menjadi 6
 1/4 buah Bawang bombay, iris memanjang
@@ -801,7 +801,7 @@ Tambahkan air secukupnya, biarkan sampai mendidih.
 Langkah 6
 Masukkan potongan bawang bombay dan tomat.
 Langkah 7
-Setelah bawang bombay dan tomat layu, tambahkan garam, gula, dan sedikit arak masak. Koreksi rasa.","Rp40,000",Kedelai
+Setelah bawang bombay dan tomat layu, tambahkan garam, gula, dan sedikit arak masak. Koreksi rasa.","Rp40,000",Kedelai,https://drive.google.com/file/d/1yp4UrCvgJwuJm0vMiDhzTUUtqrnWXxkM/view?usp=sharing
 Bubur babi,"Bubur dengan daging babi yang lezat dan mengenyangkan, sempurna untuk sarapan atau makanan berat.","Tulang babi
 Daging babi
 Garam, lada, totole
@@ -817,7 +817,7 @@ Langkah 4
 Tumis bawang smp harum.. Minyak secukupnya sj. Tambahkan air, lalu bumbui dg lada, garam, kecap asin, totole.
 Cemplungkan ke rebusan bubur.
 Langkah 5
-Koreksi rasa","Rp25,000",Kedelai
+Koreksi rasa","Rp25,000",Kedelai,https://drive.google.com/file/d/1YaDVuMFOTdLbA-IqdxFiZxE3LBQArdyb/view?usp=sharing
 Sate babi lilit manis bumbu bali,Sate babi yang dililit dengan bumbu manis khas Bali yang memikat dan enak di lidah.,"650 gr daging babi blender hingga halus
 1 sachet santan kental (65 ml)
 4 lembar daun salam
@@ -845,7 +845,7 @@ Tumis bumbu halus dengan sedikit minyak. Tambahkan daun salam, daun jeruk, dan s
 Langkah 3
 Campur daging dengan bumbu halus. Tambahkan gula merah dan kecap.Aduk hingga rata
 Langkah 4
-Lilit daging pada tusuk sate. Panggang hingga matang","Rp35,000",Kedelai
+Lilit daging pada tusuk sate. Panggang hingga matang","Rp35,000",Kedelai,https://drive.google.com/file/d/1-xzr0p61MTWcTSjE_7_tKsacJFbpEjel/view?usp=sharing
 Dendeng Babi Basah,"Daging babi yang diasinkan dan direndam dalam bumbu khas, kemudian digoreng hingga renyah dan beraroma sedap.","250 gr daging babi has dalam
 Bumbu
 1 sdm saus tiram
@@ -858,7 +858,7 @@ Iris tipis daging lalu pukul menggunakan pemukul daging agar daging bisa empuk
 Langkah 2
 Campur daging dan semua bumbu lalu marinasi selama 1 jam
 Langkah 3
-Panggang 200°C selama 6 menit, balik lalu panggang lagi 200°C selama 6 menit (me : use air fryer)","Rp45,000",Kedelai
+Panggang 200°C selama 6 menit, balik lalu panggang lagi 200°C selama 6 menit (me : use air fryer)","Rp45,000",Kedelai,https://drive.google.com/file/d/1byweJJtjvwgBA03At7FGIRKqXX8B9_zO/view?usp=sharing
 Rice Bowl Capcay Samcan (Non Halal),Nasi dengan capcay dan samcan babi yang segar dan lezat.,"2 porsi nasi putih
 2 buah telur ceplok
 Secukupnya bawang goreng
@@ -910,7 +910,7 @@ Langkah 9
 Cara penyajian tata nasi dalam mangkok. Tuang capcay, daging samcan diatasnya. Tambahkan telur ceplok dan taburi bawan goreng.
 Langkah 10
 Sajiakan bersama acar dan krupuk hmmm yummy
-","Rp30,000","Telur,Kedelai"
+","Rp30,000","Telur,Kedelai",https://drive.google.com/file/d/1TMb-hW9R8ubOnqFgfc2ncLqxb_EPNy3x/view?usp=sharing
 Babi rica,"Daging babi dengan bumbu rica yang pedas dan menggugah selera, sempurna untuk pecinta makanan pedas","250 g daging babi
 2 lembar daun jeruk
 2 ikat kemangi
@@ -937,7 +937,7 @@ Panaskan minyak lalu tumis bumbu halus sampai harum. Masukkan daun jeruk
 Langkah 3
 Masukkan daging babi aduk sampai berubah warna lalu masukkan air
 Langkah 4
-Tunggu sampai air sedikit menyusut beri garam, gula dan merica sampai rasa pas, masukkan kemangi aduk rata lalu angkat","Rp30,000",0
+Tunggu sampai air sedikit menyusut beri garam, gula dan merica sampai rasa pas, masukkan kemangi aduk rata lalu angkat","Rp30,000",0,https://drive.google.com/file/d/1uswHBCBUOgXPyW82ZYLCx-XJoRpDZb9B/view?usp=sharing
 Babi Krispi Mongolian,Potongan daging babi yang digoreng renyah dengan saus Mongolian yang kaya rasa dan gurih,"550 gr babi sirloin potong memanjang seperti korek api
 2 sdm arak masak
 3 sdm kecap asin
@@ -972,7 +972,7 @@ Panaskan minyak, tumis bawang putih dan bawang bombay hingga layu, kemudian masu
 Langkah 4
 Masukkan bahan saus, aduk rata hingga sausnya mengental, koreksi rasa
 Langkah 5
-Masukkan babi krispi lalu aduk rata kira2 1 menit. Angkat dan sajikan","Rp40,000",Kedelai
+Masukkan babi krispi lalu aduk rata kira2 1 menit. Angkat dan sajikan","Rp40,000",Kedelai,https://drive.google.com/file/d/1Tv26pVWSRaokHRzNp-Hwd1YOyTH7uNNC/view?usp=sharing
 Sam Gyup Sal (pork belly) Korean BBQ,Potongan daging perut babi yang dipanggang di atas panggangan khas Korea dengan cita rasa yang khas,"400 gr sam gyup sal/pork belly
 4 siung bawang putih, haluskan
 1/2 sdt jahe, haluskan
@@ -989,7 +989,7 @@ Di bowl lain campur semua bahan, test rasa, jika rasa sudah pas campurkan ke dag
 Langkah 2
 Tutup bowl dengan cling wrap, Marinade min 4jam dikulkas
 Langkah 3
-Bakar di teflon hingga agak gosong2 dikit  selamat makann","Rp100,000",Kedelai
+Bakar di teflon hingga agak gosong2 dikit  selamat makann","Rp100,000",Kedelai,https://drive.google.com/file/d/1_XX9hdlH3cOt-aB2ErTbtBWyDLxm5-H8/view?usp=sharing
 Pork Gyoza - Isi Piringku,Pangsit isi daging babi yang digoreng dengan tekstur renyah di luar dan isian yang juicy di dalam,"1 pak Kulit Gyoza
 150 g Daging Babi Giling
 50 g Udang Cincang
@@ -1023,7 +1023,7 @@ Langkah 3
 Ambil 1 lembar kulit gyoza, isi dengan adonan daging 1 sdm. Olesi air di sekeliling permukaan pinggiran kulit gyoza. Lipat kemudian lipat di satu sisi saja. Ulangi sampai daging habis
 Langkah 4
 Panaskan pan dengan sedikit minyak. Panggang api kecil sampai bagian bawah kecoklatan. Siram air panas dan tutup pan. Tunggu sampai air menyusut. Siram dengan minyak wijen
-","Rp30,000","Telur,Kedelai,udang"
+","Rp30,000","Telur,Kedelai,udang",https://drive.google.com/file/d/1l8bWzVS7ydm2IZIvxdC-vDDUK68nU4O-/view?usp=sharing
 Tumis babi batang seledri dr buku Adam Liaw,Tumisan babi dengan batang seledri yang segar dan renyah,"300 gr pork belly, iris tipis
 2 sdm minyak
 1 jempol jahe, iris
@@ -1039,7 +1039,7 @@ Iris tipis pork belly, sisihkan. Siapkan wajan dan beri minyak tunggu sampai pan
 Langkah 3
 Dengan sisa minyak, kita tumis jahe, bawang putih dan bawang bombay sampai wangi
 Langkah 4
-Masukkan celery, dan tumis 2-3 menit dengan api sedang. Masukkan babi, lalu shaoxing wine dan saus tiram.","Rp40,000",0
+Masukkan celery, dan tumis 2-3 menit dengan api sedang. Masukkan babi, lalu shaoxing wine dan saus tiram.","Rp40,000",0,https://drive.google.com/file/d/1w-K4zyFlL2Ape8jmsY4TwmRxLfNHZNpV/view?usp=sharing
 Bakut/Paikut Goreng Bawang Putih,Tulang babi yang digoreng dengan bawang putih hingga garing dan lezat.,"500 gr bakut/tulang babi boleh iga
 Bahan marinasi:
 1/2 sdm garam
@@ -1061,7 +1061,7 @@ Goreng 1-1 bakut pakai api kecil saja ya biar matang semua. Goreng sampai kecokl
 Langkah 5
 Angkat tiriskan. Makan hangat2 lebih enak.
 Langkah 6
-Selamat mencoba!","Rp50,000",Kedelai
+Selamat mencoba!","Rp50,000",Kedelai,https://drive.google.com/file/d/1xC2YhDDzEt-pI9bPpHHlzvqUVWUbHMkt/view?usp=sharing
 Pare Babi Kukus,"Pare yang dikukus bersama daging babi, menghasilkan hidangan yang sehat dan lezat.","Pare
 Daging babi cincang
 Bumbu Marinasi
@@ -1074,7 +1074,7 @@ Campur babi cincang dengan bumbu marinasi nya, diamkan 10-20 menit supaya meresa
 Langkah 2
 Potong pare, dan masukan daging cincang, beri hiasan Cabai merah potong
 Langkah 3
-Kukus sampai matang","Rp35,000",0
+Kukus sampai matang","Rp35,000",0,https://drive.google.com/file/d/1EkicEFv61DpH_ejYefXchZlH6D-W3Fjj/view?usp=sharing
 Bakmi jowo samcan babi,"Bakmi Jawa dengan samcan babi yang lezat dan menggugah selera, cita rasa khas Jawa.","1 bungkus mie telur kering. Saya pake mie burung dara
 Samcan babi yang sudah direbus potong sesuai selera
 Kol ataupun sayuran lain sesuai selera banyaknya
@@ -1097,7 +1097,7 @@ Setelah harum baunya masukan samcan babi,kol/sayuran dan mie kemudian tambahkan 
 Langkah 5
 Aduk hingga rata sambil dikoreksi rasanya. Kalo dirasa kurang bisa ditambahkan kecap manis. Kalo rasa sudah pas sesuai selera masak mie hingga matang kurang lebih sekitar 5 menitan.
 Setelah matang angkat dan sajikan dengan ditaburi bawang goreng.
-Monggo silahkan dicoba resepnya.","Rp40,000","Telur,Kedelai,Gandum"
+Monggo silahkan dicoba resepnya.","Rp40,000","Telur,Kedelai,Gandum",https://drive.google.com/file/d/1SC2KuU5TpWvbksc4qklwPQ-JR7HfOppK/view?usp=sharing
 Nasi Goreng Babi Rica Kemangi,Nasi goreng dengan daging babi yang dimasak dengan bumbu rica dan aroma segar kemangi.,"1 porsi nasi
 1 porsi Babi Rica Kemangi
  Babi Rica Kemangi
@@ -1121,7 +1121,7 @@ Masukkan kembali telur yang sudah di orak arik dan kemangi yang sudah di cuci be
 Langkah 7
 Selanjutnya bisa koreksi rasa. Jika rasa sudah pas bisa matikan kompor.
 Langkah 8
-Sajikan hidangan di atas piring. Selamat mencoba ","Rp45,000","Telur,Seafood"
+Sajikan hidangan di atas piring. Selamat mencoba ","Rp45,000","Telur,Seafood",https://drive.google.com/file/d/1hccE22l1ev37CAcCsLzlktdaaiUeJmIp/view?usp=sharing
 Babi Tore,"Potongan daging babi yang digoreng dengan tepung renyah, menghasilkan hidangan yang gurih dan enak.","1 kg daging babi berkulit bagian perut
 secukupnya Cuka dapur
 secukupnya Garam
@@ -1134,7 +1134,7 @@ Kemudian tuangkan cuka dan taburkan garam secukupnya, di tutup dan diamkan 20 me
 Langkah 4
 Setelah itu diris kotak2, dan goreng pada minyak panas dan ditutup agar tdk terkena minyak panas, setiap beberapa menit di bolak balik agar tdk lengkap ke wajan.
 Langkah 5
-Setelah di rasa sdah garing dan tiriskan. Setelah itu Sajikan 🥰","Rp40,000",0
+Setelah di rasa sdah garing dan tiriskan. Setelah itu Sajikan 🥰","Rp40,000",0,https://drive.google.com/file/d/1N2HEaJIcsL9GUWh52mafBoCjSFZ86dXf/view?usp=sharing
 Samcam Cuka Hitam /Pork belly with Black vinegar (564),"Potongan daging perut babi yang dimasak dengan cuka hitam, menghasilkan rasa asam manis yang khas.","500 gr samcan/ pork belly sudah rebus, potong sesuai selera
 3 jempol jahe, kupas, belah, geprek,
 6 siung bawang putih
@@ -1159,7 +1159,7 @@ Tumis bawang+ jahe sampai harum. Masukkan samcan + cengkeh+ kayu manis, aduk rat
 Beri bumbu Tambahkan air panas. Aduk rata. tutup panci skitar 4 menit. Api medium.
 Masukkan minyak wijen. Aduk, koreksi rasa.
 Langkah 3
-Sajikan.","Rp50,000",Kedelai
+Sajikan.","Rp50,000",Kedelai,https://drive.google.com/file/d/15jquPvqbYA41snn2_zyP7LJT9I_c26jv/view?usp=sharing
 Babi Cah Tahu Kucai,"Tumisan babi dengan tahu dan kucai yang segar dan lezat, memberikan kombinasi tekstur dan rasa yang menyenangkan.","Marinasi :
 200 gr Daging Babi Kapsim (iris2)
 2 tbsp Kecap Asin (cap Angsa)
@@ -1189,7 +1189,7 @@ Langkah 2
 Balur potongan tahu dengan 1 tbsp Tepung Maizena asal saja. Lalu masukkan tahu ke dalam wajan. Tumis sebentar sampai tahu sedikit kecoklatan. Lalu beri secukupnya air. Beri sisa bumbu2 lalu TEST RASA!
 Langkah 3
 Setelah rasa pas, kecilkan api lalu tutup wajan sampai daging empuk. Setelah daging empuk, masukkan potongan kucai. Aduk perlahan agar tahu tidak hancur sampai kucai matang. Test rasa kembali. Angkat dan sajikan.
-","Rp35,000","Kedelai,Seafood"
+","Rp35,000","Kedelai,Seafood",https://drive.google.com/file/d/14hdhgXo7pIlOI4vWeXTdIo1dhlax-h2m/view?usp=sharing
 Kentang Babi Cincang Kecap,"Kentang yang digoreng dengan daging babi cincang dan kecap, menghasilkan hidangan gurih dan sedap.","200 gr babi cincang
 3 bh kentang
 8 bh bawang merah
@@ -1211,7 +1211,7 @@ Masukkan babi cincang masak hingga matang
 Langkah 6
 Tambahkan bumbu jamur, garam dan kecap. Aduk hingga meresap.. tambahkan air
 Langkah 7
-Setelah meresap tambahkan kentang dan masak hingga kentang meresap.","Rp40,000",Kedelai
+Setelah meresap tambahkan kentang dan masak hingga kentang meresap.","Rp40,000",Kedelai,https://drive.google.com/file/d/1tWYG9Ae808_9ndzG7ECE5QK35zg0nxsc/view?usp=sharing
 Sup Tulang Babi (Lingkut) kacang kedelai,Sup tulang babi dengan kacang kedelai yang kaya rasa dan menghangatkan perut.,"500 gr liungkut babi
 Segenggam kacang kedelai
 800 ml air
@@ -1227,7 +1227,7 @@ Sambil menunggu, cuci kacang kedelai dan rendam dengan air
 Langkah 4
 Jika air sudah mendidih, tutup panci lalu kecilkan api. Masak dengan api kecil selama 30 menit
 Langkah 5
-Besarkan kembali api setelah 30 menit, masukan kacang kedelai, garam dan totole. Masak hingga matang. Jangan lupa koreksi rasa","Rp50,000",Kacang
+Besarkan kembali api setelah 30 menit, masukan kacang kedelai, garam dan totole. Masak hingga matang. Jangan lupa koreksi rasa","Rp50,000",Kacang,https://drive.google.com/file/d/1Y-orem_eTCVi4CnD-KPMyxIe3unvAtxp/view?usp=sharing
 Patty pork / patty daging babi (non halal),Patty daging babi yang dipanggang atau digoreng.,"1 bungkus fress pork giling
 2 biji telur
 1/4 wortel
@@ -1252,14 +1252,14 @@ Langkah 5
 Tiriskan petty yg sudah d goreng, dan kocok telur kasih garam sedikit, dan masukkan ke dalam teflon, bentuk seperti bulatan teflon dan petty taruh atasnya, tutup petty dg telur,, atas kasih cheese/keju agar telur dn petty bisa tertutup dg baik dn bisa menjadi perekat..
 Langkah 6
 Buat salad,,, saya pakai mayonaise pedas dan yg original, kalo saya, saya campur dg timun iris kecil²..
-taruh d piring, siapkan,, dn siap di saji","Rp30,000","Telur,susu"
+taruh d piring, siapkan,, dn siap di saji","Rp30,000","Telur,susu",https://drive.google.com/file/d/1AUDSJGKlpi9Ja_cx-rsBBbDigbLMeGhv/view?usp=sharing
 Pork Asparagus Stir Fry,"Tumisan daging babi dengan asparagus yang segar dan renyah, memberikan kombinasi rasa dan tekstur yang enak.","1 cup Saos Stir Fry (resep terlampir)
  Beef Broccoli Stir Fry
 1 cup Asparagus (yg sudah dipotong selera)
 1 cup Paprika Merah (yg sudah dipotong selera)
 500 g Pork Loin (potong selera, bisa diganti dengan daging lain)
 Garam + Lada","Saos Stir Fry, Beef Broccoli Stir Fry, Asparagus, Paprika Merah, Pork Loin, Garam, Lada",300,20,15,20,0,"Langkah 1
-Tumis daging dengan garam dan lada secukupnya hingga berubah warna, tuang saos, aduk rata, masak sebentar lalu masukan paprika dan asparagus, aduk rata, masak hingga semua bahan matang, angkat dan sajikan","Rp40,000",0
+Tumis daging dengan garam dan lada secukupnya hingga berubah warna, tuang saos, aduk rata, masak sebentar lalu masukan paprika dan asparagus, aduk rata, masak hingga semua bahan matang, angkat dan sajikan","Rp40,000",0,https://drive.google.com/file/d/1hHwT-iO7RRIMsx_lC7hAnOfbOO4i9ozL/view?usp=sharing
 Sup Ma Ling Sosis Macaroni dengan Sayuran,"Sup dengan sosis Ma Ling, macaroni, dan sayuran yang menghasilkan hidangan yang lezat dan bergizi.","Kuah Kaldu Ayam :
 1 ekor Tulang Ayam
 10 pcs Ceker Ayam Kampung
@@ -1293,7 +1293,7 @@ Lalu masukkan wortel, masak sebentar diikuti dengan memasukkan kentang. Masak sa
 Langkah 5
 Masukkan potongan ma ling dan sosis, masak sebentar sampai matang lalu beri bumbu2. Test rasa! Setelah rasa pas, masukkan daun bawang dan seledri. Aduk2 lalu matikan api.
 Langkah 6
-Tata macaroni yg sudah direbus di dasar mangkok, lalu tuang sup dengan isiannya. Sajikan.","Rp35,000",0
+Tata macaroni yg sudah direbus di dasar mangkok, lalu tuang sup dengan isiannya. Sajikan.","Rp35,000",0,https://drive.google.com/file/d/1z_4FfpNXQ8vDjCSIhkwgAUG7B1sE4KxS/view?usp=sharing
 Sweet and sour pork loin,"Potongan daging babi lumbung yang digoreng dengan saus asam manis, menghasilkan hidangan yang manis dan gurih.","500 gr pork/beef loin
 1 buah wortel brastagi
 1/2 paprika merah
@@ -1336,7 +1336,7 @@ Langkah 9
 Hiyaa bener udah gitu aja
 Wkwkkwkw
 Selamat mencoba
-Kalau suka pedes bisa tambahin cabe merah besar atau saus sambal di adonan saus ya mom","Rp45,000",Kedelai
+Kalau suka pedes bisa tambahin cabe merah besar atau saus sambal di adonan saus ya mom","Rp45,000",Kedelai,https://drive.google.com/file/d/1wufpoogtqFsqrMb3UCaiNQ2apHG-cdn2/view?usp=sharing
 Kuah bakut sayur asin (551), Kuah dengan tulang babi dan sayuran asin yang memberikan rasa gurih dan segar.,"Bakut dan kuah (frozen), keluarkan 30 menit sebelumnya
 1 ikat kecil Sayur asin, cuci, potong
 2 siung Bawang putih,(ready goreng)
@@ -1348,7 +1348,7 @@ Tumis bawang putih dan jahe dengan 1/2 sdm minyak sampai harum lalu masukkan bak
 Langkah 2
 Masukkan sayur asin, (optional, tomat dan keputren)serta bumbu. Koreksi rasa.taburi bawang putih goreng
 Langkah 3
-Sajikan hangat.","Rp50,000",0
+Sajikan hangat.","Rp50,000",0,https://drive.google.com/file/d/1pTLjkfY0XM6-Zk9v_hccBjIRe4IRosgN/view?usp=sharing
 "Babi Kapsim Goreng gurih, renyah, & nikmat","Potongan daging babi yang digoreng dengan bumbu kapsim, menghasilkan hidangan gurih, renyah, dan nikmat.","1/2 kg daging kapsim babi
 3 sdm saos super raja rasa
 Garam
@@ -1374,7 +1374,7 @@ Masukkan ke dalam bumbu (bahan yang tercantum di atas) kecuali minyak goreng dan
 Langkah 4
 Panaskan minyak goreng, goreng daging hingga warna kuning kecoklatan, sisihkan
 Langkah 5
-Siap disantap dengan sambal","Rp35,000",0
+Siap disantap dengan sambal","Rp35,000",0,https://drive.google.com/file/d/1CP8GRP07rjoYrU5wS98RcDSK2AGGGd9t/view?usp=sharing
 Thick Cut Pork Soup,"Sup dengan potongan daging babi yang tebal, menghasilkan kuah yang kaya rasa dan bergizi.","1 bh Kentang (potong jadi 8 lalu rendam dlm air)
 3 cm Lobak (iris jadi 16)
 1/3 btg Wortel (potong jadi 16)
@@ -1392,7 +1392,7 @@ Langkah 3
 Masukan sayuran, tutup kembali dan biarkan masak hingga sayuran matang, lalu beri Miso, masak sebentar (buat kita akan terasa plain jadi bisa ditambahkan bumbu lain jika dirasa perlu)
 Langkah 4
 Angkat dan Sajikan segera selagi masih hangat
-Jangan lupa beri taburan daun bawang","Rp45,000",0
+Jangan lupa beri taburan daun bawang","Rp45,000",0,https://drive.google.com/file/d/1SEDhP5Xr1SLVNFyVWsHnd8kdgGvCK_25/view?usp=sharing
 Sweet & Sour Pork / Daging Babi Saos Asam Manis, Potongan daging babi yang digoreng dengan saus asam manis yang lezat.,"350 g daging babi (me: has)
 Sejumput garam
 1 sdt arak
@@ -1426,7 +1426,7 @@ Saos A: Panaskan sedikit minyak. Tumis bawang bombay+tomat+arak sampai wangi. Ma
 Langkah 5
 Masak sampai mendidih. Ambil ampas
 Langkah 6
-Saos B: Masukkan nenas+cabe+bombay+cuka ke saos A. Aduk rata. Tambahkan tapioka cair. Masukkan daging. Aduk rata","Rp40,000",Telur
+Saos B: Masukkan nenas+cabe+bombay+cuka ke saos A. Aduk rata. Tambahkan tapioka cair. Masukkan daging. Aduk rata","Rp40,000",Telur,https://drive.google.com/file/d/1OjbdwEMe0BtjCqeJPAZAGlF6r2ZzEIF-/view?usp=sharing
 Sawi Gulung isi Babi,"Sawi yang digulung dengan isian daging babi, menciptakan hidangan yang lezat dan bergizi.","300 gr babi cincang berbumbu
 1/2 buah wortel parut
 1 pcs tahu jepang (lumatkan / hancurkan)
@@ -1444,7 +1444,7 @@ Campurkan parutan wortel, potongan daun bawang, tahu yang sudah dihaluskan, dagi
 Langkah 3
 Letakkan adonan di atas lembaran sawi yang sudah direbus
 Langkah 4
-Lalu kukus sawi gulung selama 15- 20 menit. Angkat dan sajikan.","Rp35,000",Kedelai
+Lalu kukus sawi gulung selama 15- 20 menit. Angkat dan sajikan.","Rp35,000",Kedelai,https://drive.google.com/file/d/1f_IhmAzKWEb7JlIjrEU11NaDb9Docc3D/view?usp=sharing
 Tumis Ma Ling,"Tumisan dengan menggunakan Ma Ling, daging babi yang populer, menghasilkan hidangan yang enak dan lezat.","Maling Goreng :
 1/2 kaleng Ma Ling ukuran besar (versi halal pakai chicken / turkey luncheon meat) - potong2 memanjang
 Secukupnya Tepung Terigu
@@ -1468,7 +1468,7 @@ Panaskan secukupnya minyak dalam wajan. Goreng ma ling yg sudah dibalur bahan te
 Langkah 2
 Sisakan sedikit minyak dan 1 sdm margarin dalam wajan. Panaskan di api besar lalu masukkan semua bahan tumisan sampai layu, beri bumbu2 dan sedikit air. Test rasa!
 Langkah 3
-Masukkan Ma ling yg telah digoreng, aduk2 sebentar. Angkat dan sajikan.","Rp40,000","Kedelai,Gandum"
+Masukkan Ma ling yg telah digoreng, aduk2 sebentar. Angkat dan sajikan.","Rp40,000","Kedelai,Gandum",https://drive.google.com/file/d/185U6FjXIiFBPEhhk0NGDepRh0AH3oVkF/view?usp=sharing
 Sup Tahu Bakso Babi,Sup dengan tahu dan bakso babi yang nikmat dan mengenyangkan.,"1/2 kotak tahu sutra, potong
 2 buah bawang putih
 2 sdm kecap ikan
@@ -1495,7 +1495,7 @@ Jika daging sudah matang, masukkan tahu yang sudah di potong.
 Langkah 7
 Selanjutnya bisa koreksi rasa. Jika rasa sudah pas bisa matikan kompor. (Agar lebih sedap: tambahkan bawang putih goreng dan daun seledri)
 Langkah 8
-Sajikan hidangan di atas mangkok. Selamat mencoba","Rp30,000","Kedelai,Seafood"
+Sajikan hidangan di atas mangkok. Selamat mencoba","Rp30,000","Kedelai,Seafood",https://drive.google.com/file/d/1jUzyHuVFs4506cNSmPBeqlhIx4wSGQtA/view?usp=sharing
 Pork Lettuce Stir Fry,"Tumisan daging babi dengan selada yang segar, memberikan hidangan yang sehat dan lezat.","1 bh Head Lettuce (uk. kecil, sobek2)
 200 g Pork Slices (kalo mau halal, daging bisa diganti)
 1 sdm Sake (bisa diganti dng juice anggur/apel + air lemon)
@@ -1504,7 +1504,7 @@ Pork Lettuce Stir Fry,"Tumisan daging babi dengan selada yang segar, memberikan 
 1/3 sdt Kaldu Bubuk
 Sedikit Jahe halus
 1 sdt Tepung Kentang","selada, daging babi, Sake, Garam, Kecap Asin, Kaldu Bubuk, Jahe, Tepung Kentang",300,15,15,20,0,"Langkah 1
-Marinate daging dengan semua bahan bumbu lalu tumis dengan sedikit minyak hingga agak golden brown, masukan selada, aduk rata masak hingga layu tapi masih crunchy, angkat dan sajikan dengan taburan Lada hitam bubuk","Rp35,000",Kedelai
+Marinate daging dengan semua bahan bumbu lalu tumis dengan sedikit minyak hingga agak golden brown, masukan selada, aduk rata masak hingga layu tapi masih crunchy, angkat dan sajikan dengan taburan Lada hitam bubuk","Rp35,000",Kedelai,https://drive.google.com/file/d/1uV2nhpiF2v3B94-BSWQN1xWqixBaB2sS/view?usp=sharing
 Bakkut teh (non halal),Hidangan Bakkut teh dengan menggunakan daging babi.,"1/2 kg iga babi
 5 biji wortel potong sesuai selera
 2 siung bawang putih jangan dikupas
@@ -1519,7 +1519,7 @@ Rebus wortel dan bawang putih bersamaan dengan air tidak terlalu banyak.
 Langkah 3
 Setelah setengah matang, masukkan bumbu bakkut teh beserta air kaldu tanpa iga nya,aduk2 sampe merata lalu campur dengan gula,garam dan merica sesuai selera. Jangan lupa untuk koreksi rasa
 Langkah 4
-Masukkan kembali iga setengah empuk,tunggu sampai mendidih dan empuk dagingnya. Sajikan dengan nasi hangat","Rp40,000",0
+Masukkan kembali iga setengah empuk,tunggu sampai mendidih dan empuk dagingnya. Sajikan dengan nasi hangat","Rp40,000",0,https://drive.google.com/file/d/1oVn4s8AhN_TpVtVCsuBLjfwub2iz2uOJ/view?usp=sharing
 Babi Tumis Pedas,Tumisan daging babi dengan bumbu pedas yang menggugah selera.,"1/4 kg daging/kulit babi
 4 siung bawang putih (geprek lalu cincang halus)
 2 cabe merah besar (rajang menyerong)
@@ -1534,7 +1534,7 @@ Siapkan bahan yg diperlukan. rebus daging dan kulit babi hingga empuk. boleh dip
 Langkah 2
 Tumis bawang putih hingga agak layu, lalu masukkan tomat dan cabe merah. tambahkan air secukupnya. jika air sudah agak mendidih, masukkan kecap manis, saus tiram, garam, gula dan kaldu bubuk. masukkan daging dan kulit babi. cek rasa, jika sudah OK, masukkan cabe rawit yg sudah diulek. tunggu beberapa menit, hingga semua bumbu menyatu ke dalam daging. jika kuah sudah mengental dan agak menyusut, matikan api kompor.
 Langkah 3
-Babi tumis pedas siap disajikan bersama nasi pulen hangat.","Rp45,000",Kedelai
+Babi tumis pedas siap disajikan bersama nasi pulen hangat.","Rp45,000",Kedelai,https://drive.google.com/file/d/1TZ6aO3VXk_8Loy69rWK8IIXZtIOfmO23/view?usp=sharing
 Iga Babi Goreng,Iga babi yang digoreng hingga renyah dan gurih.,"300 gr iga babi
 Bumbu Marinasi 1
 1/2 sdt bawang putih bubuk / 1 siung bawang putih dihaluskan
@@ -1559,7 +1559,7 @@ Lalu masukkan telur, aduk rata
 Langkah 4
 Masukkan tepung maizena dan beras / terigu, aduk rata dan diamkan di kulkas minimal 1 jam atau semalaman supaya makin meresap
 Langkah 5
-Kemudian goreng sampai kuning kecoklatan *lebih baik lakukan 2x penggorengan","Rp35,000","Telur,Kedelai,Seafood,Gandum"
+Kemudian goreng sampai kuning kecoklatan *lebih baik lakukan 2x penggorengan","Rp35,000","Telur,Kedelai,Seafood,Gandum",https://drive.google.com/file/d/1K84T3SWgaCwqCsOgQ_DI7oYH-oMRC5ik/view?usp=sharing
 Nori Butter Rice With Lapchiong,"Nasi dengan nori, mentega, dan lapchiong (sausages babi), menciptakan hidangan yang lezat dan bergizi.","2 sdm butter (saya: merk Anchor)
 3 porsi nasi semalam
 3 pc lapchiong
@@ -1573,13 +1573,13 @@ Potong-potong lapchiong sesuai selera
 Langkah 2
 Panaskan panci (kalo bisa anti lengket) lalu masukkan telur dan orak-arik telur. Kemudian masukkan potongan lapchiong, aduk-aduk sampai beberapa menit lalu masukkan nasi, soy sauce dan butter, dan tambahkan bumbu instant kani mayo rice. Aduk-aduk beberapa saat.
 Langkah 3
-Saat menyajikan, gunting lembaran nori sebagai toping nasi dan tambahkan selada keriting sebagai pelengkan. Cocok sebagai bekal anak yang mudah dan cepat.","Rp40,000",Telur
+Saat menyajikan, gunting lembaran nori sebagai toping nasi dan tambahkan selada keriting sebagai pelengkan. Cocok sebagai bekal anak yang mudah dan cepat.","Rp40,000",Telur,https://drive.google.com/file/d/1QobjVI4h0eNw1U8SPbui2ar2qln8Czd7/view?usp=sharing
 Sosis babi / lap chong simpel gampang,"Sosis babi yang simpel dan mudah dibuat, cocok untuk hidangan yang praktis.","2 buah sosis babi
 3 siung bawang putih
 1/2 sdt Merica
 1 sdm Kecap asin
 1/2 sdt gula","sosis babi, bawang putih, Merica, Kecap asin, gula",200,10,15,5,0,"Langkah 1
-Potong"" sosis babi. Panaskan teflon jangan memakai minyak nanti sosisnya akan mengeluarkan minyak sendiri. Masukan sosis babi gunakan api kecil saja soalnya gampang gosong jika sudah masak masukan bawang putih. Tumis sampai bawang putih kecoklatan. Tambahkan kecap asin gula dan merica. Lalu sajikan.","Rp45,000",Kedelai
+Potong"" sosis babi. Panaskan teflon jangan memakai minyak nanti sosisnya akan mengeluarkan minyak sendiri. Masukan sosis babi gunakan api kecil saja soalnya gampang gosong jika sudah masak masukan bawang putih. Tumis sampai bawang putih kecoklatan. Tambahkan kecap asin gula dan merica. Lalu sajikan.","Rp45,000",Kedelai,https://drive.google.com/file/d/13mCinw08Dvy4qHkdfAo-vK5RVCToBWRQ/view?usp=sharing
 Sop Daging B2 Sederhana (Non Halal) dan sambal andaliman,Sup daging babi B2 yang sederhana dab disajikan dengan sambal andaliman yang khas.,"250 gr daging babi
 250 gr tulang rusuk babi
 2 pcs sosis (anak saya suka tambahan sosis)
@@ -1607,7 +1607,7 @@ Setelah wortel dan kentang empuk masukan daun bawang dan daun sop.
 Langkah 6
 Untuk sambal andaliman, tinggal giling andaliman dan cabe rawit dgn sedikit garam, tes rasanya klo kurang garam bisa ditambahkan, ini menurut saya udah super pedas ya, jadi hati hati bagi yang tidak terlalu suka makan pedas.
 Langkah 7
-Untuk penyelesaian, saat sop dihidangkan di mangkok, peras air jeruk nipis dan taburkan bawang goreng.","Rp40,000",0
+Untuk penyelesaian, saat sop dihidangkan di mangkok, peras air jeruk nipis dan taburkan bawang goreng.","Rp40,000",0,https://drive.google.com/file/d/1WTrcEchkBAFJJcYTEqgwZaiU0YsqfsaC/view?usp=sharing
 Melted Cheese Potato with Smoked Beef and Bacon,"Kentang dengan keju leleh, smoked beef, dan bacon, menghasilkan hidangan yang gurih dan lezat.","3 buah kentang
 2 slice smoked beef
 2 slice bacon (opsional)
@@ -1631,7 +1631,7 @@ Langkah 7
 Kukus kurang lebih 15 menit. Jika keju sudah meleleh, masukkan sosis, bacon, dan smoked beef yang sudah ditiriskan ke dalam mangkok. Kukus sebentar 1-2 menit.
 Langkah 8
 Melted Cheese Potato siap untuk dihidangkan. Hias sesuai selera dan bisa ditambahkan Parsley juga🤗
-","Rp45,000","Seafood,susu"
+","Rp45,000","Seafood,susu",https://drive.google.com/file/d/18uDQ8V3E35wXcn0j3A87IDf99I9AMt4v/view?usp=sharing
 Balado pork slices kentang,"Potongan daging babi balado dengan kentang, memberikan hidangan pedas yang menggugah selera.","1 pak pork slices rendam pakai ketumbar
 1 bh kentang iris tipis
 5 btr bw merah
@@ -1645,7 +1645,7 @@ Marinasi pork slices dengan bubuk ketumbar diamkan sebentar. Bumbu2 dihaluskan.
 Langkah 2
 Goreng kentang sampai kematangan yg diinginkan. Kemudian goreng pork slices sampai kering.
 Langkah 3
-Tumis bumbu halus sampai harum, masukkan garam, gula, penyedap dan daun jeruk. Aduk sampai agak kering, test rasa. Terakhir masukkan kentang kemudian pork slices, aduk cepat. Angkat, sajikan dipiring saji. Selesai.","Rp35,000",0
+Tumis bumbu halus sampai harum, masukkan garam, gula, penyedap dan daun jeruk. Aduk sampai agak kering, test rasa. Terakhir masukkan kentang kemudian pork slices, aduk cepat. Angkat, sajikan dipiring saji. Selesai.","Rp35,000",0,https://drive.google.com/file/d/1KTIOD8JGVUl5Vy01HjNBsSxC6qhnLpws/view?usp=sharing
 Crispy Pork Belly Bites Air Fryer,"Potongan daging babi perut yang digoreng hingga renyah menggunakan air fryer, menghasilkan camilan yang gurih.","500 gr pork belly (saya sudah di potong, tp klo msh utuh pun bisa)
 Secukupnya garam utk marinade
 1/2 sdm baking powder
@@ -1657,7 +1657,7 @@ Cuci dan keringkan pork belly, saya belinya sudah di potong kotak2, tp klo masih
 Langkah 2
 Sambil menunggu kita campur semua bumbu2 bubuk + baking powder, lalu campurkan ke pork belly
 Langkah 3
-Aduk rata sampai seluruh permukaan pork belly kena bumbu nya. Semprot wajan air fryer dgn minyak Lalu masukkan pork belly ke air fryer, usahakan bagian kulit di atas. Airfry 120 derajat selama 45menit, lalu 200 derajat selama 10 menit. Saya pakai Mecoo airfryer.","Rp40,000",0
+Aduk rata sampai seluruh permukaan pork belly kena bumbu nya. Semprot wajan air fryer dgn minyak Lalu masukkan pork belly ke air fryer, usahakan bagian kulit di atas. Airfry 120 derajat selama 45menit, lalu 200 derajat selama 10 menit. Saya pakai Mecoo airfryer.","Rp40,000",0,https://drive.google.com/file/d/1XWE7RUI4oMWbUsXiCFA2fsKt7LVDr7QE/view?usp=sharing
 Sweet and sour pork ribs (air fryer),"Iga babi yang digoreng menggunakan air fryer dengan saus asam manis, memberikan cita rasa yang lezat.","1/2 kg iga babi yang biasa untuk bakut
 2 bawang putih
 1 sdm ketumbar bubuk
@@ -1688,7 +1688,7 @@ Diamkan minimal 1 jam supaya menyerap. Lebih enak lagi didiamkan semalaman.
 Langkah 7
 Panggang dengan air fryer di suhu 160° selama 12 menit
 Langkah 8
-Sajikan selagi hangat. Selamat mecoba 😊","Rp45,000",Kedelai
+Sajikan selagi hangat. Selamat mecoba 😊","Rp45,000",Kedelai,https://drive.google.com/file/d/1QtqdzQH6Q4BCidQ7vQ4iojR66aLFJcpx/view?usp=sharing
 Daging Tumis Asam Pedas Belimbing Wuluh (daging ayam/babi),Tumisan daging ayam atau babi dengan bumbu asam pedas dan belimbing wuluh yang memberikan rasa segar dan pedas.,"250 gr daging ayam/babi potong dadu
 4 Asam kecombrang
 2 daun jeruk
@@ -1710,7 +1710,7 @@ Tumis bumbu halus hingga wangi, masukkan potongan daging, daun jeruk, Asam cakal
 Langkah 2
 Tambahkan air, garam dan kaldu secukupnya, masak hingga bumbu meresap dan daging empuk
 Langkah 3
-Tambahkan irisan Belimbing wuluh, masak sebentar. Sajikan","Rp40,000",0
+Tambahkan irisan Belimbing wuluh, masak sebentar. Sajikan","Rp40,000",0,https://drive.google.com/file/d/1I1DGdGYpg42qgohfWHwusaezdl0NcfZ8/view?usp=sharing
 Oseng Kuping Babi,"Kuping babi yang dioseng dengan bumbu khas, menciptakan hidangan yang gurih dan kaya rasa.","1/4 kg kuping babi (uda drebus n dpotongin ya)
 3 siung bawang putih
 1 bh lombok besar hijau potong miring
@@ -1726,7 +1726,7 @@ Secukupnya garem, merica, totole
 ","kuping babi, bawang putih, lombok hijau, lombok merah, cabai rawit, bawang bombay, kecap asin, saos tiram, arak hitam masak, raja rasa, minyak wijen, garam, merica,, totole",200,10,10,15,0,"Langkah 1
 Tumis bawang putih, bombay, lombok besar merah hijau
 Langkah 2
-Masukkan kuping dan semua saus, test rasa..","Rp35,000",Kedelai
+Masukkan kuping dan semua saus, test rasa..","Rp35,000",Kedelai,https://drive.google.com/file/d/1rqcCza4SWzWKRHX80keYMeEHNOMcTj_c/view?usp=sharing
 Daging Babi Gula Merah, Potongan daging babi dengan gula merah yang memberikan rasa manis dan gurih.,"500 gr daging babi kapsim
 2 bongkah gula merah
 2 sdm garam
@@ -1738,7 +1738,7 @@ Campurkan daging, gula jawa, garam dan lada
 Langkah 3
 Panaskan dengan api kecil sampai daging matang dan gula merah mencair. Siapkan asam jawa
 Langkah 4
-Campur asam jawa ke daging, aduk rata. Masak sampai daging 🐖 matang. Angkat sajikan","Rp45,000",0
+Campur asam jawa ke daging, aduk rata. Masak sampai daging 🐖 matang. Angkat sajikan","Rp45,000",0,https://drive.google.com/file/d/1Ms29RxM55GfyZGVkPNFQ9n-nVaLvWeu4/view?usp=sharing
 Babi Goreng Cuka Sambal Colo,"Potongan daging babi yang digoreng dengan cuka dan sambal colo, menciptakan hidangan pedas dan gurih.","Marinasi:
 500 gr Pork Belly
 1 pc Jeruk Nipis
@@ -1768,7 +1768,7 @@ Cuci bersih pork belly. Kemudian marinasi dengan garam dan jeruk nipis. Setelah 
 Langkah 2
 Setelah empuk, angkat dari air rebusan, tunggu hingga agak dingin kemudian iris kotak setebal 1cm atau sesuai selera. Rendam dengan bahan rendaman minimal 1 jam kemudian digoreng. Jangan lupa untuk menutup wajan ketika menggoreng 
 Langkah 3
-Cuci bersih semua bahan. Kemudian iris bawang dan rawit, untuk tomat diiris kotak. Beri garam dan kaldu jamur. Panaskan minyak kelapa di wajan, segera siramkan pada irisan bawang dkk.","Rp40,000",0
+Cuci bersih semua bahan. Kemudian iris bawang dan rawit, untuk tomat diiris kotak. Beri garam dan kaldu jamur. Panaskan minyak kelapa di wajan, segera siramkan pada irisan bawang dkk.","Rp40,000",0,https://drive.google.com/file/d/1TJS7q2Fib20kjMnCy-4rgTuLBB-HHIVv/view?usp=sharing
 Resep Hekeng B2,"Resep Hekeng B2, hidangan daging babi yang populer dengan bumbu khas.","daging babi giling
 bawang putih
 gula pasir
@@ -1783,7 +1783,7 @@ Haluskan bawang merah bawang putih. campir dg daging giling. bs tambah udang. wo
 Langkah 3
 Tmbh daun bawang. bumbu2. aduk. masuk kekulit. gulung. kukus 30 menit.
 Langkah 4
-Bs lgs di goreng. atau simpan di lemari es","Rp40,000",Kedelai
+Bs lgs di goreng. atau simpan di lemari es","Rp40,000",Kedelai,https://drive.google.com/file/d/1OhkET0oLg3GEvSF59NhTyhn-qyHcABeT/view?usp=sharing
 Babi goreng cabe garam,Daging babi yang digoreng dengan bumbu cabe garam yang memberikan rasa pedas dan gurih.,"Daging b2
 Tepung kobe serbaguna
 Pelengkap:Paprika,bawang putih,garam,penyedap
@@ -1793,7 +1793,7 @@ Langkah 2
 Goreng diminyak panas sampai kecoklatan tiriskan potong2 b2 yg sdah matang
 Lalu tumis paprika bawang penyedap sampai layu tuang diatas b2
 Langkah 3
-Oven 10menit api 180° gak punya oven bisa langsung dmkan aja","Rp40,000",Kedelai
+Oven 10menit api 180° gak punya oven bisa langsung dmkan aja","Rp40,000",Kedelai,https://drive.google.com/file/d/1R3c4NMDjk2Zako5idvwcsfNpLJeVJwHZ/view?usp=sharing
 Tumis Babi sambal matah,Tumisan daging babi dengan bumbu sambal matah yang segar dan pedas.,"500 gr daging babi slice bagian paha
 Saus tiram
 Kecap
@@ -1813,7 +1813,7 @@ Marinade selama 15-30menit daging slice dengan saus tiram, kecap, minyak wijen, 
 Langkah 2
 Siapkan bahan sambal matah
 Langkah 3
-Tumis sebentar sereh dan daun jeruk dgn minyak kelapa, lalu tuang ke mangkok yg berisi bawang dan cabai, beri garam,gula dan kaldu bubuk, lalu remas2 dgn tgn yg dibungkus plastik atau sarung tangan.","Rp35,000",Kedelai
+Tumis sebentar sereh dan daun jeruk dgn minyak kelapa, lalu tuang ke mangkok yg berisi bawang dan cabai, beri garam,gula dan kaldu bubuk, lalu remas2 dgn tgn yg dibungkus plastik atau sarung tangan.","Rp35,000",Kedelai,https://drive.google.com/file/d/1J3Nwnhj_Y1FoBTP8uvHYuNiqXDErCoEK/view?usp=sharing
 Kwetiaw Goreng Babi (a la warung bakmie),"Kwetiaw goreng dengan daging babi ala warung bakmie, memberikan hidangan yang lezat dan mengenyangkan.","400 gram kwetiaw basah
 200 gram samcan babi tanpa kulit, iris tipis 2x3 cm
 100 gram udang, kupas
@@ -1851,7 +1851,7 @@ Masukkan kwetiaw, sawi, daun bawang, merica dan semua bahan cair. Aduk cepat sam
 Langkah 7
 Kwetiaw goreng siap disajikan dengan pelengkapnya. Untuk resep sambal, silakan lihat resep Mie Pangsit Siantar.
 https://cookpad.com/id/r/6624262
-","Rp40,000","Telur,Kedelai,Seafood,udang"
+","Rp40,000","Telur,Kedelai,Seafood,udang",https://drive.google.com/file/d/1oHkaUwttJoaJPwVYbER4uoU8P1Eh2KS8/view?usp=sharing
 Pepes B2,Makanan daging babi yang dikukus dengan bumbu khas.,"500 Gr Daging B2
 Bumbu Halus
 3 Siung bawang merah
@@ -1867,7 +1867,7 @@ Potong kecil daging B2 supaya cepat matang
 Langkah 2
 Bungkus di daun pisang. Lapis hingga minimal tiga lembar. Bakar diatas kompor gas dialasi tutup periuk, gunakan api kecil
 Langkah 3
-Bila sudah matang, sajikan.","Rp35,000",0
+Bila sudah matang, sajikan.","Rp35,000",0,https://drive.google.com/file/d/13k-ulHLfhPKWBOQw9mKry_r0v1dOrgG4/view?usp=sharing
 Bistik Babi Saus Mentega ,Potongan daging babi dengan saus mentega yang lezat.,"Marinate :
 300 gr Daging Babi (saya campur pork belly dan kapsim, potong kotak2 sekitar 2-3cm lalu geprek2 dengan pemukul daging)
 3 siung Bawang Putih (haluskan)
@@ -1891,7 +1891,7 @@ Panaskan secukupnya minyak dalam wajan. Sambil tunggu minyak panas, balur satu p
 Langkah 2
 Tiriskan daging beberapa menit saja lalu besarkan api di minyak tadi sampai minyak panas. Masukkan kembali daging sambil di aduk2 sampai kecoklatan dan crispy. Angkat dan tiriskan.
 Langkah 3
-Dalam wajan baru, panaskan secukupnya margarine. Tumis bawang bombay sampai sedikit layu. Lalu masukkan bahan saus, aduk2 lalu beri sedikit air. Test rasa! Setelah rasa pas, masukkan daging goreng tepung tadi dan aduk2 sebentar sampai merata. Matikan api, lalu kucuri dengan perasan jeruk limo. Aduk merata. Angkat dan sajikan.","Rp45,000","Kedelai,Seafood"
+Dalam wajan baru, panaskan secukupnya margarine. Tumis bawang bombay sampai sedikit layu. Lalu masukkan bahan saus, aduk2 lalu beri sedikit air. Test rasa! Setelah rasa pas, masukkan daging goreng tepung tadi dan aduk2 sebentar sampai merata. Matikan api, lalu kucuri dengan perasan jeruk limo. Aduk merata. Angkat dan sajikan.","Rp45,000","Kedelai,Seafood",https://drive.google.com/file/d/1alxlk8Q852atvoxV56uhqGpzqxM9_rtM/view?usp=sharing
 Sup Babi Selada Air,Sup dengan daging babi dan selada segar yang menyegarkan.,"Marinate :
 500 gr Kapsim Babi (iris tipis2) - boleh pakai iga, untuk versi halal pakai ayam kampung
 1 tbsp Minyak Wijen
@@ -1916,7 +1916,7 @@ Panaskan secukupnya minyak dalam wajan. Lalu tumis daging yg telah di marinasi s
 Langkah 2
 Pindahkan tumisan daging ke panci berisi air / kaldu tulang mendidih. Tutup panci dan masak sampai daging empuk. Kalau pakai iga boleh pakai presto / masak di api kecil sampai empuk.
 Langkah 3
-Beri bumbu2 dan test rasa! Setelah rasa pas dan daging empuk, masukkan selada air. Masak sampai selada air matang, jangan terlalu lama krn nanti warna selada jd gelap dan terlalu lembek. Angkat dan sajikan bersama potongan rawit hijau.","Rp55,000",Kedelai
+Beri bumbu2 dan test rasa! Setelah rasa pas dan daging empuk, masukkan selada air. Masak sampai selada air matang, jangan terlalu lama krn nanti warna selada jd gelap dan terlalu lembek. Angkat dan sajikan bersama potongan rawit hijau.","Rp55,000",Kedelai,https://drive.google.com/file/d/1sUNN9nBaJP7IS4gxwIj-ZPzYg8FwfjEL/view?usp=sharing
 "Oseng maling non halal mantap rasanya
 ",Oseng daging babi yang memiliki rasa yang enak dan mantap.,"1/2 kaleng maling potong2 seperti oreg tempe
 2 siung bawang putih (me. Skip)
@@ -1927,7 +1927,7 @@ secukupnya Sasa
 secukupnya Minyak goreng","kaleng maling,babi,bawang putih, kecap manis, Lada, Sasa, telur, Minyak goreng",200,15,20,10,0,"Langkah 1
 Panaskan minyak goreng, oseng2 telur beserta maling yg sudah di potong2
 Langkah 2
-Masukan kecap, sasa, lada. Aduk2 sampai matang/jgn terlalu garing. Icip rasa. Selesai","Rp30,000","Telur,Kedelai"
+Masukan kecap, sasa, lada. Aduk2 sampai matang/jgn terlalu garing. Icip rasa. Selesai","Rp30,000","Telur,Kedelai",https://drive.google.com/file/d/1YjPvIeiuqaFsKQdewD1EpUHZfsOQolUp/view?usp=sharing
 Pork Steamed Buns,Roti kukus dengan isian daging babi.,"Steamed Buns:
 475 gr Tepung protein sedang
 25 gr Tepung tangmien
@@ -1953,7 +1953,7 @@ Ulen semua bahan hingga kalis elastis.
 Langsung timbang dan bagi adonan, istirahatkan 10 menit.
 Beri isian, bentuk adonan dan kembangkan selama 30 menit.
 Kukus di dalam panci yang sudah dipanaskan sebelumnya selama 10 menit.
-","Rp35,000","Kedelai,Gandum"
+","Rp35,000","Kedelai,Gandum",https://drive.google.com/file/d/1963nuJ2IxxpsVtdTNCq7CgM-Ipt8fGsH/view?usp=sharing
 Nasi Goreng Daging Babi,Nasi goreng dengan daging babi yang lezat.,"1 piring nasi dingin
 Secukupnya minyak goreng
 1 siung bawang merah
@@ -1986,7 +1986,7 @@ Masukkan kecap asin, kecap ikan, dan kecap manis (boleh tambahkan MSG sedikit). 
 Langkah 9
 Tambahkan potongan wortel dan cabai merah keriting, serta irisan daun bawang. Aduk kembali lalu matikan api, sajikan dengan kerupuk dan acar.
 Langkah 10
-Video tutorial singkat: bit.ly/CFRreels","Rp40,000","Telur,Kedelai,Seafood"
+Video tutorial singkat: bit.ly/CFRreels","Rp40,000","Telur,Kedelai,Seafood",https://drive.google.com/file/d/1VS73Z5kJYdOuheV1pGZRzWcVQoYhRfPJ/view?usp=sharing
 Babi masak tausi,Daging babi dimasak dengan tausi yang khas.,"Marinasi daging :
 Daging babi yang ada lemak
 Kecap raja rasa
@@ -2017,7 +2017,7 @@ Tambah air, tutup teflon masak sampai daging empuk. Koreksi rasa
 Langkah 6
 Terakhir masukkan tumisan bawang bombay, aduk rata. Aku gk pakai maizena lg krn kuahnya ud nyusut.
 Langkah 7
-Siapkan piring, tata telor ceplok di dasar piring. Tuang babi saos taosi. Siap untuk dihidangkan","Rp45,000",Kedelai
+Siapkan piring, tata telor ceplok di dasar piring. Tuang babi saos taosi. Siap untuk dihidangkan","Rp45,000",Kedelai,https://drive.google.com/file/d/1Jn_GMMdtMvo9hxrJsGk2VDOcllCigATV/view?usp=sharing
 Soto mie bogor babi Iga,Soto mie dengan daging babi iga ala Bogor.,"500 gram babi iga (bakut)
 1 ikat daun bawang
 secukupnya Garam
@@ -2033,7 +2033,7 @@ Potong daun bawang banyak dan halus goreng sampai agak gosong supaya wangi tiris
 Langkah 3
 Rebus mie dan tiriskan
 Langkah 4
-Tata waktu mau makan soup lalu masukkan mie dan bawang daun sudah digoreng dan beri cuka aren dan sambel.","Rp35,000",Gandum
+Tata waktu mau makan soup lalu masukkan mie dan bawang daun sudah digoreng dan beri cuka aren dan sambel.","Rp35,000",Gandum,https://drive.google.com/file/d/19i7RJkz6kATyO4AsBY1E1RkoZvZMtCyU/view?usp=sharing
 Nasi Babi Daun Jeruk, Nasi dengan daging babi yang dimasak bersama daun jeruk.,"Secukupnya nasi
 Secukupnya minyak
 1 siung bawang merah
@@ -2049,7 +2049,7 @@ Masukkan daging cincang lalu masak sampai matang.
 Langkah 3
 Masukkan nasi dingin, bubuk daun jeruk, dan daun jeruk yang sudah diiris kecil-kecil. Masak sampai semuanya tercampur rata.
 Langkah 4
-Pindahkan nasi daun jeruk ke wadah anti panas, beri potongan keju mozarella di atasnya lalu torch sampai meleleh (bisa juga dipanggang di oven sebentar/menggunakan microwave). Sajikan.","Rp25,000",susu
+Pindahkan nasi daun jeruk ke wadah anti panas, beri potongan keju mozarella di atasnya lalu torch sampai meleleh (bisa juga dipanggang di oven sebentar/menggunakan microwave). Sajikan.","Rp25,000",susu,https://drive.google.com/file/d/1npe3CvK2f9j9wjENNHqQWEDEmn034QrQ/view?usp=sharing
 Babi Goreng Tepung Ketumbar ,"Potongan daging babi yang digoreng dengan tepung dan ketumbar, menghasilkan hidangan yang gurih.","Marinate :
 300 gr Pork Belly / Kapsim (saya campur, potong kotak2 sekitar 2-3cm lalu saya geprek2 dengan alat pemukul daging agar hasil tidak alot)
 3 siung Bawang Putih (haluskan)
@@ -2072,7 +2072,7 @@ Beri tepung putri / maizena secukupnya pada daging yg telah dimarinasi. Panaskan
 Langkah 2
 Angkat daging dengan saringan dan diamkan beberapa menit. Lalu besarkan api di sisa minyak tadi sampai minyak panas, masukkan lg daging yg telah digoreng hampir matang beserta bawang putih geprek dengan kulitnya. Aduk2 dan balik sampai matang dan crispy, hati2 jangan sampai gosong ya!! Angkat dengan saringan, tiriskan sebentar sampai minyak turun. Sajikan.
 Langkah 3
-Note : alasi piring / wadah dengan paper towel agar sisa minyak terserap paper towel jd lebih crispy dan tahan lama gorengannya","Rp20,000","Kedelai,Seafood,udang"
+Note : alasi piring / wadah dengan paper towel agar sisa minyak terserap paper towel jd lebih crispy dan tahan lama gorengannya","Rp20,000","Kedelai,Seafood,udang",https://drive.google.com/file/d/1ZJ7p6Icj4VxcdpkQrCMVxlFRD37rdWBZ/view?usp=sharing
 Balado pork ribs,"Iga babi yang dimasak dengan bumbu balado, memberikan rasa pedas yang menggugah selera.","500 gr pork ribs
 5 siung bawang putih
 2 butir bawang merah
@@ -2086,7 +2086,7 @@ Tumis bumbu halus dengan minyak secukupnya. Setelah mulai saad (minyak mulai ter
 Langkah 3
 Setelah iga berubah warna masukkan air (kira” 200 ml). Masukkan garam dan gula sesuai selera. Masak sampai iga empuk dengan api kecil. Aduk” sesekali. Koreksi rasa.
 Langkah 4
-Siap dihidangkn. Lebih enak bila dimakan keesokan harinya karena bumbu lebih meresap. Selamat mencoba 🙏","Rp35,000",0
+Siap dihidangkn. Lebih enak bila dimakan keesokan harinya karena bumbu lebih meresap. Selamat mencoba 🙏","Rp35,000",0,https://drive.google.com/file/d/1upKdZZq9f7RNuI539YXSZdRwYZ8dl8St/view?usp=sharing
 Fried Pork with Fermented Beancurd,"Daging babi yang digoreng dengan tauco, menciptakan hidangan yang gurih dan lezat.","300 g pork belly (potong selebar 2cm)
 Secukupnya tepung tapioka untuk pelapis (me: kurleb 50g)
 Bahan Marinasi
@@ -2103,7 +2103,7 @@ Campur seluruh bahan marinasi. Aduk rata. Balur daging dengan bumbu secara merat
 Langkah 3
 Lapisi dengan tepung tapioka secara merata. Diamkan 10m
 Langkah 4
-Panaskan minyak, goreng kedua sisi sampai kuning keemasan atau sampai matang. Angkat, tiriskan, potong2","Rp25,000",Kedelai
+Panaskan minyak, goreng kedua sisi sampai kuning keemasan atau sampai matang. Angkat, tiriskan, potong2","Rp25,000",Kedelai,https://drive.google.com/file/d/1JS3s8dv-SsHTPwDE8MEyl7oUvzNFoAEZ/view?usp=sharing
 Bakut Masak Tauco (Babi Pongteh a la Nat),Bakut (iga babi) dimasak dengan tauco ala Babi Pongteh.,"1  kg Pork Ribs (saya pakai ribs tulang lunak)
 10 butir Telur Rebus (kupas kulit) - OPTIONAL
 6 siung Bawang Merah (cincang kasar)
@@ -2139,7 +2139,7 @@ Pindahkan semua tumisan ke dalam panci berisi air mendidih. Buang daun salam nya
 Langkah 5
 Lalu masak di api sedang ke kecil sampai daging setengah empuk. Setelah setengah empuk, masukkan telur rebus. Masak lg di api kecil sampai warna menyerap pd telur dan daging empuk. Angkat dan sajikan.
 Langkah 6
-NOTE PENTING : banyak nya air disesuaikan dengan selera masing2 ya. Kalau saya pakai lumayan banyak krn suka kuah, kalau tdk suka terlalu berkuah dan ingin agak kental, banyak nya pemakaian bumbu2 jg dikurangi ya agar tidak terlalu asin.","Rp30,000","Telur,Kacang,Kedelai,Seafood,udang"
+NOTE PENTING : banyak nya air disesuaikan dengan selera masing2 ya. Kalau saya pakai lumayan banyak krn suka kuah, kalau tdk suka terlalu berkuah dan ingin agak kental, banyak nya pemakaian bumbu2 jg dikurangi ya agar tidak terlalu asin.","Rp30,000","Telur,Kacang,Kedelai,Seafood,udang",https://drive.google.com/file/d/1Q3acyBl3ztB533nTBIF4e58E7j1SAXB7/view?usp=sharing
 Pork Steam Tofu,ahu kukus dengan daging babi yang lezat.,"1 Tahu (Tahu Cina/Sutra)
 200 gr Babi cincang (bisa diganti daging sapi cincang)
 Jamur (opsional)
@@ -2157,7 +2157,7 @@ Kukus tahu selama 10-15 menit
 Langkah 2
 Tumis bawang putih pada minyak hingga harum, masukkan daging sampai berubah warna dan mengeluarkan sedikit air, masukkan jamur diikuti kecap asin, kecap manis, saus tiram, merica, garam, gula, kaldu jamur dan sedikit air. Cicipi, koreksi rasa, kentalkan dengan maizena dan tambahkan sedikit daun bawang
 Langkah 3
-Angkat tahu yang sudah dikukus, buang air yang keluar dari kukusan tahu, tuang daging diatas tahu, dan siap disajikan","Rp25,000",Kedelai
+Angkat tahu yang sudah dikukus, buang air yang keluar dari kukusan tahu, tuang daging diatas tahu, dan siap disajikan","Rp25,000",Kedelai,https://drive.google.com/file/d/1KdX0rYdMq7XFIfzq-eT6PvfxpRw6CsTH/view?usp=sharing
 babi Kecap (masakan batak),Daging babi dimasak dengan kecap ala masakan Batak.,"00 gr daging babi (saya pakai daging utk panggang)
 2 batang daun bawang
 Minyak secukupnya untuk menumis
@@ -2179,7 +2179,7 @@ Potong2 daun bawang sesuai selera
 Langkah 3
 Tumis bumbu halus sampai harum, masukkan daging & aduk rata, tambahkan air, masukkan kayu manis, pala, kecap, garam
 Langkah 4
-Masak dengan api kecil, tutup sampai air menyusut & mengental, tambahkan daun bawang, aduk, tes rasa. Siap sajikan","Rp30,000",Kedelai
+Masak dengan api kecil, tutup sampai air menyusut & mengental, tambahkan daun bawang, aduk, tes rasa. Siap sajikan","Rp30,000",Kedelai,https://drive.google.com/file/d/1W_-EjQ3kcH8mW3zBprp7oHAQwlYMXI1R/view?usp=sharing
 Daging Maling balut Telur,"Potongan daging babi yang dibalut dengan telur, menciptakan hidangan yang menggugah selera.","1 kaleng daging maling
 2 butir telur
 Kaldu bubuk","babi, telur, Kaldu bubuk",400,20,20,30,0,"Langkah 1
@@ -2189,7 +2189,7 @@ Langkah 2
 Baluri daging maling menggunakan telur.
 Goreng di minyak panas, lalu tiriskan.
 Mudah banget kan bund😁
-","Rp25,000",Telur
+","Rp25,000",Telur,https://drive.google.com/file/d/18Mm-XpYH4p_MGDQEx8XFCweWmWBY2uzp/view?usp=sharing
 Samcan ala Papi,Hidangan daging babi ala Papi (papa).,"
 2 bongkah samcan
 5 bh jamur merang (direndam air panas 2 jam)
@@ -2205,7 +2205,7 @@ Masukan kecap asin, kecap manis, kecap ikan, saus tiram dan gumer
 Langkah 4
 Aduk2 tambahkan air
 Langkah 5
-Masukan pressure cooker selama 20 menit, sajikan","Rp20,000","Kedelai,udang"
+Masukan pressure cooker selama 20 menit, sajikan","Rp20,000","Kedelai,udang",https://drive.google.com/file/d/1sEhj3UqyoicJCl4l5GtWhAQiGtMHrQxu/view?usp=sharing
 Galantin Saus Pedas Manis | Masakan Simple Ala Anak Kos,"Hidangan galantin dengan saus pedas manis, cocok untuk masakan sederhana ala anak kos.","1 buah galantin
 1 buah bawang bombai
 1 siung bawang putih
@@ -2224,7 +2224,7 @@ Masukkan saus, tambahkan kecap dan sejumput garam. Sama dicicip biar rasanya man
 Langkah 6
 Masukkan galantin dan aduk-aduk
 Langkah 7
-Yummy jadi deh","Rp15,000",Kedelai
+Yummy jadi deh","Rp15,000",Kedelai,https://drive.google.com/file/d/1pXst93fwXLX_mDK0cppyW9MRwhZmxDYy/view?usp=sharing
 Bihun Goreng Kecap Masakan Ala Anak Kos Murah | Sohun Goreng,"Bihun yang digoreng dengan kecap, sayuran, dan bumbu sederhana, menghasilkan hidangan yang lezat, praktis, dan ramah di kantong bagi anak kos yang ingin menikmati makanan yang enak tanpa perlu mengeluarkan banyak biaya..","1 bungkus bihun
 1 bawang merah
 1 bawang putih
@@ -2245,7 +2245,7 @@ Tambahkan seledri
 Langkah 7
 Campur
 Langkah 8
-Jadi deh. Lumayan banyak jadinya karna mie nya ngembang","Rp10,000",Kedelai
+Jadi deh. Lumayan banyak jadinya karna mie nya ngembang","Rp10,000",Kedelai,https://drive.google.com/file/d/1RpgQ-iBzk42LiQdAQyVQWE2WZjJT7QVI/view?usp=sharing
 Orek Tempe Kecap Masakan Ala Anak Kos,"Tempe yang digoreng dengan kecap, bawang, dan rempah-rempah sederhana, memberikan cita rasa gurih dan nikmat yang menjadi favorit anak kos dalam menyajikan hidangan praktis namun lezat.","1 tempe
 4 cabai kriting
 2 siung bawang merah
@@ -2261,7 +2261,7 @@ Masukan tempe yang sudah di goreng. Tambahkan kecap dan masako
 Langkah 5
 Tambahkan sedikit air tunggu hingga bumbu meresap
 Langkah 6
-Jadi deh bisa buat 3x makan","Rp1,000",Kedelai
+Jadi deh bisa buat 3x makan","Rp1,000",Kedelai,https://drive.google.com/file/d/10UCB_qvsHHtAUbXVq2rmLxfQwhJAs9nR/view?usp=sharing
 Tumis Jamur Sosis Saus Tiram Masakan Ala Anak Kos,"Tumisan jamur dan sosis dengan saus tiram yang gurih, merupakan hidangan praktis dan lezat yang cocok untuk anak kos yang ingin menyajikan makanan enak dengan cepat.","1 bungkus jamur
 2 sdm saori saus tiram
 1 sosis sonice
@@ -2286,7 +2286,7 @@ Tambahkan garam, saus tiram, dan kecap secukupnya
 Langkah 7
 Tumis hingga jamur berair dan tunggu sampai menyusut
 Langkah 8
-Jadi deh bisa buat makan pagi, siang, dan malam","Rp15,000",Kedelai
+Jadi deh bisa buat makan pagi, siang, dan malam","Rp15,000",Kedelai,https://drive.google.com/file/d/1DqA2A8ZWdZSsBWXOqyLhuW_PaflWiASk/view?usp=sharing
 Mie Goreng Setan ,"Mie goreng pedas yang menggugah selera.
 ","1 bungkus mie kuning
 1 siung bawang putih
@@ -2313,7 +2313,7 @@ Masukan mie, tambahkan kecap dan saus pedas
 Langkah 7
 Masukan caisim dan daun bawang
 Langkah 8
-Jadi gais. Wajib coba rasanya endulita","Rp10,000","Kedelai,Gandum"
+Jadi gais. Wajib coba rasanya endulita","Rp10,000","Kedelai,Gandum",https://drive.google.com/file/d/1LR5TIqczvXKEf2vqxEJIKhXwRT1qLlGi/view?usp=sharing
 Ayam kecap,Ayam dimasak dengan kecap yang lezat..,"1/4 kg ayam (saya pakai yang dada/daging)
 1 buah jeruk nipis
 2 buah bawang merah
@@ -2336,7 +2336,7 @@ Tambahkan air secukupnya. Masukkan daun salam dan ayam, kemudian tunggu sampai m
 Langkah 6
 Kalau sudah mendidih, masukkan garam, penyedap dan kecap secukupnya. Kemudian tunggu sampai ayamnya matang dan airnya berkurang/tinggal sedikit.
 Langkah 7
-Kalau sudah seperti kecoklatan bisa diangkat dan disajikan.","Rp15,000",Kedelai
+Kalau sudah seperti kecoklatan bisa diangkat dan disajikan.","Rp15,000",Kedelai,https://drive.google.com/file/d/10eHqG-bPS10V19UllcR1SMMR4cwhRPw0/view?usp=sharing
 "Tahu kecap pedas manis
 ",Tahu dimasak dengan kecap pedas manis yang menggoda selera.,"1 Bawang putih
 3 Bawang merah
@@ -2363,7 +2363,7 @@ Masukkan tahu yang sudah digoreng setengah matang dan tomat. Tambahkan merica bu
 Langkah 8
 Masukkan kecap (menyesuaikan selera manisnya masing2 orang), gula dan garam
 Langkah 9
-Tes rasa dan tunggu hingga mendidih. Siap untuk dihidangkan","Rp10,000",0
+Tes rasa dan tunggu hingga mendidih. Siap untuk dihidangkan","Rp10,000",0,https://drive.google.com/file/d/1w39fmaTaObBWIy_FLExsd2rOrC-JKI_6/view?usp=sharing
 Nasi goreng,"Nasi yang dimasak dengan santan dan rempah-rempah, menciptakan aroma yang khas.","2 siung bawang putih
 Sosis 1 bh (optional)
 secukupnya Saos tiram
@@ -2385,7 +2385,7 @@ Tumis bawang putih hingga kecoklatan (hati-hati karena gampang gosong)
 Langkah 6
 Masukkan telur + sosis + nasi ke dalam tumisan bawang putih
 Langkah 7
-Kongsrang kangsreng kemudian tambahkan saos tiram, garam, penyedap dan juga bubuk Cabai secukupnya. Aduk rata nasi hingga bercampur rata dengan bumbu. Koreksi rasa dan walllaaaa nasgor siap dihidangkan.","Rp10,000",Telur
+Kongsrang kangsreng kemudian tambahkan saos tiram, garam, penyedap dan juga bubuk Cabai secukupnya. Aduk rata nasi hingga bercampur rata dengan bumbu. Koreksi rasa dan walllaaaa nasgor siap dihidangkan.","Rp10,000",Telur,https://drive.google.com/file/d/13eRmZT1m5BD-5qlLAlM7klO3facVyDtQ/view?usp=sharing
 Nasi Uduk,"Nasi yang dimasak dengan santan dan rempah-rempah, menciptakan aroma yang khas.","2 gelas beras
 2 bks bumbu nasi uduk kobe
 4 butir telur
@@ -2396,7 +2396,7 @@ Langkah 2
 Tumis 4 sdm sambal, pecahkan 4 butir telur. Orak arik hingga telur matang
 Langkah 3
 Setelah nasi dan telur matang. Tata ke dalam piring. Siap disantap...
-","Rp10,000",Telur
+","Rp10,000",Telur,https://drive.google.com/file/d/1zVLQs13kW9fleDLZI_IPQqag2-l1qFFF/view?usp=sharing
 Daging teriyaki ,Potongan daging dimasak dengan saus teriyaki yang menggugah selera.,"1/4 kilo daging slice
 1/2 buah bawang bombay
 2 siung bawang putih
@@ -2410,7 +2410,7 @@ Tumis bombay dan bawang putih, dikasih minyak sedikit
 Langkah 4
 Masukan daging slice dan tambah air sedikit
 Langkah 5
-Masukan Royco sapi secukupnya dan gula setengah sendok teh","Rp20,000",0
+Masukan Royco sapi secukupnya dan gula setengah sendok teh","Rp20,000",0,https://drive.google.com/file/d/1X9wRLrEy0DePlE3XGQMp01VTRFUGbxJ0/view?usp=sharing
 Steak Ayam,Potongan ayam yang digoreng atau dipanggang dengan saus yang lezat.,"donan Ayam
 250 gram Fillet dada ayam
 1 buah jeruk nipis
@@ -2441,7 +2441,7 @@ Kukus selama 5-10 menit. Tekstur kematangan kondisional. Tiriskan.
 Langkah 6
 Tumis bawang bombay & bawang putih hingga sedikit kecoklatan. Masukkan semua bahan saos. Cek rasa. Jika sudah mantap masukan larutan maizena.
 Langkah 7
-Susun ayam, sayur dan saus sesuai selera. Selamat makan sedulurrr!","Rp15,000",Kacang
+Susun ayam, sayur dan saus sesuai selera. Selamat makan sedulurrr!","Rp15,000",Kacang,https://drive.google.com/file/d/1587t_Mh7UPsBkIXveV5tx_AE23vVlyzM/view?usp=sharing
 Udang tahu sambel,Udang dan tahu dimasak dengan sambal yang pedas dan menggugah selera.,"100 gr Udang
 2 buah Tahu
 Bumbu
@@ -2464,7 +2464,7 @@ Setelah diaduk rata dan rasanya sudah sesuai selera tambahkan daun bawang untuk 
 Langkah 6
 Terakhir saya ada tumis kangkung dengan 1 bawang putih dan merah, cabai 2, sedikit saus tiram
 Langkah 7
-Selesai deh hidangan ala anak Kost dari labuan bajo, kangkungnya lupa di foto heheh","Rp20,000","Kedelai,udang"
+Selesai deh hidangan ala anak Kost dari labuan bajo, kangkungnya lupa di foto heheh","Rp20,000","Kedelai,udang",https://drive.google.com/file/d/1BRG-9EJcjWWPstvjrJQ4KMPLlRwSRXzF/view?usp=sharing
 Ikan Pindang Saos Tomat,Potongan ikan yang dimasak dengan kuah pindang dan saus tomat.,"4 ekor Ikan pindang
 Cabe merah,
 cabe hijau
@@ -2478,7 +2478,7 @@ Iris semua bahan (cabe merah, cabe hijau, bawang merah, bawang putih dan tomat h
 Langkah 3
 Panaskan minyak, selanjutnya goreng ikan pindang sampai berwarna kecoklatan,lalu angkat dan tiriskan, selanjutnya tumis semua bumbu yang sudah diiris,terus masukan ikan pindang, masukkan garam dan gula sedikit tunggu smpai bumbu meresap
 Langkah 4
-Lalu ikan pindang saos tomat siap dihidangkan dan disantap","Rp25,000",Seafood
+Lalu ikan pindang saos tomat siap dihidangkan dan disantap","Rp25,000",Seafood,https://drive.google.com/file/d/1_-puL2h9gWTIJIrY-QLkHKYtYGZkItpB/view?usp=sharing
 Ceker Mercon anak kos,Ceker ayam pedas yang cocok untuk anak kos yang menyukai makanan pedas.,"1/4 ceker ayam
 9 Cabai rawit
 4 bawang merah
@@ -2504,7 +2504,7 @@ Langkah 7
 Setelah air agak surut tambahkan kecap sesuai selera.
 Langkah 8
 Setelah bumbu mengental dan meresap, matikan kompor. Hidangkan di piring dan siap disantap. Bisa untuk cemal cemil atau tambah nasi biar sah.
-","Rp10,000",Kedelai
+","Rp10,000",Kedelai,https://drive.google.com/file/d/1C_w1dP8SDWDngbF-n34MnmODPSEBRgqi/view?usp=sharing
 Sayur asem/Gangan Asam Kepala patin,"Sayur asem dengan kepala patin yang segar, menciptakan rasa asam yang lezat.","1 kepala patin
 1 buah timun kecil
 4 buah kacang panjang
@@ -2525,7 +2525,7 @@ Langkah 4
 Setelah 2-3 menit masukan kacang panjang, cabe. Koreksi rasa, jika masih hambar tambahkan garam & penyedap rasa lagi
 Langkah 5
 Setelah 1-2 menit masukan timun, tunggu 1 menit lalu masukan tomat.
-Masak sampai sayurnya matang & siap d hidangkan","Rp15,000",Kacang
+Masak sampai sayurnya matang & siap d hidangkan","Rp15,000",Kacang,https://drive.google.com/file/d/18jKStkjdOjK2DVh0Lr7K55fVyHsC_46K/view?usp=sharing
 Tahu Tempe Balado,Tahu dan tempe dimasak dengan bumbu balado yang pedas dan menggugah selera.,"1 papan Tempe
 5 buah Tahu
 5 buah Cabai rawit
@@ -2559,7 +2559,7 @@ Langkah 9
 Kalo bumbu²nya di rasa udah pas dan udh ngeluarin minyak, masukan tahu dan tempe yg udah digoreng aduk rata sebentar
 Langkah 10
 Daaann jadiii ini enak banget parah sampe temen² aku pada suka nambah2 terus katanya pedes nagih banget 😋 oh iya dan bumbu balado ini bisa buat ayam ½kg, terong, seafood, dll juga loh
-✨ selamat mencoba ✨","Rp10,000",Kedelai
+✨ selamat mencoba ✨","Rp10,000",Kedelai,https://drive.google.com/file/d/1lpREuttaPknzp4p8cobQ1C221lxkGYpJ/view?usp=sharing
 Mie Telur Mielor/Dogmie/Omellete ,"Mie telur dengan variasi mielor, dogmie, atau omelet sebagai topping yang lezat.","1 bungkus Mie Instant (aku rekomendasikan pakai mie kuah soto/kari yaa!)
 1 butir Telur","Mie,Telur",300,15,10,30,1,"Langkah 1
 Rebus mie seperti biasa
@@ -2578,7 +2578,7 @@ Masukkan mie tadi, jangan lupa diratakan (gunakan api sedang/kecil!)
 Langkah 8
 Tips: jangan sering dibalik dogmienya! Nanti takut hancur, dicek2 aja bagian bawahnya klo sudah kecoklatan dan tdk lembek bisa dibalik :D
 Langkah 9
-Selamat mencoba~","Rp10,000","Telur,Seafood,Gandum"
+Selamat mencoba~","Rp10,000","Telur,Seafood,Gandum",https://drive.google.com/file/d/17_hzsfdnVdpfp1ktRPDNrFjw_fGhUQnC/view?usp=sharing
 Opor Ayam Putih,Ayam dimasak dengan kuah opor yang putih dan kaya rempah.,"400 gr Ayam broiler (aku pakai 5 potong ayam bagian paha)
 200 ml santan
 2 batang Sereh
@@ -2606,7 +2606,7 @@ Masukan ayam yang telah dimarinasi kedalam tumisan bumbu halus, masak hingga set
 Langkah 4
 Masukan air kedalam tumisan ayam, masak selama 10-15 menit (sampai air menyusut)
 Langkah 5
-Masukan santan. Diamkan hingga mendidih kemudian koreksi rasa.","Rp15,000",0
+Masukan santan. Diamkan hingga mendidih kemudian koreksi rasa.","Rp15,000",0,https://drive.google.com/file/d/1jIuT_adUdpUeKqPu2IhYmY_8gjnf1Aqh/view?usp=sharing
 Semur Ayam Kecap Pedas,"Ayam dimasak dengan kecap pedas ala semur, menghasilkan rasa yang kaya dan enak.","500 gr dada ayam
 1 sachet kecap
 Secukupnya garam
@@ -2639,7 +2639,7 @@ Masukkan daging ayam yang telah digoreng sebelumnya kemudian tambahkan sedikit a
 Langkah 7
 Tambahkan garam, lada bubuk, kecap, penyedap rasa dan aduk hingga merata. Jangan lupa test rasa kalau ada yang dirasa kurang bisa ditambah
 Langkah 8
-Tunggu hingga airnya menyusut, kemudian setelah itu bisa dihidangkan.","Rp15,000",Kedelai
+Tunggu hingga airnya menyusut, kemudian setelah itu bisa dihidangkan.","Rp15,000",Kedelai,https://drive.google.com/file/d/1YlDVcT_TypBBmY2R9IDGci4s2P1GCMhp/view?usp=sharing
 Ayam Tempe Kuah Kuning,Ayam dan tempe dengan kuah kuning yang lezat dan gurih.,"Tempe
 Ayam
 5 buah cabai rawit
@@ -2654,7 +2654,7 @@ Tumis cabai rawit dan daun bawang yang sudah di potong-potong.
 Langkah 3
 Tambahkan kunyit dan air sesuai selera.
 Langkah 4
-Masukkan tempe dan ayam yang sudah di goreng tadi, kemudian tambahkan penyedap rasa sesuai selera. Bila sudah matang siap di makan dengan nasi hangat.","Rp15,000",Kedelai
+Masukkan tempe dan ayam yang sudah di goreng tadi, kemudian tambahkan penyedap rasa sesuai selera. Bila sudah matang siap di makan dengan nasi hangat.","Rp15,000",Kedelai,https://drive.google.com/file/d/1-Xw7Y_RKYXeFTx2JQCimaqfFs0sWgk1L/view?usp=sharing
 Ayam suwir ,"Potongan ayam yang disuwir menjadi serat-serat halus, cocok untuk berbagai hidangan.","1/2 Dada ayam Fillet
 1 buah tomat
 3 siung bawang merah
@@ -2680,7 +2680,7 @@ Apabila sudah harum, masukkan ayam yang sudah di suwir, di aduk hingga bumhu mer
 Langkah 9
 Tambahkan penyedap rasa sesuai selera, lalu koreksi rasa.
 Langkah 10
-Di oseng hingga ayam siap untuk disajikan.","Rp15,000",0
+Di oseng hingga ayam siap untuk disajikan.","Rp15,000",0,https://drive.google.com/file/d/1ezG6gJCwqEsoRqtVWS6VOJwYvwTtSOxL/view?usp=sharing
 Telor Orak Arik ,"Telur yang diorak-arik dengan bumbu dan sayuran, menghasilkan hidangan yang lezat dan bergizi.","1 butir telur ayam
 1 buah Bawang bombay cincang halus
 2 siung bawang putih iris tipis
@@ -2702,7 +2702,7 @@ Setelah rasanya pas di lidah kalian, boleh langsung masukan telur.
 Langkah 4
 Orak arik telur hingga bumbu dan telur nya menyatu.
 Langkah 5
-Angkat dan tiriskan. Di jamin easanya endulitaa","Rp10,000","Telur,Kedelai"
+Angkat dan tiriskan. Di jamin easanya endulitaa","Rp10,000","Telur,Kedelai",https://drive.google.com/file/d/1eySGDMzqE0kTr7EJm5wpOpM6GA7SxYiW/view?usp=sharing
 Chicken Steak with mushroom sauce ,Steak ayam dengan saus jamur yang kaya rasa dan lezat.,"Bahan Steak
 2 Paha Ayam, buang tulangnya
 5 Sdm saus BBQ
@@ -2737,7 +2737,7 @@ terakhir masukkan keju, koreksi rasa dan setelah sedikit mengental angkat
 Langkah 5
 Panaskan wajan dan olesi sedikit minyak, panggang ayam hingga matang kecoklatan. oleskan semua sisa saus marinasi ke atas daging ayam. sesuaikan kematangan menurut selera
 Langkah 6
-Sajikan steak ayam dengan sayuran dan saus mushroom","Rp20,000","susu,Gandum"
+Sajikan steak ayam dengan sayuran dan saus mushroom","Rp20,000","susu,Gandum",https://drive.google.com/file/d/1LXGxLM_t3ltAf7Kyn2SFaP46ap59w8yA/view?usp=sharing
 Tahu Balutan Telur Saus Tiram ,"Tahu yang dibalut dengan telur dan disajikan dengan saus tiram, menciptakan hidangan yang lezat dan gurih.","Bahan Saus:
 4 bh tomat (keluarkan bijinya) (Tujuan: supaya ga kayak sambal)
 4 bh cabe merah keriting merah (tujuan: kaya rasa dan warna)
@@ -2781,7 +2781,7 @@ Uda tiris😀
 Langkah 14
 Masukkan mangkok😄
 Langkah 15
-Siapp dihidangkan 😀","Rp10,000","Telur,Kedelai,Seafood"
+Siapp dihidangkan 😀","Rp10,000","Telur,Kedelai,Seafood",https://drive.google.com/file/d/1o32aedvuDFoOv_xF0mSWn_T-sOTEDbv2/view?usp=sharing
 Tamagoyaki ," Omelet ala Jepang yang terbuat dari telur, dilipat menjadi lapisan yang lezat.","1 butir telur ayam
 2 lembar daun pakcoy iris tipis
 1/2 wortel ukuran kecil iris kecil","telur,daun pakcoy,wortel",150,10,10,10,1,"Langkah 1
@@ -2791,7 +2791,7 @@ Masukkan telur di wajan anti lengket sedikit demi sedikit, jika sudah setengah m
 Langkah 3
 Ulangi hingga adonan telur dan sayur habis, sebelum ditiriskan boleh dibolak balik supaya matang hingga ke dalam
 Langkah 4
-Iris gulungan telur, dan jadi dehh","Rp10,000",Telur
+Iris gulungan telur, dan jadi dehh","Rp10,000",Telur,https://drive.google.com/file/d/1-r572ccse6YNqaZ6ZaNYLO8U2wFeTrUE/view?usp=sharing
 Telur Pancake Bayam,"Pancake telur dengan tambahan bayam, menghasilkan hidangan yang sehat dan lezat.","1 genggam bayam (ambil daunnya saja)
 1 butir telur ayam
 2 sdm tepung terigu serbaguna
@@ -2804,7 +2804,7 @@ Campur tepung terigu dengan secukpnya air sampai bertekstur kental. Tambahkan bu
 Langkah 2
 Di wadah terpisah, kocok telur sampai merata. Tambahkan adonan tepung, aduk merata lalu masukkan bayam
 Langkah 3
-Panaskan sedikit minyak di atas teflon (pakai minyak secukpnya saja atau sampsi merata di seluruh bagian teflon). Tuang adonan pancake, masak sampai kecoklatan. Setelahnya pancake bisa disajikan bareng nasi atau temen cemilan","Rp10,000","Telur,Gandum"
+Panaskan sedikit minyak di atas teflon (pakai minyak secukpnya saja atau sampsi merata di seluruh bagian teflon). Tuang adonan pancake, masak sampai kecoklatan. Setelahnya pancake bisa disajikan bareng nasi atau temen cemilan","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1Kg8F1m5wT9TfW2KvQk7M6RBXp5afPsYN/view?usp=sharing
 Sup Jagung Sosis,"Sup dengan jagung dan sosis sebagai bahan utama, cocok untuk hidangan hangat dan mengenyangkan.","1 buah jagung ukuran besar
 3 buah sosis ayam/sapi
 2 siung bawang merah
@@ -2828,7 +2828,7 @@ Panaskan wajar tambahkan minyak goreng, tumis bawang merah dan putih tunggu hing
 Langkah 5
 Setelah air mendidih masukan jagung, tunggu hingga jagung sedikit lebih matang lalu tambahkan sosis, kemudian beri bumbu dan koreksi rasa
 Langkah 6
-Saat api akan dimatikan masukan daun bawang dan seledri lalu siap dihidangkan","Rp15,000",0
+Saat api akan dimatikan masukan daun bawang dan seledri lalu siap dihidangkan","Rp15,000",0,https://drive.google.com/file/d/111Wa91IJAGIrm9YE1kTigUGlwc2gQTQN/view?usp=sharing
 Bistik Ayam ,"Potongan ayam yang dimasak dengan saus mentega, menciptakan hidangan yang lezat dan menggugah selera.","Beberapa bagian ayam yang telah dipotong
 Daun sup (seledri)
 1 buah Kentang
@@ -2851,7 +2851,7 @@ Bumbu: ulek bawang merah, bawang putih, merica. Tambahkan sedikit garam untuk me
 Langkah 5
 Panaskan minyak goreng. Goreng bumbu yang telah diulek sampai harum. Kemudian masukkan kentang, wortel dan ayam yang telah direbus tadi.
 Langkah 6
-Tambahkan sedikit air, daun seledri, kecap, gula, dan garam. Cek rasa sesuai selera","Rp15,000",Kedelai
+Tambahkan sedikit air, daun seledri, kecap, gula, dan garam. Cek rasa sesuai selera","Rp15,000",Kedelai,https://drive.google.com/file/d/1dehMST2KM-CP8QU_5D0UrvdxaQtEDCBs/view?usp=sharing
 Ayam Rica Kemangi,"Potongan ayam dimasak dengan bumbu rica yang pedas dan daun kemangi, menghasilkan hidangan yang segar dan pedas.","1 Ekor Ayam (Bisa Ayam Potong)
 3 buah jeruk nipis
 Garam, Micin dan Penyedap rasa
@@ -2885,7 +2885,7 @@ Masukan daun bawang dan kemangi yang sudah di iris halus.
 Langkah 9
 Tambahkan garam, micin dan penyedap rasa secukupnya.
 Langkah 10
-Setelah masak angkat dan hidangkan.","Rp15,000",Seafood
+Setelah masak angkat dan hidangkan.","Rp15,000",Seafood,https://drive.google.com/file/d/1J7X1qHuSW7LRqY6aGzjYV-IeMit7G9rk/view?usp=sharing
 BaSos(Baso Sosis) sambal ijo ,"Baso sosis dengan sambal ijo yang pedas dan segar, menghasilkan hidangan yang menggugah selera.","secukupnya Baso , bebas ya bisa ayam/sapi
 secukupnya Sosis , bebas ayam/sapi
 2 siung Bawang putih, geprek cincang halus
@@ -2895,7 +2895,7 @@ Potong"" baso dan sosis sesuai selera, goreng sbentar, tiriskan, sisihkan
 Langkah 2
 Tumis bawang putih sebentar lalu masukan ABC sambal ijon.nya tumis sbntar lalu beri secukupnya air, gula pasir, garam/penyedap rasa kmudian test rasa
 Langkah 3
-Jika di rasa cukup masukan basos.nya aduk smpai air mnyusut dan bumbu meresap, dan.. selesai.. siap di nikmati dengan nasi putih hangeut"",,yakin pedes manisnya bikin nambah terus","Rp10,000",0
+Jika di rasa cukup masukan basos.nya aduk smpai air mnyusut dan bumbu meresap, dan.. selesai.. siap di nikmati dengan nasi putih hangeut"",,yakin pedes manisnya bikin nambah terus","Rp10,000",0,https://drive.google.com/file/d/1HpS5X3ACh6zSM6FaYDW5g7XDGPMlroYr/view?usp=sharing
 Ayam geprek ,"Ayam goreng yang dihaluskan dengan sambal pedas, menciptakan hidangan yang pedas dan menggugah selera.","4 potong ayam
 tepung terigu/ bumbu racik serbaguna
 sambel geprek
@@ -2913,7 +2913,7 @@ Uleg atau blender semua bahan sambal
 Langkah 5
 Masukan minyak bekas goreng ayam sedikit ke sambal dan geprek ayamnya
 Langkah 6
-Selesai","Rp15,000",Gandum
+Selesai","Rp15,000",Gandum,https://drive.google.com/file/d/14lIGZhlRg01YXpbNRgvIO3T_D4UtKDuW/view?usp=sharing
 Kwetiau Goreng,"Kwetiau yang digoreng dengan bumbu dan variasi tambahan, menghasilkan hidangan yang lezat dan mengenyangkan.","1 Bungkus Kwetiau
 Secukupnya sawi hijau (caisim)
 secukupnya kubis (kol)
@@ -2945,7 +2945,7 @@ Langkah 5
 Terakhir masukkan kwetiau aduk rata, masukkan BUMBU LAINNYA, jika dirasa seret masakannya, beri air sedikitt saja. cek rasaa
 Selesaiii
 Langkah 6
-NOTE : KALO GADA AYAM ATO BAKSO ATO LAINNYA GAPAPA, GANTI SEADANYA, ASALKAN BUMBU HALUS+ BUMBU LAINNGA JGN DISKIP YAA.","Rp10,000","Telur,Kedelai"
+NOTE : KALO GADA AYAM ATO BAKSO ATO LAINNYA GAPAPA, GANTI SEADANYA, ASALKAN BUMBU HALUS+ BUMBU LAINNGA JGN DISKIP YAA.","Rp10,000","Telur,Kedelai",https://drive.google.com/file/d/1xxRbBWES5UxLpM_HXnCbU50Ypi2QgAZH/view?usp=sharing
 Sandwich kentang, Roti dengan isian kentang yang lezat dan cocok sebagai camilan atau sarapan.,"2-4 lembar roti tawar gandum
 1/3 batang wortel (dri wortel ukuran sedang)
 1/2 batang daun bawang (ambil bagian hijau)
@@ -2970,7 +2970,7 @@ Butter yg digunakan dalam resep ini adalah lurpak. Italian herbs merek jay's.
 Langkah 6
 Roti yg digunakan merek komugi, dan agak tebal. Karena dalam satu kemasan hanya berisi 6 iris. Jika menggunakan roti tipis seperti sari roti, isian ini bisa untuk 3 bahkan 4 lembar roti(namun untuk telur yg diiris bisa ditambahkan di luar resep). Untuk mayonaise bisa gunakan merek yummy, namun karena yg ada kewpie jadi digunakan merek kewpie.
 Langkah 7
-Iris roti jadi dua. Oleskan salad kentang tadi. Tata irisan telur. Tutup dengan salad kentang lagi. Lalu timpa dengan bagian roti yang lain. Bisa dimasukkan ke dalam lemari es dengan di bungkus plastic wrap atau wadah kedap udara seperti tupperware. Potong2 sesuai selera untuk dijadikan bekal.","Rp10,000","Telur,Gandum"
+Iris roti jadi dua. Oleskan salad kentang tadi. Tata irisan telur. Tutup dengan salad kentang lagi. Lalu timpa dengan bagian roti yang lain. Bisa dimasukkan ke dalam lemari es dengan di bungkus plastic wrap atau wadah kedap udara seperti tupperware. Potong2 sesuai selera untuk dijadikan bekal.","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1hk8wIvXh1q0hbXffObMZGESw0dX6t5zc/view?usp=sharing
 Telur Crispy,"Telur yang digoreng hingga renyah di luar, tetapi lembut di dalamnya.","2 telur ayam
 1 sachet tepung crispy merk mama suka
 Garam
@@ -2988,7 +2988,7 @@ Lalu balur ke adonan tepung yang kering
 Langkah 6
 Panaskan minyak lalu goreng hingga matang
 Langkah 7
-Cocok banget di santap sama oseng kangkung dan dan nasi hangat","Rp10,000",Telur
+Cocok banget di santap sama oseng kangkung dan dan nasi hangat","Rp10,000",Telur,https://drive.google.com/file/d/1o5eFi9TohL22rZoFcyH2cq12Dg-o0HrB/view?usp=sharing
 Sup Telur Bakso,"Sup dengan tambahan telur dan bakso sebagai bahan utama, cocok untuk hidangan hangat.","5 butir Bakso
 1 Butir telur ayam
 Cabai domba (Sesuai Selera)
@@ -3005,7 +3005,7 @@ Panaskan minyak, lalu masukan bawang putih dan bawang merah tumis hingga harum.
 Langkah 3
 Masukan telur, dan orak orik telur tsb. Lalu tambahan air secukupnya (sesuai selera).
 Langkah 4
-Lalu masukan Bakso, tomat juga daun bawang. Masukan juga penyedap rasa juga gula, icip icip jika sudah pas tunggu sampai mendidih. Dan Sup telur Bakso pun siap dinikmatiii. Selamat mencobaaa yakkkk","Rp15,000",Telur
+Lalu masukan Bakso, tomat juga daun bawang. Masukan juga penyedap rasa juga gula, icip icip jika sudah pas tunggu sampai mendidih. Dan Sup telur Bakso pun siap dinikmatiii. Selamat mencobaaa yakkkk","Rp15,000",Telur,https://drive.google.com/file/d/1M-gkFV9QbXcZ4drZvk4ZCjjIEo3nJiZD/view?usp=sharing
 Steak tempe dan tahu,"Potongan tempe dan tahu yang dimasak dengan cara dipanggang atau digoreng, menghasilkan hidangan yang gurih.","1 lonjor tempe kedelai
 3 potong tahu sutera putih
 1 butir telur ayam
@@ -3031,7 +3031,7 @@ Langkah 4
 Didihkan air dan masukan sejumput garam lalu rebus sayur selama 1 menit agar tidak overcook.
 Langkah 5
 Sajikan steak diatas piring dan hias steak beserta sayurnya agak sangat menarik dan hidangkan.
-","Rp15,000","Telur,Kacang,Kedelai,Gandum"
+","Rp15,000","Telur,Kacang,Kedelai,Gandum",https://drive.google.com/file/d/1KDeIZylFkoMcFLi15m-CzLB1VI6TCgCg/view?usp=sharing
 Sarden ikan pindang saus tomat," Sarden ikan pindang yang disajikan dengan saus tomat yang lezat dan praktis, cocok untuk hidangan sehari-hari yang simpel namun nikmat.","3 ekor ikan pindang
 2 Buah Tomat
 Bumbu halus
@@ -3057,7 +3057,7 @@ Tunggu beberapa menit sampai tomat terlihat hancur, lalu masukan ikan pindang ya
 Langkah 6
 Lalu tambahkan bumbu garam,penyedap rasa, dan gula secukupnya.. Kalo sudah aduk² tunggu beberapa menit.. Kalo air nya sudah lumayan menyusut langsung matikan api
 Langkah 7
-Dan sarden ikan pindang ala anak kos²an pun siap di sajikan","Rp15,000",Seafood
+Dan sarden ikan pindang ala anak kos²an pun siap di sajikan","Rp15,000",Seafood,https://drive.google.com/file/d/1H5hYu5_PO94CFSC9uGrmqoN2W6IjGaRq/view?usp=sharing
 Tumis Sambal Telur ,"Telur yang ditumis dengan bumbu sambal, menciptakan hidangan yang pedas dan menggugah selera.","5 butir telur direbus lalu dipotong jadi 3 atau 4 bagian
 1 sdm gula
 1 sdm ebi (opsional)
@@ -3074,7 +3074,7 @@ Goreng sebentar telur
 Langkah 3
 Panaskan minyak, tumis bumbu uleg. Tambahkan ebi, garam, gula dan kaldu ayam. Koreksi rasa
 Langkah 4
-Jika rasa sudah pas, tambahkan telur. Aduk merata","Rp15,000","Telur,udang"
+Jika rasa sudah pas, tambahkan telur. Aduk merata","Rp15,000","Telur,udang",https://drive.google.com/file/d/1nDlyBb0cfh05TfzPrrY8YpScP1fOLbgs/view?usp=sharing
 Mi Tek-Tek Kuah,"Mi yang dimasak dengan bumbu kuah khas, memberikan cita rasa yang lezat.","Bahan Utama: Mi dibumbuin dulu biar cucok
 3 bh mi biasa
 1 sdm lada bubuk
@@ -3110,7 +3110,7 @@ Nah.. Masukkan mi yang udah dibumbuin lada dan dibaluri minyak goreng setelah di
 Langkah 6
 Masukkan air dan semua sayur beserta hiasannya yaitu tomat dan daun bawang. Biar sehat dan cantikk❤
 Langkah 7
-Sajikan.... Tambahkan cabe.. Oiya tes rasa dulu.. Garam... Dan mi tek-tek kuah ala anak kos dengan tempe pengganti lauk ayam... Sudah cucok... Uwww.. Mantappp.","Rp10,000","Kedelai,Gandum"
+Sajikan.... Tambahkan cabe.. Oiya tes rasa dulu.. Garam... Dan mi tek-tek kuah ala anak kos dengan tempe pengganti lauk ayam... Sudah cucok... Uwww.. Mantappp.","Rp10,000","Kedelai,Gandum",https://drive.google.com/file/d/12SN5tfkXy-I5QVvG0n3jzHntzIiThJ1Y/view?usp=sharing
 Sup telur baso ,"Sup dengan tambahan telur dan baso sebagai bahan utama, cocok untuk hidangan hangat dan mengenyangkan.","3 buah bakso
 1 telur ayam
 1/2 buah wortel
@@ -3140,7 +3140,7 @@ Kalo susah bisa telurnya dikocok dulu dimangkok lain
 Langkah 8
 Jika sudah semua cek dan koreksi rasanya
 Langkah 9
-Sup siap dihidangkan :)","Rp10,000","Telur,Kacang"
+Sup siap dihidangkan :)","Rp10,000","Telur,Kacang",https://drive.google.com/file/d/1fwl9NuAv_zJlruA77XTHwaBFJYYMWdNx/view?usp=sharing
 Ayam Teriyaki - Ala Anak Kos," Potongan ayam lezat yang dimasak dengan saus teriyaki yang sederhana dan praktis, cocok untuk hidangan sehari-hari yang enak dan mudah disiapkan.","1/2 kg dada ayam
 2 siung bawang putih
 1 buah bawang merah
@@ -3153,7 +3153,7 @@ Cuci bersih daging ayam, campurkan saos tiram dan tunggu selama 1 jam. Lalu rebu
 Langkah 2
 Jika sudah angkat dan potong sesuai selera
 Langkah 3
-Tumis bumbu halus (bawang putih, bawang merah, garam dan penyedap rasa) lalu masukan ayam yang sudah di potong tambahkan kecap manis, kecap asin, saos teriyaki dan lada. Aduk tunggu sampai matang. Ayam teriyaki siap di hidangkan dengan nasi hangat. Selamat mencoba ","Rp15,000",Kedelai
+Tumis bumbu halus (bawang putih, bawang merah, garam dan penyedap rasa) lalu masukan ayam yang sudah di potong tambahkan kecap manis, kecap asin, saos teriyaki dan lada. Aduk tunggu sampai matang. Ayam teriyaki siap di hidangkan dengan nasi hangat. Selamat mencoba ","Rp15,000",Kedelai,https://drive.google.com/file/d/11gUtNsrTQJLkCpQNfnXFjq4V_EIU6vJG/view?usp=sharing
 Chicken Bulgogi ,Potongan ayam yang dimarinasi dengan bumbu bulgogi dan dimasak dengan cara dipanggang atau digoreng.,"3 potong ayam
 3 siung bawang putih geprek
 2 sdm kecap asin
@@ -3182,7 +3182,7 @@ Bolak balik ayam, pastikan ayam telah matang
 Langkah 11
 Tambahkan cabai sesuai selera
 Langkah 12
-Setelah ayam matang kecoklatan, dan air mengental hidangkan. Tambahkan biji wijen sebagai penghias","Rp20,000",Kedelai
+Setelah ayam matang kecoklatan, dan air mengental hidangkan. Tambahkan biji wijen sebagai penghias","Rp20,000",Kedelai,https://drive.google.com/file/d/1XespsjcMz-hHkNSw5NKuT5z7ttEJUUfI/view?usp=sharing
 Tongkol Tuna Masak Kuning (ala anak kos),Potongan tongkol tuna dimasak dengan bumbu kuning yang khas ala anak kos.,"Ikan tongkol tuna
 10 buah cabai rawit
 2 siung bawang putih
@@ -3202,7 +3202,7 @@ Tambahkan kuah rebusan ikan dan air.
 Langkah 4
 Kemudian masukkan ikan, kemangi, dan penyedap rasa sesuai selera.
 Langkah 5
-Bila sudah matang siap di santap dengan nasi hangat.","Rp15,000",Seafood
+Bila sudah matang siap di santap dengan nasi hangat.","Rp15,000",Seafood,https://drive.google.com/file/d/1FP4NbFk6flmnPs4uYJl20vp_UcfV-KMg/view?usp=sharing
 Ikan Nila Kemangi Kuah Kuning,Ikan nila dimasak dengan kuah kuning yang sedap dan ditambahkan daun kemangi.,"1 ekor ikan nila
 7 buah cabai rawit
 2 siung bawang putih
@@ -3221,7 +3221,7 @@ Tumis bumbu yang sudah di ulek tadi.
 Langkah 3
 Tambahkan air ke dalam tumisan bumbu. Masukkan kunyit, ikan, air asam, dan kemangi.
 Langkah 4
-Tambahkan secukupnya garam dan penyedap rasa. Bila sudah matang di hidangkan makan dengan nasi hangat.","Rp15,000",Seafood
+Tambahkan secukupnya garam dan penyedap rasa. Bila sudah matang di hidangkan makan dengan nasi hangat.","Rp15,000",Seafood,https://drive.google.com/file/d/1LU1F4Wb8wddx4dHhk8nQb3yt9trF1HJd/view?usp=sharing
 Resep teri tempe kering daun jeruk ,Teri dan tempe yang diolah menjadi masakan kering dengan aroma daun jeruk yang segar.,"2 balok tempe daun
 150 gr ikan bilis
 100 gr cabenmerah
@@ -3243,7 +3243,7 @@ Langkah 5
 Tumis bawang merah Dan bawang putih hingga harum setengah matang Dan kemudian masukkan cabe merah dan cabe hijau tumis sampai kering.Tambahkan 1 1/2 sdt garam (sesuai selera) dan 1 sdt penyedap jamur,ikan bilis/teri,tempe dan daun jeruk yg sudah digoreng.Campur sampai merata.
 Langkah 6
 Sajikan
-Masukkan ke dalam toples biar rasa tetap gurih dan tidak melempem,Tahan lebih dari 2 bulan.Sangat cosok di sajikan dengan nasi panas ataupun nasi goreng Selamat mencoba","Rp10,000","Kedelai,Seafood"
+Masukkan ke dalam toples biar rasa tetap gurih dan tidak melempem,Tahan lebih dari 2 bulan.Sangat cosok di sajikan dengan nasi panas ataupun nasi goreng Selamat mencoba","Rp10,000","Kedelai,Seafood",https://drive.google.com/file/d/1aepBlyJ565YtIfdjErGdN7MSIJp3tWyY/view?usp=sharing
 Tumis Terong dan Teri Rumahan,"Terong dan teri yang ditumis bersama bumbu rumahan, menghasilkan hidangan yang sederhana dan enak.","8 Cabai Rawit
 1 Daun Bawang
 1 Sdm Ikan Teri
@@ -3259,7 +3259,7 @@ Goreng sebentar terong dan tiriskan. Tumis ikan teri lalu bawang, cabai jika sud
 Langkah 3
 Kemudian masukan kecap, garam, kaldu jamur dan air tunggu sampai matang meresap
 Langkah 4
-Terakhir ini optional ya tambahkan daun bawang dan hidangkan dengan nasi hangat (yumasakyu)","Rp10,000","Kedelai,Seafood"
+Terakhir ini optional ya tambahkan daun bawang dan hidangkan dengan nasi hangat (yumasakyu)","Rp10,000","Kedelai,Seafood",https://drive.google.com/file/d/1h-H7ZvT7m37dvgxAkwOY1b5_OUYLvr05/view?usp=sharing
 Udang Asam Manis,Udang dimasak dengan saus asam manis yang lezat dan segar.,"Udang
 Bakso ikan (gausa juga gapapa)
 Jagung manis (gausa juga gapapa)
@@ -3281,7 +3281,7 @@ Jika sudah mendidih masukan tomat, bakso dan udang.
 Langkah 4
 Aduk merata, masukan penyedap rasa, garam, lada dan saus.
 Langkah 5
-Jika sudah dirasa matang, masukan daun bawang tunggu sampe daun layu dan masakan siap dihidangkan.","Rp20,000","Seafood,udang"
+Jika sudah dirasa matang, masukan daun bawang tunggu sampe daun layu dan masakan siap dihidangkan.","Rp20,000","Seafood,udang",https://drive.google.com/file/d/1lwpWJ-Am8uXSdhADMzU4Fqk0wrGDah4C/view?usp=sharing
 Ikan nila,"Ikan nila yang dimasak dengan bumbu dan variasi tambahan, menghasilkan hidangan yang lezat dan bergizi.","1 ekor ikan nila
 1 buah jeruk nipis
 1 bh bawang bombai
@@ -3313,7 +3313,7 @@ Tambahkan larutan tepung maizena. Apabila tidak menggunakan juga tidak apa2 kare
 Langkah 7
 Terakhir, sebelum matikan kompor masukkan daun bawang dan tomat. Aduk rata dan campurkan ke ikan nila yg sudah di tata di piring.
 Langkah 8
-Dan ikan nila saus asam pedas siap dihidangkan","Rp15,000",Seafood
+Dan ikan nila saus asam pedas siap dihidangkan","Rp15,000",Seafood,https://drive.google.com/file/d/1PDKjgk_AgxB_mtCep2OFiCtC5SuIkcXQ/view?usp=sharing
 Nasi Goreng Udang Sambal Bajak," Nasi yang digoreng dengan tambahan udang dan sambal bajak, menciptakan hidangan yang pedas dan menggugah selera.","Bahan Udang:👇
 5 bh udang dilumurin bumbu
 Bahan Bumbu Udang:👇
@@ -3343,7 +3343,7 @@ Masukkan nasi. Taburi bawang merah goreng, garam, kecap ikan, dan saus tiram.
 Langkah 4
 Sesudah matang, aku masukkan ke mangkok kecil untuk ku cetak.
 Langkah 5
-Dan jeng-jeng..ulalala...mantap, sedap, nikmat. ","Rp15,000","Kedelai,Seafood,udang"
+Dan jeng-jeng..ulalala...mantap, sedap, nikmat. ","Rp15,000","Kedelai,Seafood,udang",https://drive.google.com/file/d/1bn18hiYeY3OarRH8JpCxYzuUgG7fISJG/view?usp=sharing
 Sarden Kaleng (makanan simple anak kos),"Sarden yang disajikan dalam kaleng, cocok sebagai hidangan sederhana dan praktis bagi anak kos.","2 kaleng ikan sarden
 2 siung bawang putih
 3 siung bawang merah
@@ -3355,7 +3355,7 @@ Tumis semua bahan tadi sampai harum
 Langkah 3
 Masukan ikan dan sedikit air sampe meresap beri penyedap rasa.koreksi rasa
 Langkah 4
-Siap di sajikan dengan nasi panas 👍🏻","Rp5,000",Seafood
+Siap di sajikan dengan nasi panas 👍🏻","Rp5,000",Seafood,https://drive.google.com/file/d/1JfGXCh29n9Wpho-SF9dquPHF2JIP7XOy/view?usp=sharing
 Sup Udang Pedas-Asam,Sup dengan tambahan udang dan bumbu pedas-asam yang segar dan menggugah selera.,"Bahan utama:
 10 bh udang
 Bahan sayur:
@@ -3380,7 +3380,7 @@ Karena ga cukup waktu, aku masukkan semua bahan dalam 1 panci, ku kasih air 1 ge
 Langkah 2
 Kuaduk-aduk...
 Langkah 3
-Ku kasih taburan bawang merah goreng-bawang putih goreng dan garam, daun jeruk dan daun salam. Tara...jadii..ulala...seddapppp dan cepattt:","Rp20,000","Kacang,Kedelai,Seafood,udang"
+Ku kasih taburan bawang merah goreng-bawang putih goreng dan garam, daun jeruk dan daun salam. Tara...jadii..ulala...seddapppp dan cepattt:","Rp20,000","Kacang,Kedelai,Seafood,udang",https://drive.google.com/file/d/1fUu5hpDEB9nvm7hhggXnkTqRlsXh4cFk/view?usp=sharing
 Tumis Kangkung Ikan Teri,"Kangkung dan ikan teri yang ditumis dengan bumbu khas, menciptakan hidangan yang sederhana dan enak.","1 ikat kangkung
 Ikan teri medan
 1 saset saori saos tiram
@@ -3393,7 +3393,7 @@ Panaskan minyak di panci ricecooker dengan cara panci ditahan dengan spatula aga
 Langkah 2
 Tumis hingga harum, kemudian masukkan kangkung, air sedikit dan saos tiram, campur hingga merata
 Langkah 3
-Setelah sayuran layu dan matang langsung angkat agar proses memasak selesai, dan kangkung tumis siap dinikmati, selamat mencoba","Rp10,000",Seafood
+Setelah sayuran layu dan matang langsung angkat agar proses memasak selesai, dan kangkung tumis siap dinikmati, selamat mencoba","Rp10,000",Seafood,https://drive.google.com/file/d/1GR-UYfgYFrewIs67efGEh2F-NrwX6s2w/view?usp=sharing
 Enoki Tomyam,Jamur enoki yang dimasak dengan bumbu tomyam pedas dan segar.,"1 pack Jamur Enoki (dijual di SuperIndo)
 4 buah Sosis (potong-potong)
 10 buah Fish Ball
@@ -3411,7 +3411,7 @@ Masukan air secukupnya. Tunggu hingga mendidih, lalu masukan bumbu Tomyam dan ka
 Langkah 3
 Masukkan Caesim, Enoki, Fish ball, sosis, dan mie ke dalam ricecooker, tunggu hingga matang. Kemudian, masukkan telur (jika ingin setengah matang masukkan saat akhir, tapi jika ingin matang masukkan bersama bahan-bahan lainnya)
 Langkah 4
-Tunggu sampai matang. Setelah itu siap dihidangkan ","Rp10,000","Telur,Gandum"
+Tunggu sampai matang. Setelah itu siap dihidangkan ","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1YfJOBCxwQln7EVA3moPO1ZWMDXWPoLS2/view?usp=sharing
 Cumi ala ala anak kost,"Potongan cumi yang dimasak dengan bumbu dan variasi tambahan, cocok untuk hidangan praktis ala anak kost.","1/2 kg Cumi (bersihkan)
 1 jeruk nipis
 Cabai merah (banyaknya sesuai selera)
@@ -3435,7 +3435,7 @@ Tumis bumbu halus yang tadi, kasih minyak ikan dan saus tiramnya juga sesuai sel
 Langkah 5
 Ketika sudah harum bumbunya, masukkan cumi lalu biarkan bumbu meresap, jangan lupa koreksi rasa.
 Langkah 6
-Cumi siap dihidangkan, jangan lupa tambahkan garnish supaya cantikkkk","Rp20,000",Seafood
+Cumi siap dihidangkan, jangan lupa tambahkan garnish supaya cantikkkk","Rp20,000",Seafood,https://drive.google.com/file/d/1x02mqnQAc1cV99FmHOnE97l_s031ZwsZ/view?usp=sharing
 Pizza teflon tanpa telur tanpa fermipan (cocok buat anak kos),"Pizza yang dibuat dengan menggunakan teflon dan tanpa telur serta fermipan, cocok untuk anak kos yang ingin membuat hidangan simpel.","9 sendok makan terigu bisa pakai merk apa aja
 8 sendok air matang
 1 sdt gula
@@ -3478,7 +3478,7 @@ Beri keju parut diatasnya
 Langkah 14
 Panggang 5-10 menit hingga matang
 Langkah 15
-Happy cooking","Rp15,000","susu,Gandum"
+Happy cooking","Rp15,000","susu,Gandum",https://drive.google.com/file/d/1XHnmMhFkJ9pl10s-YM7EBK7NJJLwFmWo/view?usp=sharing
 Martabak Telur anak kos,"Martabak dengan isian telur yang lezat, cocok sebagai camilan atau hidangan sarapan anak kos.","Kulit lumpia
 1 butir telur
 1/2 butir bawang bombai
@@ -3497,7 +3497,7 @@ Siapkan kulit lumpia lalu isi dengan kocokan telur dan beef paty lalu lipat sepe
 Langkah 5
 Lalu goreng dengan minyak panas api sedang hingga matang
 Langkah 6
-Selamat mencoba","Rp10,000",Telur
+Selamat mencoba","Rp10,000",Telur,https://drive.google.com/file/d/104RX-jm_fQwUrieSt3Bj08XWlI7ZRI1l/view?usp=sharing
 Korean BBQ ala anak kos,"Potongan daging yang dimasak dengan cara dipanggang seperti Korean BBQ, praktis dan lezat untuk anak kos.","150 gram daging sapi slice
 1 ruas jari jahe parut
 1/2 sdt bawang putih parut
@@ -3525,7 +3525,7 @@ Sambil menunggu daging dimarinasi, siapkan saos untuk cocolan. Campurkan semua b
 Langkah 3
 Saatnya untuk bakar-bakar. Siapkan pan anti lengket olesi minyak. Pastikan minyak sudah panas sebelum daging dibakar. Kemudian, bakar daging dan bawang putih iris dengan api kecil-sedang.
 Langkah 4
-Setelah semuanya matang. Siapkan bahan pelengkap. Tata semua hidangan dan siap untuk dimakan sambil nonton drakor hehe.","Rp20,000",Kedelai
+Setelah semuanya matang. Siapkan bahan pelengkap. Tata semua hidangan dan siap untuk dimakan sambil nonton drakor hehe.","Rp20,000",Kedelai,https://drive.google.com/file/d/1PGr1XyPFn8bwh_wxPZNdLYJaj06kVJV1/view?usp=sharing
 Oseng Daging anak kos,"Potongan daging yang dioseng dengan bumbu dan variasi tambahan, menciptakan hidangan praktis dan enak ala anak kos","200 gr daging sapi has dalam
 Bumbu Iris:
 3 siung bawang merah
@@ -3546,7 +3546,7 @@ Siapkan wajan, beri secukupnya minyak untuk menumis. Masukkan duo bawang tumis s
 Langkah 3
 Masukkan daging, tumis sebentar. Tambahkan 200ml air dan bumbu pelengkap nya. Aduk rata. Kecilkan api masak kurleb 20-30menit agar daging empuk.
 Cek rasa.
-Enak dihidangkan dengan nasi anget","Rp15,000",0
+Enak dihidangkan dengan nasi anget","Rp15,000",0,https://drive.google.com/file/d/1f9_S1gjjGxtBUiPu8S1ce9s_tQmpt0SC/view?usp=sharing
 Sushi Saus Mentai Halal Anak Kos,"Sushi dengan saus mentai halal yang lezat, mudah dibuat dan cocok untuk penggemar makanan Jepang.","Nasi Sushi
 2 Mangkok Nasi Pulen Hangat (Saran saya pakai beras Sania)
 5 Sdm Sprite (Pengganti Vinegar/Cuka Beras)
@@ -3596,7 +3596,7 @@ Beri isian sapi dan timun. Usahakan kemudian gulung nori perlahan hingga rapat
 Langkah 10
 Lakukan hingga nori habis
 Langkah 11
-Nikmati dengan saus mentai di atasnya dan cocolan kecap asin","Rp20,000","Kedelai,Gandum"
+Nikmati dengan saus mentai di atasnya dan cocolan kecap asin","Rp20,000","Kedelai,Gandum",https://drive.google.com/file/d/15I8_lrpEXpe1XbfBOoYbg4d73Qik-mW5/view?usp=sharing
 Rendang Tahu [Anak Kost Version],"Tahu yang dimasak dengan bumbu rendang khas, versi anak kost yang praktis dan lezat.","1 buah tahu
 sesuai selera Smoked beef (opsional)
 1 bungkus Bumbu Indofood Racik Rendang
@@ -3612,7 +3612,7 @@ Setelah beberapa saat, tuangkan air secukupnya. Tunggu hingga air agak menyusut.
 Langkah 5
 Setelah air agak menyusut, masukkan santan. Aduk rata dan masak hingga dirasa bumbu sudah menyerap.
 Langkah 6
-Tadaaa rendang tahu ala anak kost di akhir bulan siap dinikmati.","Rp10,000",Kedelai
+Tadaaa rendang tahu ala anak kost di akhir bulan siap dinikmati.","Rp10,000",Kedelai,https://drive.google.com/file/d/1AcguUWacN6GvILsBBRQ564_d8SahYJvL/view?usp=sharing
 Gulai Daging Sapi Bumbu Instan (ala anak kos),"Potongan daging sapi dimasak dengan bumbu gulai instan, cocok untuk hidangan praktis ala anak kos.","Daging sapi
 Santan
 1 sachet Bumbu gulai desaku
@@ -3636,7 +3636,7 @@ Langkah 7
 Tambahkan penyedap rasa sesuai selera.
 Langkah 8
 Bila sudah mendidih dan daging empuk. Siap di santap dengan nasi hangat.
-","Rp15,000",0
+","Rp15,000",0,https://drive.google.com/file/d/1YAa35LSZ6sEMZkR2kIcptQKXT9QLnLIk/view?usp=sharing
 Sapi lada hitam premium simple ala anak kos,"Potongan daging sapi yang dimasak dengan bumbu lada hitam premium, menciptakan hidangan yang lezat dan mewah ala anak kos.","2 sdm Mentega (sy pake palmia)
 500 gram Daging sapi (pakai yg slice lebih enak, kalo ga ada daging biasa iris tipis saat beku)
 5 sdm Saori lada hitam
@@ -3658,7 +3658,7 @@ Jika air sudah menyusut, tambahkan air lagi dan masukkan kol, 1 bungkus merica d
 Langkah 5
 Jika daging dirasa sudah lembut. Larutkan maizena ke mangkok kecil dngn air 3sdm aduk dan masukan ke wajan, aduk rata dan tunggu 2 menit
 Langkah 6
-Siap disajikan hehe ","Rp25,000",udang
+Siap disajikan hehe ","Rp25,000",udang,https://drive.google.com/file/d/1kiMmXqfGPLjZyg18xmo_Fqzc-Tybx2NV/view?usp=sharing
 Sambal Daging Sapi,"Potongan daging sapi yang dimasak dengan bumbu sambal pedas, menciptakan hidangan yang pedas dan menggugah selera.","Daging sapi
 1 buah tomat
 5 siung bawang merah
@@ -3676,7 +3676,7 @@ Goreng daging dengan minyak panas.
 Langkah 4
 Tumis sambal kemudian masukkan daging. Aduk hingga merata. Tambakhkan penyedap rasa secukupnya.
 Langkah 5
-Bila sudah matang, sambal daging siap di santap dengan nasi hangat.","Rp20,000",0
+Bila sudah matang, sambal daging siap di santap dengan nasi hangat.","Rp20,000",0,https://drive.google.com/file/d/1XQtlO1vRxYmiRIx4Mj0H3iRKmb8kdkC7/view?usp=sharing
 Oseng sawi putih bakso ,"Sawi putih dan bakso yang dioseng dengan bumbu khas, menghasilkan hidangan yang sederhana dan enak.","sawi putih
 Bakso ayam/sapi/ikan
 wortel
@@ -3708,7 +3708,7 @@ Masukkan bakso yang sudah diiris oseng sampai matang
 Langkah 8
 Masukkan sayuran kemudian tambahkan sedikit air(sesuai selera)
 Langkah 9
-Masukkan garam,gula, penyedap rasa, saos tiram, saos cabai, kecap manis dan aduk sampek rata. Setelah itu diamkan sampai sayuran empuk dan matikan kompor","Rp15,000","Kedelai,Seafood"
+Masukkan garam,gula, penyedap rasa, saos tiram, saos cabai, kecap manis dan aduk sampek rata. Setelah itu diamkan sampai sayuran empuk dan matikan kompor","Rp15,000","Kedelai,Seafood",https://drive.google.com/file/d/1Yc9KicuFOcny1e0zsa9QG9IxfN0Ehn5-/view?usp=sharing
 Beef Bulgogi ala anak Kos,Potongan daging sapi yang dimarinasi dengan bumbu bulgogi dan dimasak dengan cara dipanggang atau digoreng ala anak kos.,"50 gram daging sapi. Iris tipis2 kemudian marinasi
 Bumbu Marinasi: saos sambal, saos tiram, kecap manis, kecap asin
 1/2 buah bawang bombai
@@ -3727,7 +3727,7 @@ Aduk merata.
 Jangan lupa tes rasa, apabila dirasa kurang gurih bisa ditambahkan penyedap. Tapi tanpa tambahan penyedap menurutku sudah gurih.
 Langkah 5
 Sering sering diaduk agar tidak gosong
-Masak hingga air habis.","Rp25,000",Kedelai
+Masak hingga air habis.","Rp25,000",Kedelai,https://drive.google.com/file/d/16XgtiCgrBvk0_tFkNM3bFwVQWdqa6TIz/view?usp=sharing
 Seblak mie instan ,"Mie instan yang diolah menjadi seblak dengan tambahan bumbu dan variasi lainnya, menciptakan hidangan yang pedas dan lezat.","1 bks Mie instan terserah merk apa
 2 buah sosis sapi (optional)
 1 butir telur
@@ -3747,7 +3747,7 @@ Siapkan minyak untuk menumis, masukkan baso sapi dan sosisnya dulu. Setelah agak
 Langkah 3
 Masukkan bumbu halus, tumis hingga wangi. Masukkan air secukupnya. Tunggu sampai mendidih. Tambahkan bumbu pelengkap dan bumbu mie instan.
 Langkah 4
-Masukkan sawi, dan mie. Koreksi rasa. Siap disajikan","Rp10,000","Telur,Gandum"
+Masukkan sawi, dan mie. Koreksi rasa. Siap disajikan","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1ou9lWNG7mY0p-4dBdtsUzLxRfi6lodM-/view?usp=sharing
 Sup iga sapi ala anak kos,"Sup dengan tambahan potongan iga sapi sebagai bahan utama, cocok untuk hidangan hangat dan mengenyangkan ala anak kos.","1/2 kg iga sapi
 1 buah wortel
 1 buah tomat
@@ -3772,7 +3772,7 @@ Goreng bawang putih, tambahkan gula, garam, kaldu bubuk, lada bubuk secukupnya
 Langkah 7
 Masukkan kedalam rebusan iga sapi yg sudah 1.5 jam, koreksi rasa sesuaikan. Masukkan wortel, seledri, daun bawang, dan kentang goreng. Aduk rata
 Langkah 8
-Jika sudah meresap semua. Sajikan dengan taburan bawang goreng tadi. Selamat mencoba","Rp20,000",0
+Jika sudah meresap semua. Sajikan dengan taburan bawang goreng tadi. Selamat mencoba","Rp20,000",0,https://drive.google.com/file/d/1V6cI0kbG7s_prj2EjJ5JTUwELAel90TR/view?usp=sharing
 Telur Kukus Sosis Kornet Ricecooker ala Anak Kos,"Telur dan sosis kornet yang dikukus menggunakan rice cooker, praktis dan lezat untuk anak kos.","1 butir telur
 1/2 bungkus kornet sapi
 1/2 potong sosis diiris tipis
@@ -3785,7 +3785,7 @@ Cabe rawit potong/ulek (jika mau pedas)","telur, kornet sapi,sosis,daun bawang,G
 Langkah 2
 Aduk semua bahan sampai rata. Lalu kukus bersama nasi yg mau ditanak
 Langkah 3
-Pas nasi uda mateng, beri sedikit cabe tabur diatasnya. Tinggal dimakan bareng nasi panas deh enaqqqq dan lembut bgtttt aaakkk. Kalo merasa kurang asin bisa dikasi kecap asin saat penyajiannya yah. Selamat mencoba","Rp15,000",Telur
+Pas nasi uda mateng, beri sedikit cabe tabur diatasnya. Tinggal dimakan bareng nasi panas deh enaqqqq dan lembut bgtttt aaakkk. Kalo merasa kurang asin bisa dikasi kecap asin saat penyajiannya yah. Selamat mencoba","Rp15,000",Telur,https://drive.google.com/file/d/1IjVYo99CwvTSyXL4Te61ZGTB3MWZ5i_i/view?usp=sharing
 Beef Slice Teriyaki ala Anak Kost,"potongan daging sapi yang dimasak dengan saus teriyaki, praktis dan lezat.","250 gr beef slice
 1 bonggol jagung (bisa diganti jenis sayur lain)
 2 butir telur (boleh diskip)
@@ -3809,7 +3809,7 @@ Tuangkan minyak goreng untuk menggoreng telur mata sapi, beri lada dan garam/roy
 Langkah 5
 Tuang sedikit minyak untuk menumis bawang putih dan bawang bombay sampai harum dan layu. Masukkan beef slice yg sudah dimarinasi. Beri garam, lada, royco, gula sesuai selera. Aduk hingga merata.
 Langkah 6
-Hidangkan dengan nasi selagi hangat.","Rp25,000","Telur,Kedelai"
+Hidangkan dengan nasi selagi hangat.","Rp25,000","Telur,Kedelai",https://drive.google.com/file/d/1NpyP1BF2Svr5RfVAYxzJqdsIor7DegoJ/view?usp=sharing
 Rendang daging ala anak kos,"Daging sapi yang dimasak dengan bumbu rendang khas, hidangan yang lezat dan bergizi.","1/2 daging sapi
 secukupnya Minyak goreng
 1 batang sereh
@@ -3832,7 +3832,7 @@ Tambah kan air. Masukan daging ny dan. Tunggu sampai mendidih. Setelah mendidih 
 Langkah 4
 Kasih garam gula dan penyedap cek rasa
 Langkah 5
-Tunggu sampai air surut. daging empuk dan matang","Rp20,000",0
+Tunggu sampai air surut. daging empuk dan matang","Rp20,000",0,https://drive.google.com/file/d/1hIAEYQs8xMNR9UM8u733m5qmxpE0OfYI/view?usp=sharing
 Kikil Tempe Cabe Ijo ala anak Kos,"Kikil dan tempe yang dimasak dengan bumbu cabe ijo, menciptakan hidangan yang gurih dan pedas.","250 gr kikil sapi
 4 ribu Tempe
 secukupnya Cabe ijo keriting
@@ -3857,7 +3857,7 @@ Iris tipis bawang merah dan cabe. Panaskan minyak, tumis bawang putih giling hin
 Langkah 5
 Masukkan kikil, tempe dan kecap manis. Aduk hingga rata kemudian tambahkan air secukupnya.
 Langkah 6
-Tunggu hingga air sedikit menyusut, kemudian tambahkan kaldu jamur dan garam lalu koreksi rasa.","Rp15,000",Kedelai
+Tunggu hingga air sedikit menyusut, kemudian tambahkan kaldu jamur dan garam lalu koreksi rasa.","Rp15,000",Kedelai,https://drive.google.com/file/d/12mdCaumNHrzINZOCuCNUpjK3qMOube60/view?usp=sharing
 Terong Crispy (+Pedas Asin Cabe Garam),Terong yang digoreng hingga renyah dengan tambahan bumbu pedas asin cabe garam.,"5 buah Terong (boleh kurang boleh lebih, sesuaikan saja)
 Pedas Asin (Cabe Garam)
 10 biji Cabe rawit iris
@@ -3888,7 +3888,7 @@ Jangan nunggu gosong! Masukkan juga irisan bawang merahnya, lalu potongan cabe r
 Langkah 8
 Setelah harum, masukkan terong crispy yang sudah digoreng. Aduk rata sampai tercampur semuanya. Jangan lupa tambah garam ya. Jika dirasa cukup, matikan api
 Langkah 9
-Taraaa. Jadi deh!","Rp10,000","Seafood,udang"
+Taraaa. Jadi deh!","Rp10,000","Seafood,udang",https://drive.google.com/file/d/1gFnNkARyUrwhIlAkUK6Uy9LdFrScqoDh/view?usp=sharing
 Sandwich Panggang Murah dan Simple ala Anak Kost,"Sandwich yang dipanggang dengan bahan sederhana, cocok untuk hidangan praktis dan hemat.","3 buah Roti Tawar
 1 buah Telur
 Secukupnya Kornet Sapi
@@ -3902,7 +3902,7 @@ Oleskan margarin di masing masing roti tawar dan panci listrik/alat panggangan. 
 Langkah 3
 Selanjutnya, goreng kornet hingga harum. Lalu sisihkan.
 Langkah 4
-Step selanjutnya, atur tatanan sandwich (roti yg sudah dipanggang, telur yang sudah digoreng, kemudian tambahkan kornet yang sudah digoreng, lalu tambahkan saos sambal. Tutup roti dengan bentuk segitiga, seperti gambar. Makanan siap dihidangkan","Rp10,000","Telur,Gandum"
+Step selanjutnya, atur tatanan sandwich (roti yg sudah dipanggang, telur yang sudah digoreng, kemudian tambahkan kornet yang sudah digoreng, lalu tambahkan saos sambal. Tutup roti dengan bentuk segitiga, seperti gambar. Makanan siap dihidangkan","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1Sl8SK639vC5xZyie61azhLWe-6Loxzec/view?usp=sharing
 Rapokki Simple porsi anak kost,"Rapokki yang dibuat dengan bahan dan cara yang sederhana, cocok untuk porsi anak kost.","1 bungkus mie instan korea
 1 buah sosis sapi, potong sesuai selera
 1 batang daun bawang, iris kasar
@@ -3918,7 +3918,7 @@ Siapkan bahan
 Langkah 2
 Buat toppokinya dulu ya: campur jadi satu tepung beras dan tapioka. Tambahkan kecap asin. Masukkan air panas sedikit demi sedikit sambil diaduk, bila sudah hangat aduk dengan tangan sampai kalis. Bentuk memanjang seperti pensil, potong- potong kira-kira 5 cm. Sisihkan.
 Langkah 3
-Didihkan air, masukkan bumbu mie, mie, sosis dan toppokinya juga. Masak sampai matang. Tuang di mangkuk. Taburi atasnya dengan daun bawang, bawang bombay dan keju. Sajikan.","Rp15,000","Kedelai,susu,Gandum"
+Didihkan air, masukkan bumbu mie, mie, sosis dan toppokinya juga. Masak sampai matang. Tuang di mangkuk. Taburi atasnya dengan daun bawang, bawang bombay dan keju. Sajikan.","Rp15,000","Kedelai,susu,Gandum",https://drive.google.com/file/d/1r6whGXMdZW9LKMRIu3pPynNi989e_Xn_/view?usp=sharing
 Nasi Kepal Goreng Isi Kornet (Edisi Anak Kos),"Nasi yang digulung dan digoreng dengan isi kornet, hidangan yang praktis dan mengenyangkan.","Nasi (1 cup beras)
 Bubuk cabe (optional)
 Bubuk kaldu jamur/ayam/sapi (disini aku pake yang jamur)
@@ -3949,7 +3949,7 @@ Panaskan minyak di panci ajaib, minyaknya agak banyak ya biar nasi kepal pas dig
 Langkah 8
 Nasi kepal goreng sudah jadi nih dan siap untuk dikonsumsi. Selamat mencoba ya teman teman
 Langkah 9
-TAMBAHAN- Kuah Telur. Buat yang suka pakai kuah juga bisa ditambahkan kuah telur selagi disantap bersama nasi kepal goreng nya. Bahannya bawang putih digeprek lalu dipotong potong dadu. Tumis bawang putih hingga harum, masukkan air sesuai selera. Tambahkan kaldu jamur dan lada secukupnya, tambahkan 1 butir telur lalu aduk aduk deh. Koreksi rasanya ya jika suka agak manis bisa ditambahkan gula pasir sedikit.","Rp10,000","Telur,Gandum"
+TAMBAHAN- Kuah Telur. Buat yang suka pakai kuah juga bisa ditambahkan kuah telur selagi disantap bersama nasi kepal goreng nya. Bahannya bawang putih digeprek lalu dipotong potong dadu. Tumis bawang putih hingga harum, masukkan air sesuai selera. Tambahkan kaldu jamur dan lada secukupnya, tambahkan 1 butir telur lalu aduk aduk deh. Koreksi rasanya ya jika suka agak manis bisa ditambahkan gula pasir sedikit.","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1OYelFM3xyvz_pUsXwxhUbo7L6e4W8lBd/view?usp=sharing
 Perkedel Kentang Kornet ala anak kos,"Perkedel kentang yang ditambahkan kornet sebagai variasi, cocok sebagai lauk atau camilan.","3 - 4 kentang
 2 bks kornet sapi
 2 buah telur
@@ -3965,7 +3965,7 @@ Cincang bawang putih dan bawang merah. Panaskan minyak dna tumis bawang hingga h
 Langkah 3
 Campurkan kornet ke kentang dan campur hingga rata. Tambahkan lada, garam, kaldu jamur lalu koreksi rasa. Pecahkan 1 telur dan ambil kuningnya. Campurkan ke adonan kentang hingga rata.
 Langkah 4
-Pecahkan 1 telur lagi dan campurkan dengan putih telur yang satunya lalu kocok lepas. Bentuk kentang menjadi pipih dan balurkan ke telur. Panaskan minyak lalu goreng perkedel hingga kecokelatan. Perkedel siap dihidangkan.","Rp10,000",Telur
+Pecahkan 1 telur lagi dan campurkan dengan putih telur yang satunya lalu kocok lepas. Bentuk kentang menjadi pipih dan balurkan ke telur. Panaskan minyak lalu goreng perkedel hingga kecokelatan. Perkedel siap dihidangkan.","Rp10,000",Telur,https://drive.google.com/file/d/1rNtZUucn7uaNC8929Er8vJ1ngTPIMCo6/view?usp=sharing
 Mie Goreng Sederhana / Mie Goreng Jawa / Resep Mie Burung Dara [Resep Diet Anak Kos],"Mie goreng dengan bumbu sederhana atau bumbu khas Jawa, atau resep mie burung dara yang cocok untuk anak kos yang sedang diet.","1 keping Mie Burung Dara
 50 gr Dada Ayam
 2 Butir Bakso Sapi
@@ -3984,7 +3984,7 @@ Langkah 2
 Uleg bawang putih, cabe, kemiri. Masak ayam, bakso, dan sayuran dengan bumbu lalu tambahkan saos tiram. Tambahkan sedikit air, tunggu daging dan sayuran matang dan air menyusut.
 Mie Goreng Sederhana / Mie Goreng Jawa / Resep Mie Burung Dara [Resep Diet Anak Kos] langkah memasak 2 foto
 Langkah 3
-Masukkan mie, campurkan dengan bahan lainnya. Tambahkan tomat, koreksi rasa. Hidangkan.","Rp10,000","Kedelai,Seafood,Gandum"
+Masukkan mie, campurkan dengan bahan lainnya. Tambahkan tomat, koreksi rasa. Hidangkan.","Rp10,000","Kedelai,Seafood,Gandum",https://drive.google.com/file/d/1-ZMjm2V-RvjGKUpZl5nTcmBypuFNytSC/view?usp=sharing
 Bibimbap ala anak kost,"Hidangan nasi campur ala Korea dengan variasi bahan dan saus, cocok untuk anak kos yang ingin mencoba masakan internasional.","Bumbu cumi
 15 buah cumi (potong ring)
 20 sendok cabe merah goreng
@@ -4014,7 +4014,7 @@ Timun diparut
 Langkah 5
 Telor mata sapi kuningnya setengah masak biar cantik
 Langkah 6
-Lalu masukkan nasi kedalam mangkuk, dan susun semua bahan yg sudah kita masak tadi diatas nasi, dan telor mata sapinya ditengah","Rp20,000",Seafood
+Lalu masukkan nasi kedalam mangkuk, dan susun semua bahan yg sudah kita masak tadi diatas nasi, dan telor mata sapinya ditengah","Rp20,000",Seafood,https://drive.google.com/file/d/1HlFpUHWCK7X-UNPC2GBOvk0aksi_sWrL/view?usp=sharing
 Sushi Telur (ala anak kos),"Sushi dengan isian telur yang sederhana dan praktis, cocok sebagai camilan atau hidangan ringan.","1 lembar seaweed
 Nasi
 Telur
@@ -4035,7 +4035,7 @@ Setelah itu tambahkan telur di atas nasi. Kemudian gulung.
 Langkah 6
 Setelah di gulung potong-potong menjadi beberapa bagian.
 Langkah 7
-Tambahkan wijen, saos sambal dan mayonaise sesuai selera.","Rp15,000",Telur
+Tambahkan wijen, saos sambal dan mayonaise sesuai selera.","Rp15,000",Telur,https://drive.google.com/file/d/1YZcj8BXrLgylm0-UC35i1ZYIEB5lMWTS/view?usp=sharing
 Enoki Tahu Telur Ala Anak Kost,"Jamur enoki dan tahu telur yang dimasak dengan bumbu sederhana, menghasilkan hidangan yang lezat dan bergizi.","2 bungkus jamur enoki
 1 bungkus tahu telur
 secukupnya tepung maizena
@@ -4057,7 +4057,7 @@ Rajang bawang merah dan putih lalu, tumis hingga harum
 Langkah 4
 Masukan enoki ke tumisan bawang, tumis sampai layu. Kemudian masukan air dan bahan-bahan saus, garam, dan lada. Aduk sebentar. Setelah tercampur masukan tahu telur yang sudah digoreng dan tunggu sampai air menyusut
 Langkah 5
-Setelah air menyusut, tambahkan irisan cabe merah dan bawang daun (kalau ada) koreksi rasa. Jika sudah cukup, bisa disajikan.","Rp15,000","Telur,Kedelai"
+Setelah air menyusut, tambahkan irisan cabe merah dan bawang daun (kalau ada) koreksi rasa. Jika sudah cukup, bisa disajikan.","Rp15,000","Telur,Kedelai",https://drive.google.com/file/d/1DZW4gFh5thRUr9AMkXA9NOjEVQXJUyiJ/view?usp=sharing
 Lumpia Goreng Kuah Cuko Ala Anak Kos,"Lumpia yang digoreng dengan tambahan kuah cuko sebagai pelengkapnya, menciptakan hidangan yang gurih dan segar.","Adonan Kulit Lumpia
 10 sdm tepung terigu
 3 sdm tepung kanji
@@ -4093,7 +4093,7 @@ Aduk sampai rata, lalu oseng telur di atas wajan yg di beri sedikit minyak.
 Oseng telur jangan sampai kering, setelah itu masukkan kentang dan udang aduk sampai rata semua.
 Langkah 3
 Kuah Cuko :
-Tumis bawang sebentar, masukkan semua bahan aduk sampai rata. Setelah mendidih matikan kompor","Rp10,000","Telur,Kedelai,udang,Gandum"
+Tumis bawang sebentar, masukkan semua bahan aduk sampai rata. Setelah mendidih matikan kompor","Rp10,000","Telur,Kedelai,udang,Gandum",https://drive.google.com/file/d/190x8WPUCU4QOd-UOnfx19Y6eKxZhOssX/view?usp=sharing
 Steak Tempe Ala Anak Kos,"Potongan tempe yang dimasak seperti steak, hidangan yang praktis dan lezat.","Bahan Adonan Steak Tempe
 1 batang Tempe
 2 sdm Tepung Terigu
@@ -4129,7 +4129,7 @@ Tambahkan saus tiram, kaldu jamur, saus tomat, sambal sachet, kecap
 Langkah 9
 Aduk sampai rata, tambahkan air
 Langkah 10
-Setelah mendidih tambahkan tepung maizena yg sudah di encerkan","Rp15,000","Telur,Kedelai,Gandum"
+Setelah mendidih tambahkan tepung maizena yg sudah di encerkan","Rp15,000","Telur,Kedelai,Gandum",https://drive.google.com/file/d/1oyjSuq5zujutGo_OrUWTir_1iL_6w_nz/view?usp=sharing
 Telur Balado Simpel Anak Kosan,idangan telur yang dimasak dengan bumbu balado ala anak kos yang disantap sebagai lauk pendamping nasi atau bisa juga dijadikan sebagai camilan yang menggugah selera,"2 telur ayam
 2 siung bawang putih
 6 siung bawang merah
@@ -4147,7 +4147,7 @@ Sambil menunggu telur matang, siapkan bumbu untuk dihaluskan. Jika pakai blender
 Langkah 3
 Goreng telur sebentar dengan minyak sedikit agar tidak mudah hancur. Bolak-balik agar sebagian besar permukaan telur tergoreng. (Tips: Gunakan penggorengan anti lengket, jika penggorengan lengket bisa skip saja step ini, tapi lebih hati-hati saat mengaduk telur nanti)
 Langkah 4
-Panaskan minyak goreng, tumis bumbu halus sampai wangi, masukan penyedap rasa, gula dan garam. (Tips: menambahkan sepotong kecil gula aren membuat lebih sedap). Tambahkan air sedikit agar tidak gosong. Koreksi rasa. Lalu masukan telur, aduk dengan bumbu, tunggu sebentar sampai bumbu asat (boleh juga langsung diangkat karena telur pada dasarnya sudah matang). Matikan kompor. Makan dengan nasi hangat biar maknyuss :)","Rp10,000","Telur,Seafood"
+Panaskan minyak goreng, tumis bumbu halus sampai wangi, masukan penyedap rasa, gula dan garam. (Tips: menambahkan sepotong kecil gula aren membuat lebih sedap). Tambahkan air sedikit agar tidak gosong. Koreksi rasa. Lalu masukan telur, aduk dengan bumbu, tunggu sebentar sampai bumbu asat (boleh juga langsung diangkat karena telur pada dasarnya sudah matang). Matikan kompor. Makan dengan nasi hangat biar maknyuss :)","Rp10,000","Telur,Seafood",https://drive.google.com/file/d/1BGgcMGzKhGw0UCnSI0Vi8IieH2gVTbTF/view?usp=sharing
 GOGUMA BREAD (ala anak kost),roti dengan isian ubi manis yang diolah ala anak kos. Roti ini memiliki rasa manis dan tekstur lembut yang dipadukan dengan ubi manis yang lembut dan kaya akan cita rasa.,"6 sisir Roti tawar
 4 buah Ubi ungu
 1 sdm Gula pasir
@@ -4163,7 +4163,7 @@ Keempat,kalo kelebihan buat nya bisa di wrab dimasukan kulkas dehh
 Langkah 5
 Kelima, langsung goreng di minyak goreng yang panas. Sampai warnanya kecoklatan gitu,terus potong jadi 4 bagian.
 Langkah 6
-Jadi dehhh, selamat mencoba.","Rp5,000","Telur,Gandum"
+Jadi dehhh, selamat mencoba.","Rp5,000","Telur,Gandum",https://drive.google.com/file/d/1VrpGcsvA1L-F6xQAHXOG3M5F2FjGM913/view?usp=sharing
 Bubur telur dadar ala anak kos simple dan maknyus,"Perkedel tahu yang praktis dan lezat, cocok sebagai lauk atau camilan.","1 kaleng beras
 1 botol Aqua besar
 1/4 lada bubuk
@@ -4186,7 +4186,7 @@ Setelah matang diemin dulu. Kita lanjut masak telur dadar nya
 Langkah 7
 1 telur pakai Royco lalu di kocok. Panaskan wajan dengan api sedang sambil memasukkan minyak secukupnya setelah panas masukkan telur nya. Bulak balik telur agar tidak gosong
 Langkah 8
-Masukkan bubur kedalam mangkuk dan telur kedalam piring. Bubur telur dadar dah jadi waktu nya di santap.oiya jangan lupa masukkin kecap biar makin maknyusss. Selamat makan dan mencoba. Jangan lupa bissmillah","Rp10,000","Telur,Kedelai"
+Masukkan bubur kedalam mangkuk dan telur kedalam piring. Bubur telur dadar dah jadi waktu nya di santap.oiya jangan lupa masukkin kecap biar makin maknyusss. Selamat makan dan mencoba. Jangan lupa bissmillah","Rp10,000","Telur,Kedelai",https://drive.google.com/file/d/1d_WDniXZuJcwTrmbrwGgJLXvDCVcrPG1/view?usp=sharing
 Perkedel tahu anak kos," Perkedel tahu anak kos merupakan pilihan yang ekonomis dan mengenyangkan, menjadi favorit bagi mahasiswa kos-kosan yang ingin menikmati hidangan lezat dengan bahan yang mudah didapatkan dan mudah diolah.","10 buah tahu
 1-2 siung bawang merah (tergantung besarnya
 2 siung bawang putih
@@ -4195,7 +4195,7 @@ Perkedel tahu anak kos," Perkedel tahu anak kos merupakan pilihan yang ekonomis 
 minyak goreng","tahu,bawang merah,bawang putih,telur,tepung",100,8,8,10,1,"Langkah 1
 Cincang bawang merah, bawang putih, dan cabai, hancurkan tahu dan masukkan semua bahan dan aduk rata
 Langkah 2
-Panaskan minyak dan goreng tahu dibentuk dengan sendok makan","Rp5,000","Telur,Kedelai"
+Panaskan minyak dan goreng tahu dibentuk dengan sendok makan","Rp5,000","Telur,Kedelai",https://drive.google.com/file/d/15NQp4y595W2yrW7FTnOjriTijs_nZg9w/view?usp=sharing
 Sambal Kacang Panjang Teri Telur Puyuh (ala anak kos),"Kacang panjang, teri, dan telur puyuh yang dimasak dengan bumbu sambal kacang, menciptakan hidangan yang pedas dan lezat.","Teri
 6 butir telur puyuh
 Kacang panjang
@@ -4218,7 +4218,7 @@ Masukkan kacang panjang kemudian aduk.
 Langkah 5
 Masukkan sambal yang sudah di ulek dan daun bawang, kemudian aduk hingga merata.
 Langkah 6
-Tambahkan telur puyuh, penyedap rasa dan garam secukupnya. Aduk hingga merata. Bila sudah matang siap di santap dengan nasi hangat","Rp10,000","Telur,Kacang"
+Tambahkan telur puyuh, penyedap rasa dan garam secukupnya. Aduk hingga merata. Bila sudah matang siap di santap dengan nasi hangat","Rp10,000","Telur,Kacang",https://drive.google.com/file/d/1E3TWIU9O5-zDFNEvja-Rt8UPulfPpgoH/view?usp=sharing
 Salad Saus Kuning Telur (Ala Anak Kos),"Salad dengan saus kuning yang menggunakan telur sebagai bahan utama, cocok sebagai hidangan sehat dan segar.","Bahan salad:🥬
 1 ikat selada
 1 bh tomat
@@ -4242,7 +4242,7 @@ Diaduk-aduk😗
 Langkah 7
 Dan masukkan putih telur yang direbus tadi dan tomat. Bisa juga ditaburi bawang merah goreng😇
 Langkah 8
-Nah, ini dia. Bisa untuk bekal kak. Bisa buat sarapan atau makan malam yang ga berat kalau males pake nasi. Perbaikannya: porsi selada dan saus nya disesuaikan. Kalau yang ini kebanyakan selada nya dibanding sausnya ","Rp10,000",Telur
+Nah, ini dia. Bisa untuk bekal kak. Bisa buat sarapan atau makan malam yang ga berat kalau males pake nasi. Perbaikannya: porsi selada dan saus nya disesuaikan. Kalau yang ini kebanyakan selada nya dibanding sausnya ","Rp10,000",Telur,https://drive.google.com/file/d/1euEnmcZccAbR7vdhlNGwLeMkP3-LP3gr/view?usp=sharing
 Sayur bayam with ayam dan telur sederhana anak kos,"Sayur bayam dengan tambahan ayam dan telur, menciptakan hidangan yang bergizi dan lezat.","1 ikat bayam
 3 siung bawang putih
 1/2 bawang bombai
@@ -4265,7 +4265,7 @@ Setelah setengah matang masukkan bawang bombai, cabe, ayam sampai matang lalu ma
 Langkah 4
 Masukkan saos tiram, garam, totole, lada, bayam, air aduk hingga matang lalu diicip yak guys
 Langkah 5
-Jika semua sudah pas dan matang matikan kompor lalu sajikan jan lupa di taburi bawang merah goreng yakkk","Rp10,000",Telur
+Jika semua sudah pas dan matang matikan kompor lalu sajikan jan lupa di taburi bawang merah goreng yakkk","Rp10,000",Telur,https://drive.google.com/file/d/1ekpv6U2W7ma2hglBKmqU_xQVw6GPo8va/view?usp=sharing
 Sego pecel ala anak kosan,"Nasi pecel yang disajikan dengan berbagai sayuran dan bumbu, hidangan yang praktis dan lezat.","Sayuran (kangkung, wortel, kacang panjang)
 Kacang tanah
 Bawang merah
@@ -4287,7 +4287,7 @@ Lalu siapkan minyak panas secukupnya, masukan bumbu yang udah diuleg tadi lalu m
 Langkah 4
 Lalu goreng tempe yang sudah diiris tpis dibalurkan pada tepung bumbu kobe, lalu goreng hingga matang
 Langkah 5
-Setelah itu siap dihidangkan bersama nasi panas, jadi deh sego pecel tempe goreng nyaa :)","Rp10,000","Telur,Kacang,Kedelai"
+Setelah itu siap dihidangkan bersama nasi panas, jadi deh sego pecel tempe goreng nyaa :)","Rp10,000","Telur,Kacang,Kedelai",https://drive.google.com/file/d/1icjvKssC_KQY_a-8NpTeu0HteXk9ivOF/view?usp=sharing
 Tteokbokki / Korea Rice Cake Sauce MUDAH BANGET BUAT ANAK KOST,"Tteokbokki, hidangan Korea yang terbuat dari rice cake dengan saus khas, mudah untuk dibuat oleh anak kos.","Bahan kue Berasnyaaa
 140 gr Tepung Beras
 120 gr Tepung Tapioka
@@ -4327,7 +4327,7 @@ Langkah 9
 Selanjutnya, masukkan 2 sdm saos Toppoki Mama Suka rasa Hot Spicy  Langkah 10
 Aduk-aduk hingga rata dan masak hingga rada mengental. Jangan lupa untuk koreksi rasa juga bila mana ada yang kurang bisa menambahkan kekurangannya.
 Langkah 11
-Jika sudah matang sajikan dengan toping bijiwijen/telur rebus/ daun bawang 🤩🤩😍","Rp10,000","Telur,Kedelai"
+Jika sudah matang sajikan dengan toping bijiwijen/telur rebus/ daun bawang 🤩🤩😍","Rp10,000","Telur,Kedelai",https://drive.google.com/file/d/1ibZEEZZdk74gYYnTIHGoWs6F5vuSYEtd/view?usp=sharing
 Nashville hot chicken ala anak kost,"Ayam goreng pedas ala Nashville, hidangan yang menggugah selera dan cocok untuk anak kos yang suka pedas.","250 gram dada ayam fillet
 Bahan basah
 1 sdt garam
@@ -4353,7 +4353,7 @@ Keluarkan ayam dari kulkas lalu masukan satu persatu ke bumbu kering-bumbu basah
 Langkah 5
 Goreng di minyak panas
 Langkah 6
-Siap disajikan","Rp20,000","Telur,susu"
+Siap disajikan","Rp20,000","Telur,susu",https://drive.google.com/file/d/1boq2lVzS7FRezrKY6B8bV7ROC698zElB/view?usp=sharing
 Mie dog2 burjo ala anak kost,"Mie dengan variasi bumbu dan topping ala warung burjo, cocok sebagai hidangan praktis dan murah.","1 bungkus Ind*mie Ayam Bawang
 1 butir telur ayam
 Sawi hijau
@@ -4372,7 +4372,7 @@ Masukkan bahan2 yang sudah di potong, lalu aduk hingga mendidih
 Langkah 5
 Matikan kompor lalu masukan bumbu mie, cabe setan dan saos sesuai selera
 Langkah 6
-Jadi deh 😁","Rp10,000","Telur,Gandum"
+Jadi deh 😁","Rp10,000","Telur,Gandum",https://drive.google.com/file/d/1Kfur5fh7vF_9V-k-VRuGUhJKq9CNpaJR/view?usp=sharing
 Rabokki anak kost,"Campuran antara ramen dan tteokbokki, menciptakan hidangan yang unik dan lezat.","Mie kemasan, apa aja..tapi bumbu nya jangan di masukin ya
 Bawang daun (sesuai selera)
 Gochugaru atau bubuk cabe
@@ -4403,7 +4403,7 @@ Setelah rasanya sudah cukup atau sesuai. Matikan kompor dan siap disajikan di ma
 Selamat menikmatiiii.
 Langkah 6
 Oiya,kalau mau di tambah wortel boleh ya, di iris korek api gitu.
-Di tambahin tahu putih juga enaak hihii","Rp15,000","Telur,Gandum"
+Di tambahin tahu putih juga enaak hihii","Rp15,000","Telur,Gandum",https://drive.google.com/file/d/1OGgLxU5WI26MYase51PAbNDWmQiJKlX-/view?usp=sharing
 Perkedel Tempe Ala Anak Kos,"Perkedel tempe yang praktis dan enak, cocok sebagai lauk atau camilan.","5 kotak tempe
 1/2 sendok teh lada
 secukupnya Garam
@@ -4423,7 +4423,7 @@ Tambahkan perlahan lahan tepung terigu sebanyak 3 sendok makan
 Langkah 6
 Bentuk gepeng gepeng
 Langkah 7
-Panaskan minyak lalu goreng hingga matang","Rp5,000","Telur,Kedelai,Gandum"
+Panaskan minyak lalu goreng hingga matang","Rp5,000","Telur,Kedelai,Gandum",https://drive.google.com/file/d/1Tp16dWyydx2lsCgqWwBlfp1lTYdikkSe/view?usp=sharing
 Nugget tempe praktis dan cepat ala anak kost,"Nugget tempe yang mudah dan cepat dibuat, cocok sebagai camilan atau lauk.","A. Bahan Nugget :
 1 kotak tempe
 3 sdm tepung
@@ -4445,7 +4445,7 @@ Hancurkan tempe dan campur dengan bawang putih dan cabai yang telah dihaluskan. 
 Langkah 3
 Setelah tercampur taruh adonan di wadah dan tutup rapat atau di plastik dan kukus kembali hingga matang.
 Langkah 4
-Setelah dkukus dinginkan kukusan tempe. kemudian iris2 sesuai selera","Rp10,000","Telur,Kedelai,Gandum"
+Setelah dkukus dinginkan kukusan tempe. kemudian iris2 sesuai selera","Rp10,000","Telur,Kedelai,Gandum",https://drive.google.com/file/d/17nlxsJo30vc2zbOUi3IbflkATbPTqRap/view?usp=sharing
 Menu ceker favorit anak kost,"Hidangan ceker yang menjadi favorit anak kos, menciptakan hidangan yang gurih dan mengenyangkan.","1/2 ceker ayam
 Bumbu yg di haluskan (merica, cabe, bawang putih, kemiri, tomat)
 Kemangi
@@ -4454,14 +4454,14 @@ Rebus ceker tambahkan esbatu ga juga gapapa
 Langkah 2
 Tumis bumbu halus dan masukan cekernya tambahkan telur dan kemangi sesuai selera
 Langkah 3
-Jadi deh ceker favorit","Rp10,000",Telur
+Jadi deh ceker favorit","Rp10,000",Telur,https://drive.google.com/file/d/1GrM42Z0t6P1eDJjdpqX9ZXTWdTAZtS9W/view?usp=sharing
 Nasi goreng rendang ala anak kost,"Nasi goreng dengan tambahan bumbu rendang, menciptakan hidangan yang lezat dan berbeda.","Nasi Putih Dingin
 Bawang Bombay
 1 bungkus Bumbu Indofood Rendang
 1 buah Telur","Nasi,Bawang, Telur",400,15,15,60,1,"Langkah 1
 Tumis Bawang bombay hingga harum dan warnanya kecoklatan, masukan nasi yang sudah dingin terakhir masukan bumbu indofood rendang dan masak hingga merata.
 Langkah 2
-Buat telur dadar dan sajikan bersama nasi goreng rendang. Tadaaa, bisa ditambahkan apapun sesuai selera. Bisa tambah kerupuk, tambah abon sapi, atau juga ayam suwir, lebih enak ditambah daging rendang asli hihi","Rp15,000",Telur
+Buat telur dadar dan sajikan bersama nasi goreng rendang. Tadaaa, bisa ditambahkan apapun sesuai selera. Bisa tambah kerupuk, tambah abon sapi, atau juga ayam suwir, lebih enak ditambah daging rendang asli hihi","Rp15,000",Telur,https://drive.google.com/file/d/1oU4i5LtYwjpU0jTHzDfEiDLHZlQ6RFoQ/view?usp=sharing
 Tahu telor geprek dadu pedas,"Tahu dan telur yang digeprek dengan bumbu pedas, menciptakan hidangan yang pedas dan menggugah selera.","2 butir telur
 secukupnya Daun bawang
 2 kotak Tahu
@@ -4506,8 +4506,8 @@ Jika minyak sudah sangat panas, tuangkan ke atas sambal, hingga berbunyi ""kress
 Langkah 18
 Aduk sambal yang sudah dikasih minyak panas hingga rata, sambal akan terlihat lebih glowing dari sebelumnya
 Langkah 19
-Tambahkan tahutelor yang sudah jadi diatas sambal, lalu geprek. Dan siap dimakan","Rp10,000","Telur,Kedelai,udang"
-Udang tepung crispy ,"Udang yang digoreng dengan balutan tepung crispy, menciptakan hidangan yang renyah dan lezat.","500 gr udang
+Tambahkan tahutelor yang sudah jadi diatas sambal, lalu geprek. Dan siap dimakan","Rp10,000","Telur,Kedelai,udang",https://drive.google.com/file/d/1yXhhtRyZVL5n61wVvtMfrTZGJeGNHCnw/view?usp=sharing
+Udang tepung crispy,"Udang yang digoreng dengan balutan tepung crispy, menciptakan hidangan yang renyah dan lezat.","500 gr udang
 1 bungkus tepung sajiku
 1 telor
 lada bubuk
@@ -4520,4 +4520,4 @@ Kocok lepas telur dan bumbu-bumbu yang lain. rendam udang dalam kocokan telur ku
 Langkah 3
 Ambil udang yang berlumur telur kemudian gulingkan ke dalam tepung sajiku, celupkan ketelur lagi dan gulingkan lagi kedalam tepung sajiku (ulangi ini sampai udang terlumur dengan tebal sesuai selera).
 Langkah 4
-Kemudian goreng udang dalam minyak yang panas (pastikan benar benar panas supaya hasil lebih kriuk) goreng dengan api sedang lebih ke kecil. angkat setelah udang berwarna kuning-kecoklatan","Rp20,000",udang
+Kemudian goreng udang dalam minyak yang panas (pastikan benar benar panas supaya hasil lebih kriuk) goreng dengan api sedang lebih ke kecil. angkat setelah udang berwarna kuning-kecoklatan","Rp20,000",udang,https://drive.google.com/file/d/1MXzL3DdQ3NPG3A2sNirPbvpwf05RkZr1/view?usp=sharing

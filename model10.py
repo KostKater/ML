@@ -40,22 +40,21 @@ def load_model():
     model = tf.keras.models.load_model('rekomendasi.h5')
     return model
 
-def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, alergi, kehalalan, harga):
+def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, alergi, kehalalan, harga_min,harga_max,bahan_dasar_input):
     bahan_dasar_input_text = ' '.join(bahan_dasar)
     tfidf_input = vectorizer.transform([bahan_dasar_input_text])
     prediction = model.predict(tfidf_input.toarray())
     similarities = cosine_similarity(prediction, tfidf_matrix)
     indeks_item_relevan = np.argsort(similarities.ravel())[::-1][:10]
     makanan_rekomendasi = data['Nama Makanan'].iloc[indeks_item_relevan].tolist()
-    filtered_makanan_rekomendasi = filter_meal_plan(data, alergi, kehalalan, harga)
+    bahan_dasar_input = ','.join(bahan_dasar)
+    filtered_makanan_rekomendasi = filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar_input)
     filtered_makanan_rekomendasi = filtered_makanan_rekomendasi['Nama Makanan'].tolist()
     rekomendasi_final = list(set(makanan_rekomendasi) & set(filtered_makanan_rekomendasi))
     return rekomendasi_final
 
-
-def filter_meal_plan(data, alergi, kehalalan, harga_max):
+def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar):
     data_filtered = data
-
     if alergi != '0':
         alergi_list = alergi.split(',')
         for alergi_item in alergi_list:
@@ -65,5 +64,10 @@ def filter_meal_plan(data, alergi, kehalalan, harga_max):
     elif kehalalan == '1':
         data_filtered = data_filtered[data_filtered['Kehalalan'] == 1]
     data_filtered.loc[:, 'Harga'] = data_filtered['Harga'].str.replace('Rp', '').str.replace(',', '').astype(int)
-    data_filtered = data_filtered[data_filtered['Harga'] <= harga_max]
+    data_filtered = data_filtered[(data_filtered['Harga'] >= harga_min) & (data_filtered['Harga'] <= harga_max)]
+    if bahan_dasar:
+        bahan_dasar_list = bahan_dasar.split(',')
+        for bahan_dasar_item in bahan_dasar_list:
+            data_filtered = data_filtered[data_filtered['Bahan Dasar'].str.contains(bahan_dasar_item, case=False, na=False)]
     return data_filtered
+
