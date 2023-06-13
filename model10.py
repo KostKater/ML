@@ -55,33 +55,30 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
     filtered_makanan_rekomendasi = filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar_input)
     filtered_makanan_rekomendasi = filtered_makanan_rekomendasi['Nama Makanan'].tolist()
     rekomendasi_final = list(set(makanan_rekomendasi) & set(filtered_makanan_rekomendasi))
-
-    print("Rekomendasi Meal Plan:")
+    rekomendasi_list = []
     if rekomendasi_final:
         for makanan in rekomendasi_final:
-            image_url = data[data['Nama Makanan'] == makanan]['Gambar'].values[0]
-            print("- " + makanan)
-            deskripsi = data[data['Nama Makanan'] == makanan]['Deskripi'].values[0]
-            bahan = data[data['Nama Makanan'] == makanan]['Bahan Makanan'].values[0]
-            resep = data[data['Nama Makanan'] == makanan]['Resep'].values[0]
-            kalori = data[data['Nama Makanan'] == makanan]['Kalori'].values[0]
-            karbohidrat = data[data['Nama Makanan'] == makanan]['Karbohidrat'].values[0]
-            lemak = data[data['Nama Makanan'] == makanan]['Lemak'].values[0]
-            protein = data[data['Nama Makanan'] == makanan]['Protein'].values[0]
-            print("Image URL:", image_url)
-            print("Deskripsi:", deskripsi)
-            print("Bahan Makanan:", bahan)
-            print("Resep:", resep)
-            print("kalori:", kalori)
-            print("karbohidrat:", karbohidrat)
-            print("Lemak:", lemak)
-            print("Protein:", protein)
+            meal = {}
+            meal['name'] = makanan
+            meal['deskripsi'] = data[data['Nama Makanan'] == makanan]['Deskripi'].values[0]
+            meal['img_url'] = data[data['Nama Makanan'] == makanan]['Gambar'].values[0]
+            meal['kehalalan'] = data[data['Nama Makanan'] == makanan]['Kehalalan'].values[0]
+            meal['nutrisi'] = {
+                'kalori': data[data['Nama Makanan'] == makanan]['Kalori'].values[0],
+                'lemak': data[data['Nama Makanan'] == makanan]['Lemak'].values[0],
+                'karbohidrat': data[data['Nama Makanan'] == makanan]['Karbohidrat'].values[0],
+                'protein': data[data['Nama Makanan'] == makanan]['Protein'].values[0]
+            }
+            meal['harga'] = data[data['Nama Makanan'] == makanan]['Harga'].values[0]
+            meal['recipe'] = {
+                'bahan Makanan': data[data['Nama Makanan'] == makanan]['Bahan Makanan'].values[0],
+                'resep': data[data['Nama Makanan'] == makanan]['Resep'].values[0]
+            }
+            rekomendasi_list.append(meal)
     else:
         print("Tidak ada rekomendasi makanan yang tersedia.")
-
-    return rekomendasi_final
-
-
+    
+    return rekomendasi_list
 def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar):
     if alergi.strip() == '':
         alergi = '0'
@@ -91,9 +88,11 @@ def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar)
         for alergi_item in alergi_list:
             data_filtered = data_filtered[~data_filtered['Alergi'].str.contains(alergi_item, case=False, na=False)]
     if kehalalan == '0':
-        data_filtered = data_filtered[data_filtered['Kehalalan'] == 0]
+        data_filtered = data_filtered[data_filtered['Kehalalan'].isin([0, 1])]
     elif kehalalan == '1':
         data_filtered = data_filtered[data_filtered['Kehalalan'] == 1]
+    else:
+        data_filtered = data_filtered[data_filtered['Kehalalan'] == 0]
     data_filtered.loc[:, 'Harga'] = data_filtered['Harga'].str.replace('Rp', '').str.replace(',', '').astype(int)
     data_filtered = data_filtered[(data_filtered['Harga'] >= harga_min) & (data_filtered['Harga'] <= harga_max)]
     if bahan_dasar:
