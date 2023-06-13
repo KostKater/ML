@@ -44,9 +44,6 @@ def load_model():
     model = tf.keras.models.load_model('rekomendasi.h5')
     return model
 
-def show_image(image_path):
-    image = Image.open(image_path)
-    image.show()
 def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, alergi, kehalalan, harga_min, harga_max, bahan_dasar_input):
     bahan_dasar_input_text = ' '.join(bahan_dasar)
     tfidf_input = vectorizer.transform([bahan_dasar_input_text])
@@ -63,7 +60,6 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
     if rekomendasi_final:
         for makanan in rekomendasi_final:
             image_url = data[data['Nama Makanan'] == makanan]['Gambar'].values[0]
-            image_path = download_image(image_url)
             print("- " + makanan)
             deskripsi = data[data['Nama Makanan'] == makanan]['Deskripi'].values[0]
             bahan = data[data['Nama Makanan'] == makanan]['Bahan Makanan'].values[0]
@@ -72,7 +68,7 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
             karbohidrat = data[data['Nama Makanan'] == makanan]['Karbohidrat'].values[0]
             lemak = data[data['Nama Makanan'] == makanan]['Lemak'].values[0]
             protein = data[data['Nama Makanan'] == makanan]['Protein'].values[0]
-
+            print("Image URL:", image_url)
             print("Deskripsi:", deskripsi)
             print("Bahan Makanan:", bahan)
             print("Resep:", resep)
@@ -80,19 +76,10 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
             print("karbohidrat:", karbohidrat)
             print("Lemak:", lemak)
             print("Protein:", protein)
-
-            show_image(image_path)
     else:
         print("Tidak ada rekomendasi makanan yang tersedia.")
 
     return rekomendasi_final
-
-def download_image(image_url):
-    response = requests.get(image_url)
-    image = Image.open(BytesIO(response.content))
-    image_path = "image.jpg"  # Path to save the image
-    image.save(image_path)
-    return image_path
 
 
 def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar):
