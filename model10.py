@@ -6,11 +6,7 @@ from sklearn.preprocessing import MultiLabelBinarizer
 import tensorflow as tf
 from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras.models import Model
-import requests
-from PIL import Image
-from io import BytesIO
-from IPython.display import display
-
+import re
 def load_data():
     data = pd.read_csv('MealPlan.csv')
     return data
@@ -49,7 +45,7 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
     tfidf_input = vectorizer.transform([bahan_dasar_input_text])
     prediction = model.predict(tfidf_input.toarray())
     similarities = cosine_similarity(prediction, tfidf_matrix)
-    indeks_item_relevan = np.argsort(similarities.ravel())[::-1][:10]
+    indeks_item_relevan = np.argsort(similarities.ravel())[::-1]
     makanan_rekomendasi = data['Nama Makanan'].iloc[indeks_item_relevan].tolist()
     bahan_dasar_input = ','.join(bahan_dasar)
     filtered_makanan_rekomendasi = filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar_input)
@@ -100,4 +96,15 @@ def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar)
         for bahan_dasar_item in bahan_dasar_list:
             data_filtered = data_filtered[data_filtered['Bahan Dasar'].str.contains(bahan_dasar_item, case=False, na=False)]
     return data_filtered
+
+def get_resep(data, nama_makanan):
+    resep = data[data['Nama Makanan'] == nama_makanan]['Resep'].values[0]
+    bahan = data[data['Nama Makanan'] == nama_makanan]['Bahan Makanan'].values[0]
+    
+    resep_list = resep.split("\n")
+    bahan_list = bahan.split("\n")
+    resep_list = [re.sub(r'Langkah \d+', '', step).strip().replace('\r', '') for step in resep_list if step.strip()]
+    resep_list = [step for step in resep_list if step]
+    
+    return resep_list, bahan_list
 
