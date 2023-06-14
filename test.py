@@ -15,8 +15,8 @@ if __name__ == '__main__':
         print("Nama Makanan:", rekomendasi['name'])
         print("=========")
     #print(recommendations)"""
-data = load_data()  # Mengambil data dari sumber Anda
-nama_makanan = 'Babi kecap kentang'  # Nama makanan yang ingin Anda dapatkan resepnya
+data = load_data() 
+nama_makanan = 'Babi kecap kentang' 
 
 resep_list, bahan_list = get_resep(data, nama_makanan)
 
