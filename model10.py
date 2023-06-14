@@ -53,7 +53,7 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
     rekomendasi_final = list(set(makanan_rekomendasi) & set(filtered_makanan_rekomendasi))
     rekomendasi_list = []
     if rekomendasi_final:
-        for makanan in rekomendasi_final:
+        for makanan in rekomendasi_final[:8]: 
             meal = {}
             meal['name'] = makanan
             meal['deskripsi'] = data[data['Nama Makanan'] == makanan]['Deskripi'].values[0]
