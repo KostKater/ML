@@ -1,4 +1,5 @@
-from model10 import load_data, preprocess_data, train_model, load_model, recommend_meal_plan,get_resep
+from model10 import load_data, preprocess_data, train_model, load_model, recommend_meal_plan,get_resep,get_all_meals
+""""
 if __name__ == '__main__':
     data = load_data()
     data, vectorizer, tfidf_matrix = preprocess_data(data)
@@ -14,8 +15,7 @@ if __name__ == '__main__':
         print("Nama Makanan:", rekomendasi['name'])
         print("=========")
     #print(recommendations)
-
-"""data = load_data() 
+data = load_data() 
 nama_makanan = 'Babi kecap kentang' 
 
 resep_list, bahan_list = get_resep(data, nama_makanan)
@@ -26,3 +26,7 @@ print(resep_list)
 print("\nBahan Makanan:")
 print(bahan_list)
 """
+data = load_data() 
+meals = get_all_meals(data)
+for meal in meals:
+    print(meal['name'])

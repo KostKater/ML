@@ -108,3 +108,24 @@ def get_resep(data, nama_makanan):
     
     return resep_list, bahan_list
 
+def get_all_meals(data):
+    meals = []
+    for _, row in data.iterrows():
+        meal = {}
+        meal['name'] = row['Nama Makanan']
+        meal['deskripsi'] = row['Deskripi']
+        meal['img_url'] = row['Gambar']
+        meal['kehalalan'] = row['Kehalalan']
+        meal['nutrisi'] = {
+            'kalori': row['Kalori'],
+            'lemak': row['Lemak'],
+            'karbohidrat': row['Karbohidrat'],
+            'protein': row['Protein']
+        }
+        meal['harga'] = row['Harga']
+        meal['recipe'] = {
+            'bahan Makanan': row['Bahan Makanan'],
+            'resep': row['Resep']
+        }
+        meals.append(meal)
+    return meals
