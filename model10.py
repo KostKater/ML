@@ -7,6 +7,7 @@ import tensorflow as tf
 from tensorflow.keras.layers import Input, Dense
 from tensorflow.keras.models import Model
 import re
+
 def load_data():
     data = pd.read_csv('MealPlan.csv')
     return data
@@ -52,6 +53,7 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
     filtered_makanan_rekomendasi = filtered_makanan_rekomendasi['Nama Makanan'].tolist()
     rekomendasi_final = list(set(makanan_rekomendasi) & set(filtered_makanan_rekomendasi))
     rekomendasi_list = []
+
     if rekomendasi_final:
         for makanan in rekomendasi_final[:8]: 
             meal = {}
@@ -75,6 +77,7 @@ def recommend_meal_plan(data, vectorizer, model, tfidf_matrix, bahan_dasar, aler
         print("Tidak ada rekomendasi makanan yang tersedia.")
     
     return rekomendasi_list
+    
 def filter_meal_plan(data, alergi, kehalalan, harga_min, harga_max, bahan_dasar):
     if alergi.strip() == '':
         alergi = '0'
