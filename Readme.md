@@ -35,6 +35,7 @@ The model utilizes a dataset (MealPlan.csv) containing information about various
 - Karbohidrat: Carbohydrate content of the meal plan.
 - Protein: Protein content of the meal plan.
 - Harga: Price of the meal plan.
+- Alergi: contains types of allergies that exist in food. 
 - Bahan Makanan: List of ingredients required for the meal plan.
 - Resep: Step-by-step instructions for preparing the meal plan.
  
