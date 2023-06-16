@@ -24,17 +24,17 @@ Filtering Options: You can further refine the recommendations by specifying addi
 Recipe and Ingredients: You can access the recipe and ingredient list for any recommended meal plan. The recipe includes step-by-step instructions for preparing the meal.
 
 **Data**                                            
-The model utilizes a dataset (MealPlan.csv) containing information about various meal plans. The dataset includes the following columns:
-+Nama Makanan: The name of the meal plan.
-+Deskripsi: A brief description of the meal plan.
-+Gambar: URL to an image representing the meal plan.
-+Bahan Dasar: Preprosesing from Bahan Makanan
-+Kehalalan: Halal status of the meal plan (0 = non-halal, 1 = halal).
-+Kalori: Caloric content of the meal plan.
-+Lemak: Fat content of the meal plan.
-+Karbohidrat: Carbohydrate content of the meal plan.
-+Protein: Protein content of the meal plan.
-+Harga: Price of the meal plan.
-+Bahan Makanan: List of ingredients required for the meal plan.
-+Resep: Step-by-step instructions for preparing the meal plan.
+The model utilizes a dataset (MealPlan.csv) containing information about various meal plans. The dataset includes the following columns:                                     
+- Nama Makanan: The name of the meal plan.                                                         
+- Deskripsi: A brief description of the meal plan.                                              
+- Gambar: URL to an image representing the meal plan.                                        
+- Bahan Dasar: Preprosesing from Bahan Makanan
+- Kehalalan: Halal status of the meal plan (0 = non-halal, 1 = halal).
+- Kalori: Caloric content of the meal plan.
+- Lemak: Fat content of the meal plan.
+- Karbohidrat: Carbohydrate content of the meal plan.
+- Protein: Protein content of the meal plan.
+- Harga: Price of the meal plan.
+- Bahan Makanan: List of ingredients required for the meal plan.
+- Resep: Step-by-step instructions for preparing the meal plan.
  
